@@ -21,3 +21,5 @@ tg://proxy?server=example.com&port=443&secret=ee00000000000000000000000000000000
     Telegram автоматически предложит подключиться через прокси
 
 Вы также можете вручную вставить ссылку прокси в настройках Telegram в разделе "Данные и хранилище" → "Прокси".
+
+[ENGLISH](https://github.com/PsoyNe/mtproto/blob/main/README.md)
