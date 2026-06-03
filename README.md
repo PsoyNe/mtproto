@@ -18,3 +18,5 @@ Example line: tg://proxy?server=example.com&port=443&secret=ee000000000000000000
     Telegram will automatically offer to connect using the proxy
 
 You can also manually paste the proxy link into Telegram's "Data and Storage" settings under "Proxy".
+
+[РУССКИЙ](https://github.com/PsoyNe/mtproto/blob/main/README_RU.md)
