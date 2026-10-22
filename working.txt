@@ -89,3 +89,7 @@ vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&e
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&sid=086bf957&type=tcp#FR
 vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.183:443?security=reality&encryption=none&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ww.remnahoysry.ru#US
 vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.183:443?security=reality&encryption=none&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ww.remnahoysry.ru#US
+# source:igareck updated:2026-10-22T13:19:07Z count:3
+vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&security=reality&sni=360.yandex.ru&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7&type=grpc&serviceName=&fp=safari#UNKNOWN
+vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&security=reality&sni=360.yandex.ru&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7&type=grpc&serviceName=&fp=chrome#UNKNOWN
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?security=reality&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&type=tcp&headerType=none&host=a0688bt.us4.h1clayd.click&path=%2F&fp=edge#UNKNOWN
