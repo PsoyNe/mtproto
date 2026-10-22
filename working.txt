@@ -83,3 +83,9 @@ vless://a500be68-4ff6-433b-9968-472be69fab14@germany02.azotvpn.xyz:443?spx=/&sec
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#PL
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#DE
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#GB
+# source:DukeMehdi updated:2026-10-22T13:18:06Z count:5
+vless://07104d25-afc5-4b3b-a871-c729c57de047@2.26.254.102:443?headerType=none&type=tcp&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&flow=xtls-rprx-vision&sni=rr.remnahoysry.ru&fp=chrome&security=reality&encryption=none#NL
+vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#DE
+vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&sid=086bf957&type=tcp#FR
+vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.183:443?security=reality&encryption=none&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ww.remnahoysry.ru#US
+vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.183:443?security=reality&encryption=none&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ww.remnahoysry.ru#US
