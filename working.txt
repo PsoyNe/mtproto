@@ -78,3 +78,8 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?secu
 vless://fd1d80da-3b27-457a-810b-2b28a309edc1@2.27.14.244:443?encryption=none&security=reality&pbk=uakxTTpl0pQZxA-wu_QEsyVDUlErAxEKmFcnQrzABXw&sid=c24b46e36cc6d6fa&sni=www.google.com&fp=firefox&type=tcp&flow=xtls-rprx-vision#UNKNOWN
 vless://5a96c1fc-f167-44b9-9020-8f6867537d14@31.77.161.183:8443?encryption=none&security=reality&pbk=7hHoROf3WLDWI8SQ4B82O00j29Bpwxd49hWe5EMBsgI&sid=8bbb9ef51f37aad7&sni=germany01.azotvpn.xyz&fp=firefox&type=grpc#DE
 vless://5a96c1fc-f167-44b9-9020-8f6867537d14@germany01.azotvpn.xyz:8443?encryption=none&security=reality&pbk=7hHoROf3WLDWI8SQ4B82O00j29Bpwxd49hWe5EMBsgI&sid=8bbb9ef51f37aad7&spx=%2F&sni=germany01.azotvpn.xyz&fp=random&type=grpc#DE
+# source:roosterkid updated:2026-10-22T13:16:17Z count:4
+vless://a500be68-4ff6-433b-9968-472be69fab14@germany02.azotvpn.xyz:443?spx=/&security=reality&sni=germany02.azotvpn.xyz&fp=chrome&flow=xtls-rprx-vision&encryption=none&pbk=Y4cTOs9QErbv2GtQNSTTzvZg-4hc7mBqteJNYTSRRg8&type=tcp&sid=439106af35a28917&headerType=none#DE
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#PL
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#DE
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#GB
