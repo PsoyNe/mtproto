@@ -118,10 +118,10 @@ vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.125:443?encryption=none&f
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@153.76.204.165:443?encryption=none&security=reality&pbk=DvPeuTyyvkarTBt9JFt_ejTP1xRgpYKM9SZnFNRV0kg&sid=802007e8b774f343&sni=nl3.himoy.space&fp=firefox&type=tcp&flow=xtls-rprx-vision#NL
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@188.132.232.187:1443?encryption=none&security=reality&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&fp=firefox&type=tcp&flow=xtls-rprx-vision#TR
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780#NL
-# source:roosterkid updated:2026-10-24T12:51:07Z count:3
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp#UNKNOWN
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=tcp&packetEncoding=none#RO
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=tcp&packetEncoding=xudp&sni=milo.rubinaz.xyz#CA
+# source:roosterkid updated:2026-10-24T22:54:29Z count:3
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#UNKNOWN
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?#GB
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?#CA
 # source:DukeMehdi updated:2026-10-22T13:18:06Z count:5
 vless://07104d25-afc5-4b3b-a871-c729c57de047@2.26.254.102:443?headerType=none&type=tcp&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&flow=xtls-rprx-vision&sni=rr.remnahoysry.ru&fp=chrome&security=reality&encryption=none#NL
 vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#DE
