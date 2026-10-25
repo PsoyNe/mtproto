@@ -113,10 +113,11 @@ vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=rea
 vless://c6cfcc53-9271-4ef7-88c5-5141621c8db1@31.59.216.141:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zsU1U-30jh-qqfmqZukMfoqHB75ksKFA5aQFi8LGW4&security=reality&sid=70b4ca&sni=193.23.216.239.cdn-one.org&type=tcp#DE
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@168.222.193.184.sslip.io:443?encryption=none&security=reality&pbk=lvq2jh6X7yT88vvcV9GUriwtWL0HeqaLHr773Vgb5ks&sid=b8307998cdaf0d55&sni=168.222.193.184.sslip.io&fp=firefox&type=tcp&flow=xtls-rprx-vision#UNKNOWN
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?encryption=none&security=reality&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&sni=www.google.co.uk&fp=firefox&type=tcp&flow=xtls-rprx-vision#RS
-# source:roosterkid updated:2026-10-24T22:54:29Z count:3
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#UNKNOWN
+# source:roosterkid updated:2026-10-25T22:45:27Z count:4
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#RO
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?#GB
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?#CA
+vless://29d23018-3265-494c-b9fe-e320b619b1e2@38.22.88.248:27509?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.suffolk.edu&fp=chrome&pbk=nseaofwmjSciWUI2ZOXft9lUJutKvKEDUc-aSpE3e1M&sid=6ba85179e30d4fc2&type=tcp&headerType=none#HK
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#TW
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
