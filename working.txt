@@ -169,25 +169,22 @@ vless://821249fc-d4e8-4e4f-895f-53bd0f1227c8@82.39.213.125:443?encryption=none&f
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@fi17-node.rumedia-cdn.com:8443?flow=xtls-rprx-vision&security=reality&sni=www.nokia.com&fp=firefox&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk#FI
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp#DE
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=s170.gogocs.xyz&type=tcp&fp=chrome#NL
-# source:FLAT447_black updated:2026-10-24T23:03:51Z count:18
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp#DE
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.224.177:8443?type=xhttp&headerType=none&security=reality&encryption=none&sni=pl.peregrine-sub.net&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&path=%2F&host=pl.peregrine-sub.net#PL
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@45.129.141.154:443?security=reality&encryption=none&pbk=breG0HwhH88ppAzFb4ZiWvhJjDAQCXJvIG6Ef95MXis&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.websupport.sk&sid=ef#SK
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=tcp#RO
+# source:FLAT447_black updated:2026-10-25T22:53:04Z count:15
+vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?type=tcp#DE
+vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=tcp&packetEncoding=none#PL
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52#SE
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@188.132.232.187:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&host=tr.peregrine-sub.net#TR
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp#GB
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=raw#PL
-vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&sid=03&sni=fi5.silalink.sbs#UNKNOWN
-vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?type=tcp#DE
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?type=raw#RO
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.224.177:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=pl.peregrine-sub.net&host=pl.peregrine-sub.net&encryption=none#PL
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:8443?type=xhttp&security=reality&fp=qq&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=pl.peregrine-sub.net&host=pl.peregrine-sub.net&mode=auto#PL
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@83.168.69.15:56229?mode=gun&security=reality&encryption=none&pbk=PQLbmvCHSAwuq_Ka1W-6gQxQA_vIjItozo3Jbqkg9Xk&fp=firefox&type=grpc&sni=github.com&sid=a411cc#PL
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#CA
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&sni=milo.rubinaz.xyz&host=milo.rubinaz.xyz&packet-encoding=xudp#CA
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?type=tcp&packetEncoding=none#CA
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#RO
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#CA
-vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?type=xhttp&security=reality&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sni=music.apple.com&mode=auto#CY
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp#JP
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?type=xhttp&security=reality&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sni=music.apple.com&mode=auto#CY
+vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=tcp&host=site.teslamotor.site#PL
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp#CA
+vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?type=xhttp&security=reality&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&sni=music.apple.com&mode=auto#CY
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&host=tr.peregrine-sub.net&mode=auto#TR
+vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&sid=03&sni=fi5.silalink.sbs#FI
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?type=raw#DE
+vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?type=tcp#UNKNOWN
 # source:FLAT447_white updated:2026-10-24T23:04:22Z count:11
 vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#PL
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#RO
