@@ -166,8 +166,10 @@ vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?security=rea
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?&security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&fp=ios&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#AU
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=edge#DE
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us6.zestapp778.com:33069?encryption=none&security=tls&type=tcp&sni=us6.zestapp778.com&fp=chrome#UNKNOWN
-# source:AetrisVPN_white updated:2026-10-25T22:51:21Z count:1
-vless://8c8a8681-5444-4e18-a427-54f19eea6a77@45.11.27.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mJkx2aIzeXMsdR38oCpeGX4r5Siq4__nb0I4gk1-wVM&security=reality&sni=litva2.ovhpride.shop&type=raw#LT
+# source:AetrisVPN_white updated:2026-10-26T01:49:01Z count:3
+vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?encryption=none&mode=auto&path=%2F&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sid=10a59b0a94367ac2&sni=music.apple.com&type=xhttp&fp=ios#CY
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=chrome#CY
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=firefox#DE
 # source:AetrisVPN_global updated:2026-10-25T22:52:11Z count:14
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@194.31.223.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=tcp#DE
 vless://35da102e-536b-4103-9632-58c7c4c6303b@94.228.161.123:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1C9KA3E5JNdBQy3NMmH8GBEeJp_Etpw9HopV6RNOHXM&sid=eecfe76af97a6132&sni=nl2.originmesh.online#NL
