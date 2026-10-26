@@ -138,15 +138,17 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?secu
 # source:AetrisVPN_white updated:2026-10-26T04:43:11Z count:2
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?encryption=none&mode=auto&path=%2F&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sid=10a59b0a94367ac2&sni=music.apple.com&type=xhttp&fp=ios#CY
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=chrome#CY
-# source:AetrisVPN_global updated:2026-10-26T01:49:54Z count:9
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@194.31.223.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=tcp#DE
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@2.27.120.53:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&security=reality&sid=6350d1647a4880&sni=ger.nullo.pro&type=tcp#DE
+# source:AetrisVPN_global updated:2026-10-26T04:44:04Z count:11
 vless://47171e1c-ee62-4f39-99bb-b77fe876095b@31.41.249.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AK6JtzO1bj1HM5YuKtCq0-xLWmxapYUXvKR2NKO-rkY&security=reality&sid=8fbefc33&sni=nlv1.refprov.online&type=tcp#NL
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@2.27.120.53:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&security=reality&sid=6350d1647a4880&sni=ger.nullo.pro&type=tcp#DE
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@194.31.223.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=tcp#DE
 vless://aaa9aa95-0251-4239-bad5-f5f4460e9914@185.126.67.6:443?flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@netherafteraventura.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=netherafteraventura.site&pbk=c45KyRQO_-rZ282JqMRcxlwu2DOV30b999vwCi0sLy0&fp=qq#DE
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp#DE
 vless://aaa9aa95-0251-4239-bad5-f5f4460e9914@185.126.67.8:1932?flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE
 vless://821249fc-d4e8-4e4f-895f-53bd0f1227c8@82.39.213.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LPxsw0pGD7kfIEF0RJlSVYA37S6KKxoy9G0rmtmJqUA&security=reality&sid=df0037688b5b6984&sni=us1.xshoponline.ru&type=tcp#US
 vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@209.200.246.203:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&security=reality&sid=d18f4e&sni=tiktok.com&type=tcp#CA
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#UNKNOWN
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=qq#UNKNOWN
 # source:FLAT447_black updated:2026-10-26T01:50:50Z count:19
 vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?type=tcp#DE
