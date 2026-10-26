@@ -70,8 +70,10 @@ vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?encryption=none
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&security=reality&sid=c9e5505275320b51&sni=lifeskaterstudent.caskstudio.org&type=tcp&fp=chrome#🇫🇷 France
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&security=reality&sid=c9e5505275320b51&sni=lifeskaterstudent.caskstudio.org&type=tcp&fp=safari#UNKNOWN
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&security=reality&sid=fda83f2787e6016d&sni=payeeclickerhalogen.berylcord.net&type=tcp&fp=ios#🇷🇺 Russia
-# source:aviamastersgh updated:2026-10-26T15:00:43Z count:1
-vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?security=reality&encryption=none&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=us.dark-bit.cc&sid=9ab513f082d4c6e1#🇺🇸 United States
+# source:aviamastersgh updated:2026-10-26T17:48:32Z count:3
+vless://de883d6d-4099-41bc-ba86-82ffed64a380@51.83.6.5:20250?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#🇦🇺 Australia
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#🇦🇺 Australia
 # source:AetrisVPN_white updated:2026-10-26T04:43:11Z count:2
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?encryption=none&mode=auto&path=%2F&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sid=10a59b0a94367ac2&sni=music.apple.com&type=xhttp&fp=ios#CY
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=chrome#CY
