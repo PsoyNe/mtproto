@@ -123,9 +123,20 @@ vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?encryption=none
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#🇦🇺 Australia
 # source:AetrisVPN_white updated:2026-10-26T17:48:45Z count:1
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&security=reality&sid=c9e5505275320b51&sni=lifeskaterstudent.caskstudio.org&type=tcp&fp=chrome#🇫🇷 France
-# source:AetrisVPN_global updated:2026-10-26T09:46:34Z count:2
-vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@209.200.246.203:2066?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&sid=d18f4e&sni=tiktok.com#🇨🇦 Canada
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=s170.gogocs.xyz&type=tcp&fp=chrome#🇳🇱 Netherlands
+# source:AetrisVPN_global updated:2026-10-26T23:34:01Z count:13
+vless://2bb5176f-cc45-41b5-908c-441581dccf8a@144.31.166.55:443?security=reality&encryption=none&pbk=kBVqBeTLp4F9KLA2qfqRLgiwd1oTxK3PM3GnrRzMYCA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deport.ptlux.pro&sid=e9c407d1#🇩🇪 Germany
+vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@vena.solomon-planet.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vena.solomon-planet.ru&fp=firefox&security=reality&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&sid=#🇳🇱 Netherlands
+vless://f0b6f6c1-485f-44d3-ae3d-08f6087fcfcb@sw02.launch.tel:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sw02.launch.tel&fp=firefox&security=reality&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d#🇸🇪 Sweden
+vless://878f7de7-b69a-4ed4-b7be-a96b2735b368@45.12.63.20:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uxp3nuw3exp.edge-assets.click&fp=firefox&security=reality&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sid=#🇫🇮 Finland
+vless://d0c8aa8d-a535-432a-b521-21f0e561f643@node-slo04.rkitman.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&fp=safari&security=reality&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd#🇸🇮 Slovenia
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@194.59.183.2:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#🇩🇪 Germany
+vless://4ee88ef0-8922-48ce-9cd4-5f67ef201b35@31.76.252.113:51593/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=intel.com&fp=chrome&security=reality&pbk=bnA5VC6PhGD2cYZyoZPr8Ah43WgQtzHuZbpywgoZH2k&sid=167afe9a97a1#🇳🇱 Netherlands
+vless://878f7de7-b69a-4ed4-b7be-a96b2735b368@109.237.98.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tl93mf9x71e.streamedge.best&fp=firefox&security=reality&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sid=#🇮🇹 Italy
+vless://d0c8aa8d-a535-432a-b521-21f0e561f643@node-nd02.rkitman.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=node-nd02.rkitman.ru&fp=safari&security=reality&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd#🇳🇱 Netherlands
+vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@al.reus.lol:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.reus.lol&fp=safari&security=reality&pbk=jVNJH18MECOqhciQLa-w7Y7yp3N9IdseIDpgCEu2LhU&sid=81785a5f59d66d7d#🇦🇱 Albania
+vless://47171e1c-ee62-4f39-99bb-b77fe876095b@185.153.55.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pEtJviwCErc3Ztwnev1p4m9ZhWgdVV9a6rpa0Hujvj0&security=reality&sid=b91fe4e1&sni=se1.refprov.online&type=tcp#🇸🇪 Sweden
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.182.19:443?security=reality&encryption=none&pbk=c45KyRQO_-rZ282JqMRcxlwu2DOV30b999vwCi0sLy0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=netherafteraventura.site#🇩🇪 Germany
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swedenafteraventura.space&fp=chrome&security=reality&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&sid=#🇩🇪 Germany
 # source:FLAT447_black updated:2026-10-26T20:41:17Z count:12
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=raw#🇩🇪 Germany
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.49.164:2052?type=raw#🇵🇱 Poland
