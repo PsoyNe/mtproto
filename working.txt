@@ -137,19 +137,23 @@ vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@al.reus.lol:443/?type=tcp&encryptio
 vless://47171e1c-ee62-4f39-99bb-b77fe876095b@185.153.55.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pEtJviwCErc3Ztwnev1p4m9ZhWgdVV9a6rpa0Hujvj0&security=reality&sid=b91fe4e1&sni=se1.refprov.online&type=tcp#🇸🇪 Sweden
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.182.19:443?security=reality&encryption=none&pbk=c45KyRQO_-rZ282JqMRcxlwu2DOV30b999vwCi0sLy0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=netherafteraventura.site#🇩🇪 Germany
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swedenafteraventura.space&fp=chrome&security=reality&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&sid=#🇩🇪 Germany
-# source:FLAT447_black updated:2026-10-26T20:41:17Z count:12
+# source:FLAT447_black updated:2026-10-26T23:34:52Z count:16
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=raw#🇩🇪 Germany
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@168.222.49.164:2052?type=raw#🇵🇱 Poland
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?type=tcp&packetEncoding=none#🇬🇧 United Kingdom
-vless://c6362720-0931-4b91-b187-d8ecf3149734@168.222.49.164:10002?type=raw#🇬🇧 United Kingdom
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?type=tcp&packetEncoding=none#UNKNOWN
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@178.83.45.226:2052?type=raw#🇷🇴 Romania
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=tcp&host=site.teslamotor.site#🇵🇱 Poland
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?type=raw#🇨🇦 Canada
 vless://09931b77-0f40-4734-9b36-5df6e2308e4e@rabin.142.251.153.7.savfasf.ir:41432?type=tcp#🇬🇧 United Kingdom
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#🇨🇦 Canada
+vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=tcp&packetEncoding=none#🇵🇱 Poland
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network&encryption=none#🇳🇱 Netherlands
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&security=reality&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&fp=chrome&path=/&host=tr.peregrine-sub.net&mode=auto#🇹🇷 Turkey
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&host=tr.peregrine-sub.net&mode=auto#🇹🇷 Turkey
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@188.132.232.187:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&host=tr.peregrine-sub.net#🇹🇷 Turkey
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?type=raw#🇨🇦 Canada
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#UNKNOWN
 vless://5a519754-a673-4462-83f6-5eb25d2af141@45.133.151.180:443?type=tcp&security=reality&fp=firefox&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&sni=f36f5ft.us4.h1clayd.click#🇺🇸 United States
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network#🇳🇱 Netherlands
-vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&sni=f36f5ft.us4.h1clayd.click#UNKNOWN
+vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?type=tcp#🇺🇸 United States
+vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&sni=f36f5ft.us4.h1clayd.click#🇺🇸 United States
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&packetEncoding=none#🇯🇵 Japan
+vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?type=tcp#🇰🇷 South Korea
 # source:FLAT447_white updated:2026-10-26T20:41:34Z count:4
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=&encryption=none&headerType=none&type=tcp#🇷🇴 Romania
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?&type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#🇨🇦 Canada
