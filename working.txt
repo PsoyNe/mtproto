@@ -154,8 +154,6 @@ vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?type=tcp#🇺�
 vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&sni=f36f5ft.us4.h1clayd.click#🇺🇸 United States
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&packetEncoding=none#🇯🇵 Japan
 vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?type=tcp#🇰🇷 South Korea
-# source:FLAT447_white updated:2026-10-26T20:41:34Z count:4
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=&encryption=none&headerType=none&type=tcp#🇷🇴 Romania
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?&type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#🇨🇦 Canada
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇵🇱 Poland
+# source:FLAT447_white updated:2026-10-26T23:35:11Z count:2
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=tcp&packetEncoding=none#UNKNOWN
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#UNKNOWN
