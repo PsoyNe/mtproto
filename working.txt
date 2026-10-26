@@ -135,10 +135,9 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?encr
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#AU
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#AU
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#AU
-# source:AetrisVPN_white updated:2026-10-26T01:49:01Z count:3
+# source:AetrisVPN_white updated:2026-10-26T04:43:11Z count:2
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?encryption=none&mode=auto&path=%2F&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sid=10a59b0a94367ac2&sni=music.apple.com&type=xhttp&fp=ios#CY
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=chrome#CY
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=firefox#DE
 # source:AetrisVPN_global updated:2026-10-26T01:49:54Z count:9
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@194.31.223.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=tcp#DE
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@2.27.120.53:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&security=reality&sid=6350d1647a4880&sni=ger.nullo.pro&type=tcp#DE
