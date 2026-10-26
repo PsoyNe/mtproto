@@ -79,10 +79,10 @@ vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&enc
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
 # source:igareck updated:2026-10-26T20:36:31Z count:1
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?flow=xtls-rprx-vision&security=reality&sni=math.videoticher.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#🇫🇮 Finland
-# source:aviamastersgh updated:2026-10-26T17:48:32Z count:3
-vless://de883d6d-4099-41bc-ba86-82ffed64a380@51.83.6.5:20250?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#🇦🇺 Australia
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#🇦🇺 Australia
+# source:aviamastersgh updated:2026-10-26T20:39:26Z count:3
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#🇩🇪 Germany
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?flow=xtls-rprx-vision&security=reality&sni=math.videoticher.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#🇫🇮 Finland
 # source:AetrisVPN_white updated:2026-10-26T17:48:45Z count:1
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&security=reality&sid=c9e5505275320b51&sni=lifeskaterstudent.caskstudio.org&type=tcp&fp=chrome#🇫🇷 France
 # source:AetrisVPN_global updated:2026-10-26T09:46:34Z count:2
