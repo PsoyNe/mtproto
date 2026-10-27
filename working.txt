@@ -122,23 +122,13 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443/?type
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@fi.viralforge.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.viralforge.ru&fp=firefox&security=reality&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇭🇰 Hong Kong
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@nl-1.viralforge.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl-1.viralforge.ru&fp=firefox&security=reality&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇳🇱 Netherlands
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@dlx.viralforge.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dlx.viralforge.ru&fp=firefox&security=reality&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇩🇪 Germany
-# source:FLAT447_black updated:2026-10-26T23:34:52Z count:16
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=raw#🇩🇪 Germany
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?type=tcp&packetEncoding=none#UNKNOWN
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@178.83.45.226:2052?type=raw#🇷🇴 Romania
-vless://09931b77-0f40-4734-9b36-5df6e2308e4e@rabin.142.251.153.7.savfasf.ir:41432?type=tcp#🇬🇧 United Kingdom
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?type=tcp&packetEncoding=none#🇵🇱 Poland
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network&encryption=none#🇳🇱 Netherlands
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&security=reality&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&fp=chrome&path=/&host=tr.peregrine-sub.net&mode=auto#🇹🇷 Turkey
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&host=tr.peregrine-sub.net&mode=auto#🇹🇷 Turkey
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@188.132.232.187:8443?type=xhttp&security=reality&fp=firefox&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net&host=tr.peregrine-sub.net#🇹🇷 Turkey
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?type=raw#🇨🇦 Canada
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#UNKNOWN
-vless://5a519754-a673-4462-83f6-5eb25d2af141@45.133.151.180:443?type=tcp&security=reality&fp=firefox&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&sni=f36f5ft.us4.h1clayd.click#🇺🇸 United States
-vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?type=tcp#🇺🇸 United States
-vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&sni=f36f5ft.us4.h1clayd.click#🇺🇸 United States
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&packetEncoding=none#🇯🇵 Japan
-vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?type=tcp#🇰🇷 South Korea
+# source:FLAT447_black updated:2026-10-27T13:41:37Z count:6
+vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774#🇩🇪 Germany
+vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?type=raw&path=/#🇩🇪 Germany
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?security=reality&encryption=none&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.co.uk&sid=fcadf69c8d#🇸🇰 Slovakia
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?type=tcp&security=reality&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&sni=www.cloudflare.com#UNKNOWN
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp#UNKNOWN
 # source:FLAT447_white updated:2026-10-26T23:35:11Z count:2
 vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=tcp&packetEncoding=none#UNKNOWN
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#UNKNOWN
