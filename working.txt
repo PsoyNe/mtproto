@@ -80,9 +80,13 @@ vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?securit
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
-# source:igareck updated:2026-10-27T15:36:22Z count:2
-vless://Fluffy_VPN-zKZUa4Ie@72.56.4.84:443?security=reality&sni=absolute-disaster.org&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&spx=%2F&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none&fp=edge#UNKNOWN
-vless://Fluffy_VPN-zKZUa4Ie@72.56.4.84:443?security=reality&sni=absolute-disaster.org&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&spx=%2F&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none&fp=firefox#🇳🇱 Netherlands
+# source:igareck updated:2026-10-27T17:34:27Z count:6
+vless://4b1be712-774c-4b65-8491-a3339e124a70@ru.letsconnectpoint.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.letsconnectpoint.com&security=reality&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&sid=86d1efde&fp=firefox#🇷🇺 Russia
+vless://b3bd3702-e952-0003-b8db-50c2a42a78ac@ru28.aimodelhub.top:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=packet-up&sni=ru28.aimodelhub.top&security=reality&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&sid=51b784e13468&fp=qq#UNKNOWN
+vless://4b1be712-774c-4b65-8491-a3339e124a70@ru.letsconnectpoint.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.letsconnectpoint.com&security=reality&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&sid=86d1efde&fp=safari#🇷🇺 Russia
+vless://b3bd3702-e952-0003-b8db-50c2a42a78ac@ru28.aimodelhub.top:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=packet-up&sni=ru28.aimodelhub.top&security=reality&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&sid=51b784e13468&fp=safari#🇺🇸 United States
+vless://4b1be712-774c-4b65-8491-a3339e124a70@ru.letsconnectpoint.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.letsconnectpoint.com&security=reality&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&sid=86d1efde&fp=chrome#🇷🇺 Russia
+vless://b3bd3702-e952-0003-b8db-50c2a42a78ac@ru28.aimodelhub.top:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=packet-up&sni=ru28.aimodelhub.top&security=reality&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&sid=51b784e13468&fp=edge#UNKNOWN
 # source:aviamastersgh updated:2026-10-27T15:38:14Z count:5
 vless://d0c8aa8d-a535-432a-b521-21f0e561f643@157.173.7.17:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-fra03.rkitman.ru&type=tcp#🇩🇪 Germany
 vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?#UNKNOWN
