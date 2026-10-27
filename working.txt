@@ -82,11 +82,11 @@ vless://d0c8aa8d-a535-432a-b521-21f0e561f643@132.243.166.22:443?type=tcp&securit
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&security=reality&sid=fcadf69c8d&sni=google.co.uk&type=tcp#🇸🇰 Slovakia
 vless://Fluffy_VPN-zKZUa4Ie@72.56.4.84:443?security=reality&sni=absolute-disaster.org&fp=firefox&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&spx=%2F&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#🇳🇱 Netherlands
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=%2F#🇳🇱 Netherlands
-# source:roosterkid updated:2026-10-27T13:35:55Z count:4
-vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?encryption=none&security=none&type=tcp#🇩🇪 Germany
+# source:roosterkid updated:2026-10-27T15:35:28Z count:4
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#🇫🇮 Finland
-vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.lloydsbankinggroup.com&fp=firefox&flow=xtls-rprx-vision&sid=25349b36802f&pbk=RKDT6fVgcZS8Qfzhv5rbeHRIflA3UTKD_HNLJyOoUwk#🇬🇧 United Kingdom
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=2.26.6.1#🇵🇱 Poland
+vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?encryption=none&security=none&type=tcp#🇩🇪 Germany
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=tcp&packetEncoding=xudp#UNKNOWN
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp#UNKNOWN
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
