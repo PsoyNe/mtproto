@@ -112,6 +112,5 @@ vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?type=raw#🇨�
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@3f8efdt.fi1.h1clayd.click:443?encryption=none&security=reality&sni=3f8efdt.fi1.h1clayd.click&pbk=1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY&sid=023a1e6ffc32be10&type=tcp&headerType=none&fp=safari#UNKNOWN
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lBrJSAerNtrtOD_p-hbhaxuHevN4dlvr4xPNWJjXhwI&security=reality&sid=fcadf69c8d&sni=google.co.uk&type=tcp#🇸🇰 Slovakia
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&sni=milo.rubinaz.xyz#🇨🇦 Canada
-# source:FLAT447_white updated:2026-10-27T17:38:40Z count:2
+# source:FLAT447_white updated:2026-10-27T19:37:00Z count:1
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?security=none&type=raw#🇨🇦 Canada
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?&type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#UNKNOWN
