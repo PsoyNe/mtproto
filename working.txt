@@ -129,6 +129,5 @@ vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.119:443?security=reality
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?type=tcp&security=reality&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&sni=www.cloudflare.com#UNKNOWN
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp#UNKNOWN
-# source:FLAT447_white updated:2026-10-26T23:35:11Z count:2
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&type=tcp&packetEncoding=none#UNKNOWN
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#UNKNOWN
+# source:FLAT447_white updated:2026-10-27T13:42:22Z count:1
+vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?#🇩🇪 Germany
