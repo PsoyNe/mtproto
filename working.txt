@@ -66,11 +66,13 @@ vless://d9d943cc-269b-4e34-9000-722f6795225d@176.108.253.204:443?encryption=none
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@72.56.41.232:443?encryption=none&security=reality&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk&sni=usatimewebnew.space&fp=firefox&type=tcp&flow=xtls-rprx-vision#UNKNOWN
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?encryption=none&security=reality&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&sni=www.google.co.uk&fp=firefox&type=tcp&flow=xtls-rprx-vision#UNKNOWN
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@singanew.click:443?encryption=none&security=reality&pbk=Gze5BmP_4HTNuAQLz54-ecTkHkB0fElV-aGa1dPm6FQ&sni=singanew.click&fp=qq&type=tcp&flow=xtls-rprx-vision#🇸🇬 Singapore
-# source:roosterkid updated:2026-10-27T17:33:38Z count:4
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&type=tcp&packetEncoding=none#🇷🇴 Romania
-vless://8e8210b7-71a4-4799-8b9b-2e69698b1eaf@site.teslamotor.site:20001?security=none&type=tcp&packetEncoding=xudp#UNKNOWN
+# source:roosterkid updated:2026-10-27T19:32:03Z count:6
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#🇫🇮 Finland
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#UNKNOWN
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#UNKNOWN
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us1p1.xn--ghq880n3na965a.com&fp=chrome&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&sid=3d31326f95&type=tcp&headerType=none#🇺🇸 United States
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=safari&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&sid=28f5c1f8f98a&type=tcp&headerType=none#🇸🇬 Singapore
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&type=tcp&headerType=none#🇯🇵 Japan
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kaidee.com&fp=ios&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&sid=cbd39bea0805e2&type=tcp&headerType=none#🇹🇭 Thailand
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
