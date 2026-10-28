@@ -97,17 +97,12 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=rea
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-10-27T15:38:27Z count:1
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=edge#UNKNOWN
-# source:AetrisVPN_global updated:2026-10-27T21:32:44Z count:10
-vless://5ad13ef8-ced8-43b5-9d8c-f046a3ce9ddc@213.226.127.71:2066/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tiktok.com&fp=chrome&security=reality&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&sid=d18f4e#🇷🇺 Russia
-vless://4b1be712-774c-4b65-8491-a3339e124a70@fast.letsconnectpoint.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fast.letsconnectpoint.com&fp=qq&security=reality&pbk=osmv_68hih_V_A_ptwQj_TVmdj8ayt_chDCZdj1DrS4&sid=f1a5e1d9#🇳🇱 Netherlands
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#UNKNOWN
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch.viralforge.ru&fp=firefox&security=reality&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇨🇭 Switzerland
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@nl-1.viralforge.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl-1.viralforge.ru&fp=firefox&security=reality&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#🇳🇱 Netherlands
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@144.31.30.215:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hollandlanzerotte.xyz&fp=firefox&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&flow=xtls-rprx-vision#🇳🇱 Netherlands
-vless://bf0bec9d-4345-4154-9e21-9bd3e81b75c3@patriot5.timikillergames.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=patriot6.timikillergames.online&fp=firefox&security=reality&pbk=jdI2QOHLEs3ilv7BHonO6sT0RuqfqcJD5Ol_DIEGxhM&sid=#🇳🇱 Netherlands
-vless://4b1be712-774c-4b65-8491-a3339e124a70@usa.letsconnectpoint.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=usa.letsconnectpoint.com&fp=edge&security=reality&pbk=I45spoFEwSCaxR8FIP1HnrFj5KbR3keSAGMMdgt2AHY&sid=b1c5a5e2#🇺🇸 United States
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&security=reality&sni=rusbid.de&type=tcp#🇨🇿 Czechia
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?security=tls&sni=sg003.zestapp778.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&encryption=none#🇸🇬 Singapore
+# source:AetrisVPN_global updated:2026-10-28T14:32:40Z count:5
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swedenafteraventura.space&fp=chrome&security=reality&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&sid=#UNKNOWN
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&security=reality&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network&type=tcp#🇳🇱 Netherlands
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&fp=qq#🇺🇸 United States
+vless://5a519754-a673-4462-83f6-5eb25d2af141@pl5.h1cloud.net:25548/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&sid=bceb5b2197b76818#🇵🇱 Poland
+vless://5a519754-a673-4462-83f6-5eb25d2af141@pl5.h1cloud.net:25548?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&sid=bceb5b2197b76818&type=tcp&encryption=none#🇵🇱 Poland
 # source:FLAT447_black updated:2026-10-27T21:33:55Z count:8
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@178.83.45.226:10000?type=raw#🇩🇪 Germany
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&security=reality&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network&type=tcp#🇳🇱 Netherlands
