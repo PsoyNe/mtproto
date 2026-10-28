@@ -99,14 +99,14 @@ vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=edge#UNKNOWN
 # source:AetrisVPN_global updated:2026-10-28T17:27:15Z count:1
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swedenafteraventura.space&fp=chrome&security=reality&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&sid=#🇩🇪 Germany
-# source:FLAT447_black updated:2026-10-28T14:35:05Z count:7
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network#🇳🇱 Netherlands
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#🇳🇱 Netherlands
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=%2F#🇳🇱 Netherlands
+# source:FLAT447_black updated:2026-10-28T17:29:58Z count:7
+vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.196.2:8443?security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=94.183.196.2#🇳🇱 Netherlands
 vless://6b566898-8416-4ac3-8b8f-66db059c462b@78.17.53.142:8443?type=tcp&security=reality&fp=chrome&pbk=drwJd-KiNSQHhp1yHQBknycbzWEzR2K9_R9ZdfPra3U&sni=www.ru.nl#🇳🇱 Netherlands
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws#🇰🇷 South Korea
-vless://48d9a277-776b-4ab8-a357-88a1958beed8@78.17.27.137:8443?type=tcp&security=reality&fp=firefox&pbk=DZ0BYEIHEe9KmJzM_j5EAN0t3_BTcfO63P7x6SRCeQM&sid=a05ccbf2edb5ebd1&sni=www.aalto.fi#🇫🇮 Finland
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?type=tcp&security=reality&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&sni=www.cloudflare.com#UNKNOWN
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#🇳🇱 Netherlands
+vless://5a519754-a673-4462-83f6-5eb25d2af141@nl2.h1cloud.net:25445?type=tcp&security=reality&fp=chrome&pbk=wkpC2kKl2gNMM6uOP-K1__k70YUKS8c5t7aFW_PF7UM&sid=e891838a8cb32dbf&sni=www.cloudflare.com#🇳🇱 Netherlands
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=%2F#🇰🇷 South Korea
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=%2F#🇳🇱 Netherlands
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&type=tcp&sni=ph-nl-s3784.cybercat.network&fp=chrome&sid=ecf1d9f7caa6ba67&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&encryption=none#🇳🇱 Netherlands
 # source:FLAT447_white updated:2026-10-28T14:36:05Z count:2
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?security=reality&encryption=none&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=9608a9c65d315d52#UNKNOWN
