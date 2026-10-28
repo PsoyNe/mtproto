@@ -91,11 +91,10 @@ vless://b3bd3702-e952-0003-b8db-50c2a42a78ac@ru28.aimodelhub.top:443/?type=xhttp
 vless://b3bd3702-e952-0003-b8db-50c2a42a78ac@ru28.aimodelhub.top:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=packet-up&sni=ru28.aimodelhub.top&security=reality&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&sid=51b784e13468&fp=qq#🇺🇸 United States
 vless://4b1be712-774c-4b65-8491-a3339e124a70@45.9.12.110:443?encryption=none&flow=xtls-rprx-vision&pbk=myIjvlXZS0rm1eg4q2w5WsQBuj80i2rBA0HpRGCUg1w&security=reality&sid=86d1efde&sni=ru.letsconnectpoint.com&type=tcp&fp=firefox#🇷🇺 Russia
 vless://252b4a9c-520d-459c-9dbc-366995206089@31.184.253.134:53869?flow=xtls-rprx-vision&pbk=rtc2Krk2fVhHCRG82EsUc4_mlw304HKHkl6MggQZEAU&security=reality&sid=0f2cc340a69ed7&sni=www.moddb.com&type=tcp&fp=chrome#🇵🇱 Poland
-# source:aviamastersgh updated:2026-10-27T21:32:05Z count:4
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?security=reality&encryption=none&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru11.oshost.network&sid=97a15f5af85c4a30#🇬🇧 United Kingdom
-vless://Fluffy_VPN-zKZUa4Ie@158.160.162.185:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&pbk=xLN7q9XBRYSrIAc10TyEGupgDbCqSuZRQILMw5nqrns&type=tcp&headerType=none&fp=firefox#🇳🇱 Netherlands
-vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?security=reality&encryption=none&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d100.relay.logicnova.ru#🇩🇪 Germany
+# source:aviamastersgh updated:2026-10-28T14:31:39Z count:3
+vless://b68bd590-010d-402c-9ffe-68a8ebbacebe@2.27.21.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=envs.net&fp=chrome&pbk=kGd24lfAZGfG38A65J6ghGNEKeUKqAB6TDR1G09pHEI&sid=91079323f5151c91&type=tcp&headerType=none#🇳🇱 Netherlands
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇺🇸 United States
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-10-27T15:38:27Z count:1
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=edge#UNKNOWN
 # source:AetrisVPN_global updated:2026-10-27T21:32:44Z count:10
