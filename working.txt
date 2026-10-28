@@ -74,9 +74,7 @@ vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?security=real
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?security=reality&encryption=none&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s12.bsh-net.ru&sid=51079f144d661484#🇫🇮 Finland
 vless://3acb3c2b-680c-40a5-ac19-9eef6b061efa@85.155.149.9:20285?encryption=none&flow=xtls-rprx-vision&security=reality&sni=metrika.yandex.ru&fp=chrome&pbk=snNVYSFAGMHIRMnzBZoFFTcu6KowqSFLSyRgmI9NSRU&sid=5308d9ab&type=tcp&headerType=none#🇭🇰 Hong Kong
 vless://caf3d607-95c9-4ea0-98b5-864027056ba0@br1.accessboy.com:443?encryption=none&security=reality&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&spx=%2F&sni=br1.accessboy.com&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇧🇷 Brazil
-# source:roosterkid updated:2026-10-28T14:27:49Z count:3
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=mx001.zestapp778.com#🇲🇽 Mexico
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=%2F#🇰🇷 South Korea
+# source:roosterkid updated:2026-10-28T23:17:14Z count:1
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com#🇵🇭 Philippines
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
