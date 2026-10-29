@@ -76,8 +76,8 @@ vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@ded.bsh-net.ru:443?security=reality
 vless://2da85937-93d9-4509-8491-63b1921cf447@6.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#🇫🇮 Finland
 vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=17fa3af0924c88b3#🇹🇷 Turkey
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
-# source:AetrisVPN_white updated:2026-10-29T15:22:55Z count:1
-vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&packetEncoding=xudp#UNKNOWN
+# source:AetrisVPN_white updated:2026-10-29T22:10:12Z count:1
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:24127?flow=xtls-rprx-vision&security=reality&sni=uk.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc#🇬🇧 United Kingdom
 # source:AetrisVPN_global updated:2026-10-29T15:24:32Z count:16
 vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?security=reality&encryption=none&pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ddk5-ger.newagetechnologies.live#🇩🇪 Germany
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.173:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇩🇪 Germany
