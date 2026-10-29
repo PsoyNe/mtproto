@@ -147,11 +147,14 @@ vless://96e24526-f1f1-4332-a0a8-d3087685ede7@45.79.180.212:8443?encryption=none&
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=raw&security=reality&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=www.chip.de#🇩🇪 Germany
 vless://48d9a277-776b-4ab8-a357-88a1958beed8@78.17.27.137:8443?security=reality&sni=www.aalto.fi&fp=firefox&pbk=DZ0BYEIHEe9KmJzM_j5EAN0t3_BTcfO63P7x6SRCeQM#UNKNOWN
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&type=tcp&packetEncoding=xudp&sni=www.chip.de&fp=chrome&sid=23732d14a527990d&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&encryption=none#🇩🇪 Germany
-# source:FLAT447_white updated:2026-10-28T23:24:19Z count:7
-vless://5a519754-a673-4462-83f6-5eb25d2af141@nl2.h1cloud.net:25445?&security=reality&pbk=wkpC2kKl2gNMM6uOP-K1__k70YUKS8c5t7aFW_PF7UM&sid=e891838a8cb32dbf&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇳🇱 Netherlands
+# source:FLAT447_white updated:2026-10-29T02:19:55Z count:10
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com#🇳🇱 Netherlands
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#🇵🇱 Poland
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=ios#UNKNOWN
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&type=tcp&security=reality&sni=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#🇩🇪 Germany
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?security=reality&encryption=none&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=9608a9c65d315d52#🇸🇪 Sweden
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=firefox#🇩🇪 Germany
+vless://5a519754-a673-4462-83f6-5eb25d2af141@nl2.h1cloud.net:25445?&security=reality&pbk=wkpC2kKl2gNMM6uOP-K1__k70YUKS8c5t7aFW_PF7UM&sid=e891838a8cb32dbf&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#UNKNOWN
+vless://48d9a277-776b-4ab8-a357-88a1958beed8@78.17.27.137:8443?type=tcp&security=reality&fp=chrome&pbk=DZ0BYEIHEe9KmJzM_j5EAN0t3_BTcfO63P7x6SRCeQM&sid=a05ccbf2edb5ebd1&sni=www.aalto.fi#🇫🇮 Finland
+vless://5a519754-a673-4462-83f6-5eb25d2af141@pl5.h1cloud.net:25548?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&sid=bceb5b2197b76818&type=tcp#UNKNOWN
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?fp=edge&host=www.samsung.com&path=%2F&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp#🇵🇱 Poland
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?security=reality&encryption=none&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=9608a9c65d315d52#UNKNOWN
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=firefox#UNKNOWN
+vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=ios#🇸🇪 Sweden
