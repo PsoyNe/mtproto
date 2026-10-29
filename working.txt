@@ -87,8 +87,10 @@ vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&en
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us001.zestapp778.com:54857?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us001.zestapp778.com#🇺🇸 United States
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#🇨🇿 Czechia
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#UNKNOWN
-# source:AetrisVPN_white updated:2026-10-27T15:38:27Z count:1
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&fp=edge#UNKNOWN
+# source:AetrisVPN_white updated:2026-10-29T12:22:23Z count:3
+vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&packetEncoding=xudp#🇳🇱 Netherlands
+vless://d5b3e363-4143-435f-80d3-a51568283a22@193.233.89.3:8443?flow=xtls-rprx-vision&security=reality&sni=de2-site.ptashka.uk.net&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Germany
+vless://d5b3e363-4143-435f-80d3-a51568283a22@193.233.89.3:5555?flow=xtls-rprx-vision&security=reality&sni=de1-site.ptashka.uk.net&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-10-29T02:16:35Z count:16
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.206.112:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=remote.propaint.cl&pbk=-zjl4KNE4PFeuthfmw_2JeCbiXAA2kaoYVHODPq-sXQ&sid=a2fc#🇳🇱 Netherlands
 vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?flow=xtls-rprx-vision&security=reality&sni=ddk5-ger.newagetechnologies.live&fp=qq&pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8#🇩🇪 Germany
