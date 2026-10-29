@@ -108,15 +108,18 @@ vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=rea
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#🇵🇱 Poland
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@72.56.41.232:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk&sni=usatimewebnew.space#🇺🇸 United States
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@67.159.52.51:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iE4sTz-Q2Frkm7WM32P1wm4at49Wpaj5vo-2FsLcN1M&sid=8854f17e2a5af2d8&sni=snp.bsh-net.ru#🇸🇬 Singapore
-# source:FLAT447_black updated:2026-10-29T12:25:36Z count:8
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network#🇳🇱 Netherlands
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=%2F#🇳🇱 Netherlands
-vless://5a519754-a673-4462-83f6-5eb25d2af141@de12b.h1cloud.net:25172?type=tcp&security=reality&fp=firefox&pbk=Xr55Hig_JTeUluiGfSnma6zMHG2Uv5Xu30ZODGF5xGA&sid=f09ac427e1abd14b&sni=www.cloudflare.com#🇩🇪 Germany
-vless://2ea68849-7639-4eec-8af8-102e692fa8e6@60.249.101.79:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=e1L9v1a3tkmHMzrdv9q5-lMXKhTtXcjot8pKFHZD8Vo&sid=c7f12faf&sni=mcs.zijieapi.com#🇹🇼 Taiwan
-vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?type=tcp&security=reality&fp=firefox&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52&sni=www.cloudflare.com#UNKNOWN
+# source:FLAT447_black updated:2026-10-29T15:26:02Z count:11
 vless://de883d6d-4099-41bc-ba86-82ffed64a380@51.83.6.5:20250?type=tcp#🇫🇷 France
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=raw&security=reality&fp=chrome&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com#🇵🇱 Poland
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?type=tcp&security=reality&fp=ios&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?type=tcp&security=reality&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&sni=www.samsung.com#🇪🇪 Estonia
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=%2F#🇳🇱 Netherlands
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network#🇳🇱 Netherlands
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
+vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?type=raw&security=reality&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&sni=www.cloudflare.com#🇸🇬 Singapore
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=raw&security=reality&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=www.chip.de&host=www.chip.de#🇩🇪 Germany
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@136.234.9.26:27591?type=tcp&security=reality&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com#UNKNOWN
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=raw&security=reality&fp=chrome&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com#UNKNOWN
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362?type=raw&security=reality&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=www.chip.de#🇩🇪 Germany
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&sni=wordpress.com&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&type=tcp&encryption=none#🇳🇱 Netherlands
 # source:FLAT447_white updated:2026-10-29T12:26:31Z count:7
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp#🇳🇱 Netherlands
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
