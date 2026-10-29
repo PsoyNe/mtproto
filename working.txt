@@ -59,8 +59,11 @@ vless://7a4bf57c-ebbe-4779-a469-9d803e6c29fd@157.22.241.244:8443?security=realit
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?encryption=none&security=reality&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&fp=firefox&type=tcp#🇺🇸 United States
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362?type=tcp&security=reality&sni=www.chip.de&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#🇩🇪 Germany
 vless://719b9354-45e2-4718-8709-d965b64554db@2.24.124.64:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=9f1fc5a631ef3126&pbk=zpXR6Y36C8qUCIVk2p_j8C9KGeBk5xisLw66j3WFOls#UNKNOWN
-# source:roosterkid updated:2026-10-29T15:19:01Z count:1
-vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#🇸🇬 Singapore
+# source:roosterkid updated:2026-10-29T22:06:23Z count:4
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?encryption=none&sni=www.samsung.com&security=reality&fp=chrome&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&flow=xtls-rprx-vision&type=tcp&headerType=none#🇹🇷 Turkey
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?security=tls&type=tcp&packetEncoding=xudp&sni=sg003.zestapp778.com&fp=chrome#🇸🇬 Singapore
+vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?&security=tls&fp=chrome&alpn=http%2F1.1&sni=206.1.101.85&type=ws&headerType=none&path=%2F#UNKNOWN
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#🇨🇿 Czechia
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
