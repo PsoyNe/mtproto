@@ -89,7 +89,11 @@ vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?&secu
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?encryption=none&security=reality&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&fp=safari&type=tcp&flow=xtls-rprx-vision#🇳🇱 Netherlands
 vless://eb6ba095-8184-4a85-992f-7a42049124cc@13.140.90.29:49054?encryption=mlkem768x25519plus.native.0rtt.Bg4V8F4h98igrHnu5gErCiQUAqJr1DAJWKhoFNh0ZEc&fp=firefox&pbk=4vWyTSLXJwt3k3nHFM7o6I5xzV8QijATPS_THsiUlQM&security=reality&sid=2c98412b4dc3fed0&sni=token.safebrowsing.apple&type=tcp#🇫🇮 Finland
 vless://5a519754-a673-4462-83f6-5eb25d2af141@pl5.h1cloud.net:25548?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&sid=bceb5b2197b76818&type=tcp#UNKNOWN
-# source:roosterkid updated:2026-10-28T23:17:14Z count:1
+# source:roosterkid updated:2026-10-29T02:12:44Z count:5
+vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=chrome&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&allowInsecure=1#🇳🇱 Netherlands
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us001.zestapp778.com:54857?sni=us001.zestapp778.com&fp=chrome&security=tls#🇺🇸 United States
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?sni=us007.zestapp778.com&fp=chrome&security=tls#🇺🇸 United States
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=mx001.zestapp778.com#🇲🇽 Mexico
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com#🇵🇭 Philippines
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
