@@ -89,10 +89,8 @@ vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&en
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬 Singapore
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362?security=reality&encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&headerType=none&fp=chrome&type=tcp&sni=www.chip.de&sid=23732d14a527990d#🇩🇪 Germany
-# source:AetrisVPN_white updated:2026-10-29T12:22:23Z count:3
-vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&packetEncoding=xudp#🇳🇱 Netherlands
-vless://d5b3e363-4143-435f-80d3-a51568283a22@193.233.89.3:8443?flow=xtls-rprx-vision&security=reality&sni=de2-site.ptashka.uk.net&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Germany
-vless://d5b3e363-4143-435f-80d3-a51568283a22@193.233.89.3:5555?flow=xtls-rprx-vision&security=reality&sni=de1-site.ptashka.uk.net&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Germany
+# source:AetrisVPN_white updated:2026-10-29T15:22:55Z count:1
+vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&packetEncoding=xudp#UNKNOWN
 # source:AetrisVPN_global updated:2026-10-29T12:24:01Z count:27
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.173:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇺🇸 United States
 vless://5f53b921-2874-482a-b530-d3ee1d66cbc5@nl2.originmesh.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl2.originmesh.online&fp=firefox&security=reality&pbk=_MRd1VDQBecIufT-CXd5O73L8JBjBI8Iqag9V8xseDc&sid=eecfe76af97a6132#🇳🇱 Netherlands
