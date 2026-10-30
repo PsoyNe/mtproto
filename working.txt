@@ -85,10 +85,8 @@ vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@217.60.151.187:47443?flow=xtls-rprx
 vless://727a9178-d7f0-4142-8205-b0d19959ded0@2.56.3.106:443?encryption=none&security=reality&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&sni=bol.com&fp=edge&type=tcp&flow=xtls-rprx-vision#🇫🇮 Finland
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&security=reality&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&type=tcp#🇺🇸 United States
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?&security=reality&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&fp=firefox&sni=wordpress.com&type=tcp&headerType=none&host=wordpress.com&path=%2F#UNKNOWN
-# source:roosterkid updated:2026-10-30T03:55:53Z count:3
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#🇨🇿 Czechia
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&fp=firefox&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
-vless://893845c5-8e4a-48d5-8a85-622f5b7ea950@206.1.101.85:42654?&security=tls&fp=chrome&alpn=http%2F1.1&sni=206.1.101.85&type=ws&headerType=none&path=%2F#🇹🇷 Turkey
+# source:roosterkid updated:2026-10-30T06:51:30Z count:1
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?type=tcp&security=reality&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network#🇳🇱 Netherlands
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
