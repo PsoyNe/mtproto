@@ -76,13 +76,14 @@ vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?pbk=hFee7zTr
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=firefox#🇩🇪 Germany
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&spx=%2F&type=raw&fp=chrome#🇩🇪 Germany
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&spx=%2F&type=raw&fp=edge#🇩🇪 Germany
-# source:aviamastersgh updated:2026-10-29T22:09:52Z count:6
+# source:aviamastersgh updated:2026-10-30T01:05:06Z count:7
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@ded.bsh-net.ru:443?security=reality&encryption=none&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ded.bsh-net.ru&sid=8e72c89e1adf4dc4#🇩🇪 Germany
-vless://2da85937-93d9-4509-8491-63b1921cf447@6.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#🇫🇮 Finland
-vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=17fa3af0924c88b3#🇹🇷 Turkey
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#🇨🇿 Czechia
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.147:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#🇩🇪 Germany
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@fr001.zestapp778.com:28484?sni=fr001.zestapp778.com&fp=chrome&security=tls#🇫🇷 France
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?security=reality&encryption=none&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s12.bsh-net.ru&sid=51079f144d661484#🇫🇮 Finland
 # source:AetrisVPN_white updated:2026-10-29T22:10:12Z count:1
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:24127?flow=xtls-rprx-vision&security=reality&sni=uk.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc#🇬🇧 United Kingdom
 # source:AetrisVPN_global updated:2026-10-29T22:10:59Z count:31
