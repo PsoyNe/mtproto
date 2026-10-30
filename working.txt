@@ -156,8 +156,6 @@ vless://01a8c896-1abd-425d-bf75-b0b355754cc1@87.228.92.104:443?type=tcp&security
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?security=reality&fp=ios&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&packetEncoding=none#🇺🇸 United States
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.198.55.200:25150?type=tcp&security=reality&fp=firefox&pbk=Qvn7tV54mdqxJ40LmmoI1PRM1QKXEbfFOZS-omPKhGY&sid=4301a484cc762aa6&sni=www.samsung.com#UNKNOWN
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=raw#UNKNOWN
-# source:FLAT447_white updated:2026-10-30T06:57:08Z count:4
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?security=reality&encryption=none&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&headerType=none&fp=firefox&type=tcp&sni=a0688bt.us4.h1clayd.click&sid=257420d9d430152a#🇺🇸 United States
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&type=tcp&security=reality&sni=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#🇩🇪 Germany
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sni=wordpress.com&sid=50ad5564#🇳🇱 Netherlands
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
+# source:FLAT447_white updated:2026-10-30T19:15:31Z count:2
+vless://01a8c896-1abd-425d-bf75-b0b355754cc1@87.228.92.104:443?security=reality&fp=firefox&pbk=TKmclms1Y4UZPdn_UJR2FMPLGRbMIw4mI7Vul2SevTw&sid=0521d8e5f34296ae&sni=81f270t.fi4.h1clayd.click#🇫🇮 Finland
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&sni=wordpress.com&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&packetEncoding=xudp#🇳🇱 Netherlands
