@@ -133,8 +133,9 @@ vless://3447fe7d-c5a2-4dbb-983b-960dc08ee122@54.71.51.243:443?flow=xtls-rprx-vis
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@94.249.148.20:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&sni=de-3.bnc-gt.co.uk#🇳🇱 Netherlands
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@de-3.bnc-gt.co.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de-3.bnc-gt.co.uk&fp=firefox&security=reality&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14#🇳🇱 Netherlands
-# source:FLAT447_white updated:2026-10-29T22:11:57Z count:4
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp#🇳🇱 Netherlands
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
+# source:FLAT447_white updated:2026-10-30T01:06:55Z count:5
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sni=wordpress.com&sid=50ad5564#🇳🇱 Netherlands
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:38963?security=reality&sni=lv.neuroniko.com&fp=qq&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto#🇱🇻 Latvia
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:24128?security=reality&sni=uk.neuroniko.com&fp=qq&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&type=xhttp&path=%2F&mode=auto#🇬🇧 United Kingdom
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&fp=firefox&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?encryption=none&security=reality&sni=a0688bt.us4.h1clayd.click&fp=ios&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&type=tcp&headerType=none#🇺🇸 United States
