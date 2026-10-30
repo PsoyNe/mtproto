@@ -84,7 +84,7 @@ vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?secu
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.147:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#🇩🇪 Germany
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@fr001.zestapp778.com:28484?sni=fr001.zestapp778.com&fp=chrome&security=tls#🇫🇷 France
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?security=reality&encryption=none&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s12.bsh-net.ru&sid=51079f144d661484#🇫🇮 Finland
-# source:AetrisVPN_white updated:2026-10-29T22:10:12Z count:1
+# source:AetrisVPN_white updated:2026-10-30T01:05:25Z count:1
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:24127?flow=xtls-rprx-vision&security=reality&sni=uk.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc#🇬🇧 United Kingdom
 # source:AetrisVPN_global updated:2026-10-29T22:10:59Z count:31
 vless://5f53b921-2874-482a-b530-d3ee1d66cbc5@94.228.161.123:443?flow=xtls-rprx-vision&fp=firefox&pbk=_MRd1VDQBecIufT-CXd5O73L8JBjBI8Iqag9V8xseDc&security=reality&sid=eecfe76af97a6132&sni=nl2.originmesh.online&type=raw#🇳🇱 Netherlands
