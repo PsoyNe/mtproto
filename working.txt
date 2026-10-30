@@ -63,10 +63,11 @@ vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@31.59.143.147:443?flow=xtls-rprx-vi
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?&security=reality&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&fp=firefox&sni=wordpress.com&type=tcp&headerType=none&host=wordpress.com&path=%2F#UNKNOWN
 vless://fd1d80da-3b27-457a-810b-2b28a309edc1@2.27.14.244:443?security=reality&encryption=none&pbk=uakxTTpl0pQZxA-wu_QEsyVDUlErAxEKmFcnQrzABXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=c24b46e36cc6d6fa#UNKNOWN
 vless://fafc7c16-f890-45ee-a856-02df225172dd@898305t.es4.h1clayd.click:443?encryption=none&security=reality&pbk=qF1f5MNrOiov0tyPftS96_Osal5sWTL4keXlW32UtV8&sid=f06b6d8a57f5fd8f&sni=898305t.es4.h1clayd.click&fp=firefox&type=tcp&flow=xtls-rprx-vision#UNKNOWN
-# source:roosterkid updated:2026-10-30T09:47:54Z count:3
-vless://0c45be70-e001-41e5-b39d-39351fe4a2d7@91.107.147.12:46605?#🇩🇪 Germany
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?security=reality&type=tcp&sni=a0688bt.us4.h1clayd.click&fp=ios&sid=257420d9d430152a&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E#🇺🇸 United States
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#🇫🇷 France
+# source:roosterkid updated:2026-10-30T19:09:01Z count:4
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none#UNKNOWN
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#🇨🇿 Czechia
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&security=reality&sni=rusbid.de&type=tcp#🇨🇿 Czechia
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
