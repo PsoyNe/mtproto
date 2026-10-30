@@ -81,13 +81,8 @@ vless://91bf374b-9a91-48dc-a5de-80379af45f95@31.76.34.233:443?security=reality&f
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.235.137:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&sni=update-76.topp-con.xyz#🇵🇱 Poland
 vless://eb8af077-a580-4f67-8042-9572a39e699d@46.8.255.252:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-ec5ai1FYGZSDDbOQaR6aDuTklZzKsnrtQUUgykn-mI&sid=9bb9409c0ec4c7a1&sni=msk-01.file-rkat.online#🇯🇵 Japan
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@186.246.9.121:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&sni=assets-11.topp-con.xyz#🇫🇷 France
-# source:aviamastersgh updated:2026-10-30T06:55:04Z count:6
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#🇳🇱 Netherlands
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?fp=chrome&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&security=reality&sid=ecf1d9f7caa6ba67&sni=ph-nl-s3784.cybercat.network&type=tcp#🇳🇱 Netherlands
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?security=reality&encryption=none&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s12.bsh-net.ru&sid=51079f144d661484#UNKNOWN
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.187.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&security=reality&sni=swedenafteraventura.space&type=tcp#🇩🇪 Germany
+# source:aviamastersgh updated:2026-10-30T09:51:33Z count:1
+vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=/?TELEGRAMвҖ”V2ray_confiig&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#🇫🇷 France
 # source:AetrisVPN_white updated:2026-10-30T01:05:25Z count:1
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:24127?flow=xtls-rprx-vision&security=reality&sni=uk.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc#🇬🇧 United Kingdom
 # source:AetrisVPN_global updated:2026-10-30T06:56:21Z count:31
