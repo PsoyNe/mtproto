@@ -129,11 +129,12 @@ vless://6036c28a-8db2-432e-8118-ff0c16641ad0@178.250.242.64:18443?encryption=non
 vless://6036c28a-8db2-432e-8118-ff0c16641ad0@178.250.242.209:18443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=oo2BXh-enbxxGXJcEzT3lgP26ru2rVnU5RP7PVUO0Sk&security=reality&sid=43dcff53849b81e6&sni=formatflow.ru&type=raw#UNKNOWN
 vless://6036c28a-8db2-432e-8118-ff0c16641ad0@178.250.242.64:18443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=oo2BXh-enbxxGXJcEzT3lgP26ru2rVnU5RP7PVUO0Sk&security=reality&sid=43dcff53849b81e6&sni=formatflow.ru&type=raw#🇩🇪 Germany
 vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?security=reality&flow=xtls-rprx-vision&fp=qq&pbk=GWZ2KoWptnU3QCQ4f7-xaZ778fFzZuf93D_YCilWrC8&sid=1f3fcc2852865e15&sni=file2format.ru#UNKNOWN
-# source:aviamastersgh updated:2026-10-31T03:31:07Z count:4
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?sni=rusbid.de&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sid=#🇨🇿 Czechia
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#🇨🇿 Czechia
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
+# source:aviamastersgh updated:2026-10-31T10:56:19Z count:5
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.99:443?security=reality&encryption=none&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=geminilanzerotte.live#🇩🇪 Germany
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gemsubbgem.world&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&fp=chrome#🇩🇪 Germany
+vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@45.12.5.171:443?security=reality&type=tcp&sni=ru9.aimodelhub.top&fp=firefox&flow=xtls-rprx-vision&sid=a73cf719b624&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA#UNKNOWN
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=geminilanzerotte.live&fp=chrome&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&type=tcp&headerType=none#🇩🇪 Germany
+vless://e8b69db2-c072-41e8-9f03-06d71db3c135@139.100.213.61:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9y3Ixv18XYzbYpJ3Q8V3tM_BHDPbaB9dN1wx7wxr3Sw&sid=95473efc7d2ca504&sni=ru.orbitaconference.com#UNKNOWN
 # source:AetrisVPN_white updated:2026-10-31T03:31:39Z count:16
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.164.160:443?flow=xtls-rprx-vision&security=reality&sni=edge-54.topp-con.xyz&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#🇩🇪 Germany
 vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&security=reality&sni=vena.solomon-planet.ru&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U#🇩🇪 Germany
