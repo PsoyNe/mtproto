@@ -133,12 +133,12 @@ vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.98.12:443?encryption=none&ty
 vless://fd1d80da-3b27-457a-810b-2b28a309edc1@2.27.14.244:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=uakxTTpl0pQZxA-wu_QEsyVDUlErAxEKmFcnQrzABXw&sid=c24b46e36cc6d6fa&type=tcp&headerType=none#🇫🇮 Finland
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.99:443?security=reality&encryption=none&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=updates-94.topp-con.xyz&sid=b9120cd53ffd7bba#🇫🇷 France
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
-# source:roosterkid updated:2026-10-30T21:42:26Z count:5
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇨🇿 Czechia
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
-vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@154.201.73.209:21899?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=dedce016e3671418&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0#🇺🇸 United States
+# source:roosterkid updated:2026-10-31T00:34:46Z count:5
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=s12.bsh-net.ru&fp=firefox&flow=xtls-rprx-vision&sid=51079f144d661484&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&encryption=none#🇫🇮 Finland
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#🇨🇿 Czechia
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&sid=51079f144d661484&sni=s12.bsh-net.ru#🇫🇮 Finland
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none#🇪🇪 Estonia
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?security=tls&type=tcp&packetEncoding=xudp&sni=sg003.zestapp778.com&fp=chrome#🇸🇬 Singapore
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
