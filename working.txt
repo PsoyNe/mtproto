@@ -94,10 +94,8 @@ vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?secur
 vless://00d80782-13bb-4e45-82b6-4c21747eabd6@93.123.101.241:443?security=reality&encryption=none&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=quill099.filebeam.website&sid=a7c31f92&insecure=0&flow=xtls-rprx-vision#🇩🇪 Germany
 vless://2614a96d-e39f-02f0-a9c7-467a178c2c0a@13.143.180.142:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw.lenvex.cc#🇩🇪 Germany
 vless://a449b942-e70d-4124-96c1-a489e701d7ee@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#UNKNOWN
-# source:roosterkid updated:2026-10-31T22:27:18Z count:3
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#🇨🇿 Czechia
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#🇳🇱 Netherlands
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@45.133.151.170:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
+# source:roosterkid updated:2026-11-01T21:33:03Z count:1
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@de-2.ffpn.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=de-2.ffpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=681fc2dd643bc2f3&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc#🇩🇪 Germany
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
