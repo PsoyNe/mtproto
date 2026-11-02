@@ -100,9 +100,8 @@ vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@94.228.168.219:8443?security=realit
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.5.181:443?encryption=none&security=reality&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&sni=pkg-77.topp-con.xyz&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇫🇷 France
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@186.246.9.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=media-27.topp-con.xyz&fp=firefox&security=reality&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#🇫🇷 France
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?security=reality&sni=a0688bt.us4.h1clayd.click&fp=chrome&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&type=tcp&path=%2f#🇺🇸 United States
-# source:roosterkid updated:2026-11-02T03:19:31Z count:2
-vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@154.201.73.209:21899?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=dedce016e3671418&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0#UNKNOWN
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&security=reality&sni=wordpress.com&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&type=tcp&headerType=none#🇳🇱 Netherlands
+# source:roosterkid updated:2026-11-02T06:15:17Z count:1
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#UNKNOWN
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
