@@ -116,9 +116,15 @@ vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?flow=xtls-rprx-
 vless://fafc7c16-f890-45ee-a856-02df225172dd@31.77.10.167:24503?security=reality&encryption=none&pbk=iiApJD_tVRzp1t8EfIpG7T4dnx-O0ai5nkzD9GUV9Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl3-gkv6mb.vpvr4ib84nuv6hdkt.ru&sid=02ea11017a1c951f#🇩🇪 Germany
 vless://a449b942-e70d-4124-96c1-a489e701d7ee@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#🇷🇺 Russia
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/?TELEGRAM--BYA--CHANEL---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#🇩🇪 Germany
-# source:AetrisVPN_white updated:2026-11-01T21:37:35Z count:2
+# source:AetrisVPN_white updated:2026-11-02T00:29:54Z count:8
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@147.45.148.6:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@85.193.85.231:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=raw&fp=chrome#🇷🇺 Russia
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@213.159.209.66:443?encryption=none&flow=xtls-rprx-vision&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&security=reality&sid=97a15f5af85c4a30&sni=ru11.oshost.network&type=tcp&fp=chrome#🇬🇧 United Kingdom
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&fp=chrome#🇪🇪 Estonia
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@186.246.9.101:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=update-61.topp-con.xyz&fp=chrome#🇫🇷 France
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.5.181:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=pkg-77.topp-con.xyz&fp=chrome#🇫🇷 France
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@217.198.6.206:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-51.topp-con.xyz&fp=chrome#🇩🇪 Germany
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=chrome#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-01T21:39:07Z count:48
 vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@178.17.49.87:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&sni=nl-modx-prime.storagedirectguide.com#🇩🇪 Germany
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@144.31.4.234:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&sni=direct-nl.bachidze.com#UNKNOWN
