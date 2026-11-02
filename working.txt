@@ -131,8 +131,8 @@ vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:38963?type=xhttp&secu
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=raw&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#UNKNOWN
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?type=raw&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
 vless://7a5cbb56-228f-4a38-b640-5d5803b5dbb5@2.27.13.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rzI5ztDs5y3-xSCFG3tlo7s9mPgp6HOMXDYGRcdQtx4&security=reality&sid=0bf0f7bbde7f7ccd&sni=govnetfin.farted.net&type=tcp#UNKNOWN
-# source:FLAT447_white updated:2026-11-02T09:19:48Z count:2
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=raw&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?fp=edge&host=www.samsung.com&path=%2F&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp#UNKNOWN
+# source:FLAT447_white updated:2026-11-02T19:59:36Z count:2
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp&fp=firefox#🇳🇱 Netherlands
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?encryption=none&fp=chrome&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&security=reality&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&type=tcp#🇺🇸 United States
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
