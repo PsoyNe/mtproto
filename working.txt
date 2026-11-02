@@ -49,8 +49,13 @@ vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&se
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
-# source:igareck updated:2026-11-02T19:54:12Z count:1
-vless://aa4450fa-0292-4275-a17d-b01ae08360b7@de3.kartamira.cc:5555?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de6-site.kartamira.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=firefox#🇩🇪 Germany
+# source:igareck updated:2026-11-02T23:37:03Z count:6
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&security=reality&sni=patch-25.topp-con.xyz&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=chrome#🇩🇪 Germany
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&security=reality&sni=patch-25.topp-con.xyz&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=ios#🇩🇪 Germany
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&security=reality&sni=patch-25.topp-con.xyz&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=firefox#🇩🇪 Germany
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&security=reality&sni=patch-25.topp-con.xyz&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=safari#🇩🇪 Germany
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=db-23.topp-con.xyz&security=reality&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&sid=20b37477b1d93f7e&fp=qq#🇺🇸 United States
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443?security=reality&type=tcp&sni=db-23.topp-con.xyz&host=db-23.topp-con.xyz&flow=xtls-rprx-vision&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&sid=20b37477b1d93f7e&allowInsecure=1&fp=qq#UNKNOWN
 # source:aviamastersgh updated:2026-11-02T09:16:26Z count:5
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?security=reality&encryption=none&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru11.oshost.network&sid=97a15f5af85c4a30#🇬🇧 United Kingdom
 vless://a356fa77-7199-417a-80dd-0c0925789161@hw5.roghanmo.com:465?sni=hw5.roghanmo.com.&alpn=http/1.1&type=ws&host=hw5.roghanmo.com&path=/fp=chrome&security=tls#🇩🇪 Germany
