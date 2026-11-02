@@ -176,13 +176,12 @@ vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?type=raw&security=r
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?type=raw&security=reality&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&sni=updates.cdn-apple.com#🇺🇸 United States
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=raw#🇳🇱 Netherlands
 vless://727a9178-d7f0-4142-8205-b0d19959ded0@2.56.3.106:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bol.com&fp=firefox&security=reality&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a#🇫🇮 Finland
-# source:FLAT447_black updated:2026-11-01T21:39:31Z count:6
+# source:FLAT447_black updated:2026-11-02T00:31:50Z count:5
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:38963?type=xhttp&security=reality&fp=qq&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sni=lv.neuroniko.com&mode=auto#🇱🇻 Latvia
-vless://7d0fd363-16d2-43ce-9d6d-ed2c15d2cb7c@51.15.16.68:2053?type=raw&security=reality&fp=chrome&pbk=Zotx4F9CI6_q9yeKCKIHDjwzCv_Aq7WSo7N0Zc1A6Sc&sid=3c99c85cbb6b3b44&sni=www.apple.com#🇳🇱 Netherlands
-vless://5f56202c-7741-45be-a9f9-eab2d1b7575d@172.236.96.70:8443?security=reality&pbk=t1EfLTZbuteZoUMYJ45eMB25qXvKpyhUDczTWKyK_Hw&fp=chrome&type=raw&flow=xtls-rprx-vision-udp443&sni=play.googleapis.com&sid=45f605f1e9db13f9#🇺🇸 United States
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 United States
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?fp=chrome&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&security=reality&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&type=raw#🇺🇸 United States
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
 # source:FLAT447_white updated:2026-11-01T21:39:40Z count:2
 vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:38963?mode=auto&path=%2F&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=lv.neuroniko.com&type=xhttp&fp=chrome#🇱🇻 Latvia
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=raw&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
