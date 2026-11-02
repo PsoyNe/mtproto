@@ -76,7 +76,8 @@ vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443/?type=tcp&encr
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=edge&sid=6c5c7900406a1ae7&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM#🇵🇱 Poland
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror-50.topp-con.xyz&fp=chrome&security=reality&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798#🇪🇪 Estonia
 vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?flow=xtls-rprx-vision&security=reality&sni=net.formatgo.ru&fp=firefox&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&sid=9d0e1b6bf9c5eddb&type=tcp&headerType=none&host=net.formatgo.ru&path=%2f#UNKNOWN
-# source:roosterkid updated:2026-11-02T06:15:17Z count:1
+# source:roosterkid updated:2026-11-02T09:11:02Z count:2
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#UNKNOWN
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
