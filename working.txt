@@ -168,13 +168,14 @@ vless://07f8eee3-d263-44e0-86eb-146617ea25e7@150.241.87.52:443?type=raw&security
 vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@72.56.52.229:443?flow=xtls-rprx-vision&security=reality&sni=lv.dexlen.cc&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ#🇱🇻 Latvia
 vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&sni=d100.relay.logicnova.ru#UNKNOWN
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#🇳🇱 Netherlands
-# source:FLAT447_black updated:2026-11-02T03:27:03Z count:6
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@89.125.13.43:443?type=xhttp&security=reality&fp=firefox&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&sni=player.vimeo.com&mode=auto#🇪🇪 Estonia
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@es3.h1cloud.net:25150/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=Qvn7tV54mdqxJ40LmmoI1PRM1QKXEbfFOZS-omPKhGY&sid=4301a484cc762aa6#UNKNOWN
+# source:FLAT447_black updated:2026-11-02T06:22:13Z count:7
+vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879?type=tcp&security=reality&fp=firefox&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&sid=f1a7a14461a3f389&sni=www.bing.com#🇨🇭 Switzerland
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#🇳🇱 Netherlands
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&encryption=none&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&headerType=none&fp=firefox&type=tcp&sni=updates.cdn-apple.com&sid=df8611c07d#🇺🇸 United States
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&security=reality&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&host=www.samsung.com#UNKNOWN
 vless://421697ee-a1b7-474a-b084-48cb0e05aee3@80.210.32.110:49959?type=tcp#🇳🇱 Netherlands
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@es3.h1cloud.net:25150/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=Qvn7tV54mdqxJ40LmmoI1PRM1QKXEbfFOZS-omPKhGY&sid=4301a484cc762aa6#UNKNOWN
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&security=reality&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&host=www.samsung.com#UNKNOWN
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
 # source:FLAT447_white updated:2026-11-02T03:27:14Z count:4
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&fp=chrome&path=%2F&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp#🇳🇱 Netherlands
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&fp=chrome&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp#🇳🇱 Netherlands
