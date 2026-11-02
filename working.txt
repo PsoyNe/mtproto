@@ -56,12 +56,9 @@ vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vis
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&security=reality&sni=patch-25.topp-con.xyz&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=safari#🇩🇪 Germany
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=db-23.topp-con.xyz&security=reality&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&sid=20b37477b1d93f7e&fp=qq#🇺🇸 United States
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443?security=reality&type=tcp&sni=db-23.topp-con.xyz&host=db-23.topp-con.xyz&flow=xtls-rprx-vision&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&sid=20b37477b1d93f7e&allowInsecure=1&fp=qq#UNKNOWN
-# source:aviamastersgh updated:2026-11-02T09:16:26Z count:5
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?security=reality&encryption=none&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru11.oshost.network&sid=97a15f5af85c4a30#🇬🇧 United Kingdom
-vless://a356fa77-7199-417a-80dd-0c0925789161@hw5.roghanmo.com:465?sni=hw5.roghanmo.com.&alpn=http/1.1&type=ws&host=hw5.roghanmo.com&path=/fp=chrome&security=tls#🇩🇪 Germany
-vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@13.143.164.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=fl3.lenvex.cc&type=tcp#🇫🇮 Finland
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.245.177:443?security=reality&type=tcp&sni=media-91.topp-con.xyz&host=media-91.topp-con.xyz&flow=xtls-rprx-vision&fp=random&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&allowInsecure=1#🇩🇪 Germany
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.124.208.36:443?flow=xtls-rprx-vision&security=reality&sni=media-32.topp-con.xyz&fp=chrome&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#UNKNOWN
+# source:aviamastersgh updated:2026-11-02T23:39:33Z count:2
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🇵🇱 Poland
+vless://6158d429-74fe-4415-aae5-5ead48c2ecfa@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#🇷🇺 Russia
 # source:AetrisVPN_white updated:2026-11-02T19:57:05Z count:3
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@147.45.148.6:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@213.159.209.66:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&security=reality&sid=97a15f5af85c4a30&sni=ru11.oshost.network&type=tcp&fp=chrome#UNKNOWN
