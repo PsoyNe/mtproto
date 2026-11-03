@@ -92,12 +92,12 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.187.248:443?encryption=none&
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/?TELEGRAM--BYA--CHANEL---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#🇩🇪 Germany
 vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?&security=reality&flow=xtls-rprx-vision&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F#🇹🇷 Turkey
 vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=17fa3af0924c88b3#UNKNOWN
-# source:AetrisVPN_white updated:2026-11-03T02:29:17Z count:5
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=raw&fp=chrome#🇷🇺 Russia
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=patch-25.topp-con.xyz&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#🇩🇪 Germany
+# source:AetrisVPN_white updated:2026-11-03T05:19:03Z count:5
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@85.193.85.231:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?flow=xtls-rprx-vision&security=reality&sni=www.nordea.fi&fp=firefox&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk#🇫🇮 Finland
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&fp=chrome#UNKNOWN
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=raw&fp=chrome#🇷🇺 Russia
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@147.45.148.6:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&fp=chrome#🇳🇱 Netherlands
 # source:AetrisVPN_global updated:2026-11-03T02:30:37Z count:41
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.39:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&sni=tickets.betust.net#🇩🇪 Germany
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.202.67.219:443?flow=xtls-rprx-vision&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=raw#🇩🇪 Germany
