@@ -83,10 +83,9 @@ vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?encryption=none&f
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@185.153.55.23:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-v2.porsche.com&sid=1a2b3c4d#🇸🇪 Sweden
 vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@5.129.237.55:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LFbPIbtPbYVHinY8qVv9uGji-10AUbJRpiy2b1w35ls&sid=a623829279b6054a&sni=www.asml.com#UNKNOWN
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
-# source:roosterkid updated:2026-11-03T21:19:54Z count:3
+# source:roosterkid updated:2026-11-04T00:11:06Z count:2
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=swidenafterlanzerotte.space&fp=chrome&flow=xtls-rprx-vision&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&encryption=none#🇺🇸 United States
 vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@217.60.33.67:8443?security=reality&type=tcp&packetEncoding=xudp&sni=go-obsh-auto-drun.keno.su&fp=chrome&flow=xtls-rprx-vision&sid=de&pbk=-r5xcA3iTzAf63kkb0VIILrLHH1VUq550pFZ-M74Jlc#🇵🇱 Poland
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&type=tcp&packetEncoding=xudp&sni=www.chip.de&fp=chrome&sid=23732d14a527990d&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&encryption=none#UNKNOWN
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
