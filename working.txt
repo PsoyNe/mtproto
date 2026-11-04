@@ -76,11 +76,10 @@ vless://af9d833d-c08b-4b3f-b65a-97c19a0d1722@46.8.21.97:443?encryption=none&pbk=
 vless://af9d833d-c08b-4b3f-b65a-97c19a0d1722@46.8.21.97:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=firefox#🇳🇱 Netherlands
 vless://557a1d71-15a4-4d73-a6a3-a99765dda4f0@46.8.21.96:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=firefox#🇳🇱 Netherlands
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect.accessgate.link:2084?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=ios#🇲🇰 N. Macedonia
-# source:aviamastersgh updated:2026-11-04T11:25:27Z count:4
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@195.189.98.197:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@45.141.202.69:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#🇳🇱 Netherlands
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?security=reality&encryption=none&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smart.bachidze.com#🇸🇪 Sweden
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443/?type=tcp&encryption=none&flow=&sni=wordpress.com&fp=chrome&security=reality&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564#🇳🇱 Netherlands
+# source:aviamastersgh updated:2026-11-04T14:15:07Z count:3
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@45.141.202.69:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#🇳🇱 Netherlands
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
 # source:AetrisVPN_white updated:2026-11-04T11:25:49Z count:8
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@85.193.85.231:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=patch-25.topp-con.xyz&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#🇩🇪 Germany
