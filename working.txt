@@ -95,8 +95,9 @@ vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&se
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&spx=%2F&type=raw#🇸🇪 Sweden
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?encryption=none&security=reality&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&sni=tickets.betust.net&fp=ios&type=tcp&flow=xtls-rprx-vision#UNKNOWN
 vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm2.rmastore.ir:443?security=reality&encryption=none&pbk=ni-BSyQElC9A5Z3IX8QgJm-ppnt8--j9mCOl5Zs9ySM&headerType=none&fp=chrome&type=tcp&sni=www.amazonaws-china.com&sid=c33dbd1c2c3e7afc#UNKNOWN
-# source:roosterkid updated:2026-11-04T08:32:47Z count:1
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
+# source:roosterkid updated:2026-11-04T22:40:52Z count:2
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@154.26.188.52:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=b46b142b&pbk=Njwb7fCl8PXKOs3owDB-gjzbmEyEewlL6JlMKwMTUQc#🇺🇸 United States
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
