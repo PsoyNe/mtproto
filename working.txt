@@ -109,12 +109,15 @@ vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443/?type=tcp&encrypt
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.177.63:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&security=reality&sid=ef5d4ad5&sni=app.betust.net&type=tcp#🇳🇱 Netherlands
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@144.31.4.234:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🇵🇱 Poland
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.177.63:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app.betust.net&sid=ef5d4ad5#🇳🇱 Netherlands
-# source:AetrisVPN_white updated:2026-11-04T19:56:08Z count:5
+# source:AetrisVPN_white updated:2026-11-04T22:44:39Z count:8
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@85.193.85.231:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://00d09ead-4080-4c39-a75d-be7dcabe77f4@217.19.122.170:2096?encryption=none&flow=xtls-rprx-vision&pbk=26eRxOLahaWymVv1f33Za0Cw56VDNJ8BN2bEKznW-m4&security=reality&sid=2a096f7b298d0aba&sni=bm8.hat.onl&type=raw&fp=chrome#🇵🇱 Poland
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.194:443?flow=xtls-rprx-vision&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&type=raw&fp=chrome#🇸🇪 Sweden
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?flow=xtls-rprx-vision&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&type=tcp&fp=chrome#🇸🇪 Sweden
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@join.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&security=reality&sid=351224a7&sni=join.betust.net&spx=%2F&type=tcp&fp=chrome#🇸🇪 Sweden
+vless://03929684-0dcf-4add-bb02-2b2ba09d10a2@31.177.111.236:443?flow=xtls-rprx-vision&security=reality&sni=tfhx4tjzmy39benjh0hg.sellerape.cc&fp=firefox&pbk=Kamryj_IUYECmozGabqUqauA0k0QpVUEPSBSEKi-ED0#🇵🇱 Poland
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@147.45.148.6:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.143:443?encryption=none&flow=xtls-rprx-vision&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&security=reality&sid=351224a7&sni=join.betust.net&spx=%2F&type=raw&fp=chrome#🇸🇪 Sweden
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@join.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&security=reality&sid=351224a7&sni=join.betust.net&spx=%2F&type=tcp&fp=chrome#🇸🇪 Sweden
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?flow=xtls-rprx-vision&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&type=tcp&fp=chrome#🇸🇪 Sweden
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.194:443?flow=xtls-rprx-vision&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&type=raw&fp=chrome#🇸🇪 Sweden
 # source:AetrisVPN_global updated:2026-11-04T19:57:34Z count:61
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@tickets.betust.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tickets.betust.net&fp=firefox&security=reality&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#🇩🇪 Germany
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?flow=xtls-rprx-vision&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&security=reality&sid=f70764f8&sni=tickets.betust.net&type=raw&fp=ios#🇩🇪 Germany
