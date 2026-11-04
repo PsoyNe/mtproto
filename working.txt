@@ -113,8 +113,7 @@ vless://913dc759-8639-4890-9bfc-a9acdc5090cf@89.110.64.15:443?encryption=none&fp
 vless://ff34be52-b9a6-54e8-b262-5e839e6a6ac2@167.104.166.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4-rbY6ItUutAV13q9VdEcWtCc2H2C382F4Y7IwfCwQw&security=reality&sid=ffffeeee&sni=developer.mozilla.org&type=tcp#🇯🇵 Japan
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=raw&security=reality&fp=qq&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=www.chip.de#UNKNOWN
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&sni=wordpress.com&fp=chrome&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&type=tcp&encryption=none#UNKNOWN
-# source:FLAT447_white updated:2026-11-04T08:39:30Z count:2
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=chrome&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
-vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de2.h1clayd.click:443?type=tcp&security=reality&sni=100497t.de2.h1clayd.click&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&encryption=none&fp=firefox#UNKNOWN
+# source:FLAT447_white updated:2026-11-04T11:28:39Z count:1
+vless://6a251a93-8eee-43b5-92ed-ecadedcfd0a8@213.165.39.134:443?encryption=none&flow=xtls-rprx-vision&pbk=Gtz3xOdQdWSocdx4NNie6s-bsa9VDiG6thqanJ4h31s&security=reality&sid=6f3332a09b0ab6d1&sni=platform-api.max.ru&type=tcp&fp=firefox#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
