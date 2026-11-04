@@ -231,9 +231,13 @@ vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@5.129.237.55:443?type=raw&security=
 vless://3ceda178-78fe-4695-a1ef-a591ae7a2c97@5e094at.de27.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=-Kj5RBoDmULkrxxd6qNDAfpfoPpL9DY07FRVM_TME1M&sid=30eb12b1050ee52d&sni=5e094at.de27.h1clayd.click#🇩🇪 Germany
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?type=raw&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?type=raw&security=reality&fp=ios&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
-# source:FLAT447_black updated:2026-11-04T00:17:00Z count:2
+# source:FLAT447_black updated:2026-11-04T03:08:27Z count:6
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=raw&security=reality&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=www.chip.de#UNKNOWN
 vless://3ceda178-78fe-4695-a1ef-a591ae7a2c97@5e094at.de27.h1clayd.click:443?type=tcp&security=reality&sni=5e094at.de27.h1clayd.click&fp=firefox&pbk=-Kj5RBoDmULkrxxd6qNDAfpfoPpL9DY07FRVM_TME1M&sid=30eb12b1050ee52d&spx=%2F&encryption=none#🇩🇪 Germany
 vless://3ceda178-78fe-4695-a1ef-a591ae7a2c97@185.255.115.58:443?type=tcp&security=reality&fp=firefox&pbk=-Kj5RBoDmULkrxxd6qNDAfpfoPpL9DY07FRVM_TME1M&sid=30eb12b1050ee52d&sni=5e094at.de27.h1clayd.click#🇩🇪 Germany
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@87.228.92.124:443?type=tcp&security=reality&fp=chrome&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com&packetEncoding=none#🇳🇱 Netherlands
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@a0688bt.us4.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click#🇺🇸 United States
 # source:FLAT447_white updated:2026-11-04T00:17:13Z count:1
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=chrome&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
