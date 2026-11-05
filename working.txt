@@ -25,10 +25,8 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@in1.japancase.site:443?&security=re
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@kz1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&security=reality&sid=4000cdda6278d236&sni=kz1.japancase.site&type=tcp&fp=firefox#🇰🇿 Kazakhstan
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@us2.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=us2.japancase.site&type=tcp&fp=chrome#🇺🇸 United States
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@95.57.50.87:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&security=reality&sid=4000cdda6278d236&sni=kz1.japancase.site&type=tcp#🇰🇿 Kazakhstan
-# source:roosterkid updated:2026-11-05T18:43:47Z count:3
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#🇵🇱 Poland
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=tcp&packetEncoding=none&alpn=h2%2Chttp%2F1.1&sni=w.geogame.ir&fp=chrome#🇫🇷 France
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&type=tcp&packetEncoding=none&sni=rusbid.de&fp=firefox&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#🇨🇿 Czechia
+# source:roosterkid updated:2026-11-05T21:41:46Z count:1
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=tcp&packetEncoding=none&sni=w.geogame.ir#🇫🇷 France
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
