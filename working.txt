@@ -168,7 +168,7 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@45.131.65.116:443?flow=xtls-rprx-vi
 # source:FLAT447_black updated:2026-11-05T09:59:02Z count:2
 vless://3d7813c8-fbfb-47a3-95a6-d491db4eda93@89.125.234.79:443?flow=xtls-rprx-vision&fp=firefox&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&security=reality&sid=16e0f049&sni=pl79.mech-pro.online&type=raw#🇵🇱 Poland
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?encryption=none&security=reality&sni=wordpress.com&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&type=tcp&headerType=none#🇳🇱 Netherlands
-# source:FLAT447_white updated:2026-11-05T07:09:51Z count:1
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=chrome&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
+# source:FLAT447_white updated:2026-11-05T09:59:28Z count:1
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp&fp=safari#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
