@@ -33,8 +33,8 @@ vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=real
 # source:igareck updated:2026-11-05T18:44:28Z count:2
 vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&support-x25519mlkem768=true&fp=qq#🇱🇹 Lithuania
 vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&support-x25519mlkem768=true&fp=firefox#UNKNOWN
-# source:aviamastersgh updated:2026-11-05T18:47:15Z count:1
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
+# source:aviamastersgh updated:2026-11-05T21:45:06Z count:1
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&ech=AF/+DQBbAAAgACCtCCV2+T2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA==&type=tcp&allowInsecure=0&sni=w.geogame.ir#🇫🇷 France
 # source:AetrisVPN_white updated:2026-11-05T18:47:42Z count:1
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#UNKNOWN
 # source:AetrisVPN_global updated:2026-11-05T18:48:48Z count:15
