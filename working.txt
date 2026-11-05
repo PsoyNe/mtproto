@@ -102,9 +102,10 @@ vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.143:443?encryption=none&f
 vless://35bf718e-d929-457c-804a-2e9035d541c4@112.120.54.238:39471?encryption=none&security=reality&pbk=79kBx_jBo5cqkQ-9Hlm5s-1i_DnddFx9rJ8NBaXY-GQ&sni=www.byu.edu&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇭🇰 Hong Kong
 vless://59fca0f3-9a6d-471a-9f32-044f353be7eb@djjsg5.wawojk.dpdns.org:24204?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cYQgUq-cSRENj3PWzyBLvXqIdVYSTqQ8vrnYGATiliI&sid=7788afae&sni=www.asus.com#🇸🇬 Singapore
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.20:2063?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&security=reality&sni=rusbid.de&type=tcp#🇸🇪 Sweden
-# source:roosterkid updated:2026-11-04T22:40:52Z count:2
+# source:roosterkid updated:2026-11-05T01:27:46Z count:3
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#🇳🇱 Netherlands
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@154.26.188.52:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=b46b142b&pbk=Njwb7fCl8PXKOs3owDB-gjzbmEyEewlL6JlMKwMTUQc#🇺🇸 United States
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#UNKNOWN
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
