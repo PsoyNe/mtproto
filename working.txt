@@ -34,14 +34,22 @@ vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?type=
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
 # source:AetrisVPN_white updated:2026-11-05T18:47:42Z count:1
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#UNKNOWN
-# source:AetrisVPN_global updated:2026-11-05T15:49:54Z count:7
+# source:AetrisVPN_global updated:2026-11-05T18:48:48Z count:15
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@50.7.193.132:443?flow=xtls-rprx-vision&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&security=reality&sid=77a8c8c8&sni=prime.jarbook.net&type=raw&fp=ios#🇳🇱 Netherlands
+vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?flow=xtls-rprx-vision&security=reality&sni=tiktok2.transitbp2systems.com&fp=firefox&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE#🇩🇪 Germany
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=prime.jarbook.net&fp=firefox&security=reality&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8#UNKNOWN
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@main.jarbook.net:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&sid=d889ac17&sni=main.jarbook.net#🇳🇱 Netherlands
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8&sni=prime.jarbook.net#🇳🇱 Netherlands
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.126.97:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=COvqGpB7lUdZshmbn5zdqiVi81n8Iyha8RbEHtK93xc&sid=5037f0423dc4e4ff&sni=pl3.japancase.site#UNKNOWN
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&sni=gemsubbgem.world#🇺🇸 United States
-vless://3d7813c8-fbfb-47a3-95a6-d491db4eda93@pl79.mech-pro.online:443?flow=xtls-rprx-vision&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&security=reality&sid=16e0f049&sni=pl79.mech-pro.online&type=raw&fp=chrome#🇵🇱 Poland
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@panel.betust.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=panel.betust.net&fp=firefox&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&flow=xtls-rprx-vision#🇳🇱 Netherlands
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.betust.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=app.betust.net&fp=firefox&security=reality&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5#🇳🇱 Netherlands
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&security=reality&sid=f70764f8&sni=tickets.betust.net&type=tcp&fp=firefox#🇩🇪 Germany
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@fi-94-10.cdn-lab.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi-94-10.cdn-lab.online&fp=firefox&security=reality&pbk=d1aZn0vbZdj0VrkfiXE7D10TRmdf91oa1LwCxQEAcBg&sid=a74baa611fbfb118#🇫🇮 Finland
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.199.84:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&sid=38559e47f5536913&sni=fi3game.japancase.site#🇫🇮 Finland
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@se1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#🇸🇪 Sweden
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@kz1.japancase.site:443?flow=xtls-rprx-vision&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&security=reality&sid=4000cdda6278d236&sni=kz1.japancase.site&type=raw&fp=firefox#🇰🇿 Kazakhstan
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@85.155.246.16:2063?flow=xtls-rprx-vision&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&security=reality&sni=rusbid.de&type=raw#🇨🇿 Czechia
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sni=rusbid.de&host=rusbid.de#🇵🇱 Poland
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.252.43:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#🇸🇪 Sweden
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sni=rusbid.de#🇨🇿 Czechia
 # source:FLAT447_black updated:2026-11-05T15:50:28Z count:2
 vless://a42e1f76-fcab-45f1-bd04-22cf0d967f43@c450b7t.tr3.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=44ODiPvzSh4x62n0lOQIlKuvQVNjHwCZh8gfvn6Evno&sid=f8fc81dee8a05dee&sni=c450b7t.tr3.h1clayd.click#🇹🇷 Turkey
 vless://a42e1f76-fcab-45f1-bd04-22cf0d967f43@8f0750t.us2.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=RjGIsElUkOvve7GOOtrOfEKrokPflt7vCulSeLR54W4&sid=40e5f6ef92c7e9b6&sni=8f0750t.us2.h1clayd.click#UNKNOWN
