@@ -86,9 +86,10 @@ vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&t
 vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?encryption=mlkem768x25519plus.random.0rtt.xeb-laivvHb_XcYpR8DzPf2KUGyaFnAqzMD5rnWbSkY&security=reality&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&sid=cb&spx=%2F914f5d7e3339bb7&sni=www.semiconductor.samsung.com&fp=chrome&type=tcp#🇫🇮 Finland
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@154.201.73.209:21899?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=dedce016e3671418&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0#🇺🇸 United States
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@45.141.202.69:443?fp=ios&type=tcp&headerType=none&security=reality&encryption=none&sni=files.porsche.com&flow=xtls-rprx-vision&sid=1a2b3c4d&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk#🇳🇱 Netherlands
-# source:roosterkid updated:2026-11-05T09:52:14Z count:2
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a44ff7d2e80213c2&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg#🇫🇷 France
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
+# source:roosterkid updated:2026-11-05T12:43:39Z count:3
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#🇨🇿 Czechia
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#🇵🇱 Poland
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F&packetEncoding=xudp#🇰🇷 South Korea
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
