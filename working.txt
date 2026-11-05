@@ -55,9 +55,9 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?type=raw&secur
 vless://3d7813c8-fbfb-47a3-95a6-d491db4eda93@pl79.mech-pro.online:443?flow=xtls-rprx-vision&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&security=reality&sid=16e0f049&sni=pl79.mech-pro.online&type=raw&fp=chrome#🇵🇱 Poland
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@se1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#🇸🇪 Sweden
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@kz1.japancase.site:443?flow=xtls-rprx-vision&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&security=reality&sid=4000cdda6278d236&sni=kz1.japancase.site&type=raw&fp=firefox#🇰🇿 Kazakhstan
-# source:FLAT447_black updated:2026-11-05T12:50:14Z count:2
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5051?type=tcp#🇭🇷 Croatia
-vless://41fb5fc3-f2b8-4c85-9b3a-775e3d5e5f71@9e75c7t.de27.h1clayd.click:443?pbk=NPMi74DLD4X83z1qgOaVXRSW22KB89JJ_t08vRZA1R0&security=reality&sid=02bc0384eb4eadca&sni=9e75c7t.de27.h1clayd.click&spx=%2Fc7a845eb77c5e47&type=raw&fp=chrome#🇩🇪 Germany
+# source:FLAT447_black updated:2026-11-05T15:50:28Z count:2
+vless://a42e1f76-fcab-45f1-bd04-22cf0d967f43@c450b7t.tr3.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=44ODiPvzSh4x62n0lOQIlKuvQVNjHwCZh8gfvn6Evno&sid=f8fc81dee8a05dee&sni=c450b7t.tr3.h1clayd.click#🇹🇷 Turkey
+vless://a42e1f76-fcab-45f1-bd04-22cf0d967f43@8f0750t.us2.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=RjGIsElUkOvve7GOOtrOfEKrokPflt7vCulSeLR54W4&sid=40e5f6ef92c7e9b6&sni=8f0750t.us2.h1clayd.click#UNKNOWN
 # source:FLAT447_white updated:2026-11-05T09:59:28Z count:1
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp&fp=safari#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
