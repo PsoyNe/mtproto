@@ -199,13 +199,10 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.123:443?encryption=none&fl
 vless://cd9e8f35-f81d-40e0-be24-8c64e6064bd8@85.202.192.182:16869?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VumJcTEwOBhCfYk_GEiIE9aZmGSo3YNcHzo88jmNe00&sid=a466126c88f8d749&sni=splitter.wb.ru#UNKNOWN
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@72.56.41.232:443?flow=xtls-rprx-vision&security=reality&sni=usatimewebnew.space&fp=firefox&pbk=FFsBozg2vRN-wNNsv6Y97sbr4EF5aIHiYF7-xHa_9Fk#🇺🇸 United States
 vless://70ea7ad0-be9c-4392-89a0-0ff4b25f1784@85.202.192.182:36194?flow=xtls-rprx-vision&fp=firefox&pbk=5e2q9Lwp3fM6O43ltelPnh8LqKS351BufHG9RJfMjSc&security=reality&sid=b5a6832232b712b7&sni=splitter.wb.ru&type=raw#UNKNOWN
-# source:FLAT447_black updated:2026-11-05T01:32:58Z count:6
-vless://41fb5fc3-f2b8-4c85-9b3a-775e3d5e5f71@9e75c7t.de27.h1clayd.click:443?type=tcp&security=reality&fp=qq&pbk=NPMi74DLD4X83z1qgOaVXRSW22KB89JJ_t08vRZA1R0&sid=02bc0384eb4eadca&sni=9e75c7t.de27.h1clayd.click&support-x25519mlkem768=true#🇩🇪 Germany
-vless://41fb5fc3-f2b8-4c85-9b3a-775e3d5e5f71@185.255.115.58:443?encryption=none&fp=firefox&pbk=NPMi74DLD4X83z1qgOaVXRSW22KB89JJ_t08vRZA1R0&security=reality&sid=02bc0384eb4eadca&sni=9e75c7t.de27.h1clayd.click&type=tcp#🇩🇪 Germany
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@45.159.144.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kqFDKE3z7o9a2KoFM4IEHzoaeU-vYCAU5-jspLY1cH4&security=reality&sid=37f7ef1f627f1c29&sni=at-85-10.cdn-lab.online&type=tcp#🇩🇪 Germany
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@at-85-10.cdn-lab.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at-85-10.cdn-lab.online&fp=firefox&security=reality&pbk=kqFDKE3z7o9a2KoFM4IEHzoaeU-vYCAU5-jspLY1cH4&sid=37f7ef1f627f1c29#🇩🇪 Germany
-vless://913dc759-8639-4890-9bfc-a9acdc5090cf@vvsvvs.soreanapanel.com:443?type=raw&security=reality&fp=firefox&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&sid=371f6e&sni=graphs.4cdn.de#🇳🇱 Netherlands
+# source:FLAT447_black updated:2026-11-05T04:20:06Z count:3
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&sni=wordpress.com&fp=chrome&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&type=tcp&encryption=none#🇳🇱 Netherlands
+vless://41fb5fc3-f2b8-4c85-9b3a-775e3d5e5f71@185.255.115.58:443?encryption=none&fp=firefox&pbk=NPMi74DLD4X83z1qgOaVXRSW22KB89JJ_t08vRZA1R0&security=reality&sid=02bc0384eb4eadca&sni=9e75c7t.de27.h1clayd.click&type=tcp#🇩🇪 Germany
+vless://41fb5fc3-f2b8-4c85-9b3a-775e3d5e5f71@9e75c7t.de27.h1clayd.click:443?encryption=none&fp=qq&pbk=NPMi74DLD4X83z1qgOaVXRSW22KB89JJ_t08vRZA1R0&security=reality&sid=02bc0384eb4eadca&sni=9e75c7t.de27.h1clayd.click&spx=%2Fc7a845eb77c5e47&support-x25519mlkem768=true&type=tcp#🇩🇪 Germany
 # source:FLAT447_white updated:2026-11-04T17:08:21Z count:1
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=raw&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
