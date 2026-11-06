@@ -43,28 +43,10 @@ vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?type=t
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-11-06T15:41:30Z count:1
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#🇪🇪 Estonia
-# source:AetrisVPN_global updated:2026-11-06T12:25:22Z count:21
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&fp=ios#🇷🇺 Russia
+# source:AetrisVPN_global updated:2026-11-06T15:42:23Z count:3
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&sni=sundaylanzgem.site#🇩🇪 Germany
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.102.238:443?flow=xtls-rprx-vision&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&security=reality&sid=ef5d4ad5&sni=app.betust.net&type=raw#UNKNOWN
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.betust.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=app.betust.net&fp=firefox&security=reality&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5#UNKNOWN
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.199.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi3game.japancase.site&fp=firefox&security=reality&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&sid=38559e47f5536913#🇫🇮 Finland
-vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&sni=nl1.kids-games.ru#🇳🇱 Netherlands
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@fi3game.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&sid=38559e47f5536913&sni=fi3game.japancase.site#🇫🇮 Finland
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@se1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#🇸🇪 Sweden
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@84.32.129.184:443?flow=xtls-rprx-vision&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&security=reality&sid=4f339f5f&sni=subscribe.goonars.com&type=raw&fp=firefox#🇺🇸 United States
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?type=raw&security=reality&sni=subscribe.goonars.com&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&sid=4f339f5f&fp=firefox&spx=%2F&flow=xtls-rprx-vision#🇺🇸 United States
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@turk.worldfly.io:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=turk.worldfly.io&pbk=DpWKCVbF-CmSc3s-Xr3EP_aLATZNF016s1Q_I-yz2V0&sid=3c571713d5b8ec62&fp=firefox#🇵🇱 Poland
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@swedenvet.vetryx.shop:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=china.vetryx.shop&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&fp=firefox#🇸🇪 Sweden
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@95.57.50.87:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz1.japancase.site&fp=firefox&security=reality&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&sid=4000cdda6278d236#🇰🇿 Kazakhstan
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@92.118.206.159:443?flow=xtls-rprx-vision&pbk=EVmZyqEbtEI8d93h1MkFjNVj-DVZRATr9C1Dh1OODmE&security=reality&sni=modx-au.bachidze.com&type=raw&fp=ios#🇩🇪 Germany
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@194.87.118.30:447?flow=xtls-rprx-vision&fp=firefox&pbk=c6qPPICblyThkO6ecaMjmJAGo2dGQ8BNyQxk7zK6Jxo&security=reality&sid=3e158af590d8ef87&sni=loveplanet.top&type=raw#🇩🇪 Germany
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@kz1.japancase.site:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz1.japancase.site&fp=ios&security=reality&pbk=eV6ewGF7oTHf2pTQHKYvwJt-vU8hUC-1CjiUl20HtXE&sid=4000cdda6278d236#🇰🇿 Kazakhstan
-vless://a4e5f910-23f4-470f-82a7-ed9d7be71dec@13.143.167.251:8443?type=raw&security=reality&sni=teamdocs.su&fp=edge&pbk=d6qmF8ibk_PxtDJPzSa7LKw9VUI_mZ59DrTvmW3RaFc&sid=10983e6c816181c2&flow=xtls-rprx-vision#🇵🇱 Poland
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tickets.betust.net&fp=firefox&security=reality&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8#🇩🇪 Germany
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.62.158:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=q97mUwRiZeygHgoRa6PJHDamhGS5lrMMB0zh6qFY6gk&sni=www.maxima.lv#🇩🇪 Germany
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@193.233.252.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&security=reality&sid=b470934eb6924098&sni=china.vetryx.shop&type=tcp#🇸🇪 Sweden
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@13.143.192.200:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gOzBi_a99jyGQyM5tVwDpi7EQ_3eaj-v15mHOTs9xkY&sni=kulek.tech#🇩🇪 Germany
+vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@schweic.worldfly.io:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=schweic.worldfly.io&pbk=dyFChktSfbZT29JZ3hetyOa4k53U6g6opd9suKsG4hw&sid=740732f996dc1213&fp=firefox#🇩🇪 Germany
 # source:FLAT447_black updated:2026-11-06T09:30:49Z count:1
 vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.251.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=grOuLMf8qYwwB0EFvBDmoVKsM4LSaovUKOIk8Whe-14&security=reality&sid=7311e59b009bbed5&sni=at-86-10.cdn-lab.online&type=tcp#🇳🇱 Netherlands
 # source:FLAT447_white updated:2026-11-06T09:30:53Z count:1
