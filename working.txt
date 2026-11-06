@@ -142,20 +142,20 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@92.118.206.159:443?flow=xtls-rprx-v
 vless://255a8044-3337-473e-af26-46a37208adcc@cdn4.anytube.ru:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=cdn4.anytube.ru#🇳🇱 Netherlands
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&fp=chrome&path=%2F#UNKNOWN
 vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@147.78.182.7:443?type=xhttp&security=reality&fp=firefox&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&sni=www.epson.com#🇺🇸 United States
-# source:FLAT447_black updated:2026-11-06T03:39:35Z count:13
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@178.20.28.2:443?type=xhttp&security=reality&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net#🇩🇪 Germany
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.47.4:443?type=xhttp&security=reality&fp=firefox&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&sni=download.nvidia.com#🇺🇸 United States
-vless://8dddc313-e588-478b-9175-8702da3235bf@de2.globalhost.pro:8443?type=xhttp&security=reality&fp=firefox&pbk=Nt8xLPceedZzXktrPMqwbdMpB3_NT1C1iHBFN0r_8UQ&sid=da1f31f073d71b4f&sni=de2.globalhost.pro&mode=auto#🇩🇪 Germany
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.47.5:443?type=xhttp&security=reality&fp=firefox&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&sni=download.nvidia.com#🇫🇮 Finland
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@at-86-10.cdn-lab.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=at-86-10.cdn-lab.online&fp=firefox&pbk=grOuLMf8qYwwB0EFvBDmoVKsM4LSaovUKOIk8Whe-14&sid=7311e59b009bbed5&flow=xtls-rprx-vision#🇳🇱 Netherlands
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@45.88.13.8:443?type=xhttp&security=reality&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com#🇫🇮 Finland
-vless://1c80222f-9fd9-db7b-c1ae-86c82c158b9d@122.8.46.7:443?type=xhttp&security=reality&fp=firefox&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&sni=download.nvidia.com&mode=auto#🇺🇸 United States
-vless://1c80222f-9fd9-db7b-c1ae-86c82c158b9d@147.78.182.7:443?type=xhttp&security=reality&fp=firefox&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&sni=www.epson.com&mode=auto#🇺🇸 United States
+# source:FLAT447_black updated:2026-11-06T06:36:01Z count:13
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.251.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=grOuLMf8qYwwB0EFvBDmoVKsM4LSaovUKOIk8Whe-14&security=reality&sid=7311e59b009bbed5&sni=at-86-10.cdn-lab.online&type=tcp#🇳🇱 Netherlands
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@at-86-10.cdn-lab.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=at-86-10.cdn-lab.online&pbk=grOuLMf8qYwwB0EFvBDmoVKsM4LSaovUKOIk8Whe-14&sid=7311e59b009bbed5&fp=firefox#🇳🇱 Netherlands
 vless://1c80222f-9fd9-db7b-c1ae-86c82c158b9d@122.8.46.9:443?type=xhttp&security=reality&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&sni=www.canon.com&mode=auto#🇫🇮 Finland
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.46.7:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&path=%2F#🇺🇸 United States
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.47.5:443?type=xhttp&security=reality&fp=firefox&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&sni=download.nvidia.com#🇫🇮 Finland
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@45.88.13.8:443?type=xhttp&security=reality&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com#🇫🇮 Finland
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.47.5:443?type=xhttp&security=reality&fp=chrome&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&sni=download.nvidia.com&path=/#🇫🇮 Finland
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@178.20.28.2:443?type=xhttp&security=reality&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net#🇩🇪 Germany
+vless://1c80222f-9fd9-db7b-c1ae-86c82c158b9d@147.78.182.7:443?type=xhttp&security=reality&fp=firefox&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&sni=www.epson.com&mode=auto#🇺🇸 United States
+vless://1c80222f-9fd9-db7b-c1ae-86c82c158b9d@122.8.46.7:443?type=xhttp&security=reality&fp=firefox&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&sni=download.nvidia.com&mode=auto#🇺🇸 United States
 vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?type=xhttp&security=reality&fp=firefox&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&sni=download.autodesk.com#🇺🇸 United States
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@140.235.168.7:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=download.nvidia.com&fp=chrome&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&path=%2F#🇺🇸 United States
 vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@140.235.168.7:443?type=xhttp&security=reality&fp=firefox&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&sni=download.nvidia.com#🇺🇸 United States
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@140.235.168.7:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=download.nvidia.com&fp=chrome&pbk=fCVnWVMTCS5fzMMTwk7EaBLlg4a2kAVDt2CG2jwobQ0&path=%2F#🇺🇸 United States
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.46.7:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&path=%2F#🇺🇸 United States
 # source:FLAT447_white updated:2026-11-05T09:59:28Z count:1
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp&fp=safari#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
