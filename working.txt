@@ -21,7 +21,7 @@ vless://d76372d4-0ae6-4e9c-83ac-65dd02987476@13.61.18.106:443?encryption=mlkem76
 vless://92b368fe-8991-4345-a726-b512ba6da8da@PARVAZ.zqpm.ir:20753?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520#🇺🇸 United States
 # source:roosterkid updated:2026-11-06T12:20:17Z count:1
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?security=reality&type=tcp&packetEncoding=xudp&sni=c8.qwyak.ru&fp=chrome&flow=xtls-rprx-vision&sid=b2baf331493d3de1&pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&encryption=none#🇩🇪 Germany
-# source:DukeMehdi updated:2026-11-06T15:38:23Z count:1
+# source:DukeMehdi updated:2026-11-06T19:05:48Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-06T09:26:05Z count:6
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&fp=edge#🇺🇸 United States
