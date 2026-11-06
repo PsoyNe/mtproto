@@ -45,8 +45,7 @@ vless://bb190cdb-82ae-4212-b6cd-8ae9e6b768dd@ea0gmd8p.mtrxnet.click:53898?encryp
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app26.betust.net&fp=chrome&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&type=tcp&headerType=none#🇱🇹 Lithuania
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?encryption=none&fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#🇳🇱 Netherlands
-# source:AetrisVPN_white updated:2026-11-06T19:09:10Z count:3
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#🇪🇪 Estonia
+# source:AetrisVPN_white updated:2026-11-06T22:05:53Z count:2
 vless://bb190cdb-82ae-4212-b6cd-8ae9e6b768dd@188.225.78.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aV_BHCeZ30y4-5rpUIHaWHMYAgogLsw4AE06Rw2X4WE&security=reality&sid=e202a94ad1711af2&sni=music.yandex.ru&type=raw#🇩🇪 Germany
 vless://c97c95c8-41c8-4dc7-be21-c745c9dbd6c1@46.254.19.138:30055?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Dj93DPhAYHy9WEFC6UwxgGGPGF0Hrdhv3_kkoTcy0SM&security=reality&sid=7b9d0309&sni=de2.frnet.space&type=raw#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-06T19:10:03Z count:27
