@@ -27,8 +27,10 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#🇪🇪 Estonia
 # source:aviamastersgh updated:2026-11-06T19:08:52Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:AetrisVPN_white updated:2026-11-06T15:41:30Z count:1
+# source:AetrisVPN_white updated:2026-11-06T19:09:10Z count:3
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#🇪🇪 Estonia
+vless://bb190cdb-82ae-4212-b6cd-8ae9e6b768dd@188.225.78.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aV_BHCeZ30y4-5rpUIHaWHMYAgogLsw4AE06Rw2X4WE&security=reality&sid=e202a94ad1711af2&sni=music.yandex.ru&type=raw#🇩🇪 Germany
+vless://c97c95c8-41c8-4dc7-be21-c745c9dbd6c1@46.254.19.138:30055?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Dj93DPhAYHy9WEFC6UwxgGGPGF0Hrdhv3_kkoTcy0SM&security=reality&sid=7b9d0309&sni=de2.frnet.space&type=raw#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-06T15:42:23Z count:3
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&sni=sundaylanzgem.site#🇩🇪 Germany
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?type=raw&security=reality&sni=subscribe.goonars.com&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&sid=4f339f5f&fp=firefox&spx=%2F&flow=xtls-rprx-vision#🇺🇸 United States
