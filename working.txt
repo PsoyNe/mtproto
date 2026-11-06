@@ -27,7 +27,7 @@ vless://ce64591a-fe2d-48cd-b738-e5f591eea784@45.139.85.207:443?encryption=none&s
 vless://965b4baf-69b3-48a7-b06f-4777edcad520@alman2.starlink6.us:443?fp=chrome&headerType=none&sid=643704e38f715b44&sni=varzesh3.com&type=tcp&security=reality&pbk=dEBSc0FTl52IM3kMsiiQfQ6cSo8wachCygSqvezjBHI&encryption=none#UNKNOWN
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@in1.japancase.site:443?&security=reality&flow=xtls-rprx-vision&pbk=lDBwW08dYwPP-7dVxYQ_clzfFwsDHLlclz9K2cEV6DM&sid=df7b054cfc29800c&fp=ios&sni=in1.japancase.site&type=tcp&headerType=none&host=in1.japancase.site&path=%2F#🇮🇳 India
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gemsubbgem.world&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&fp=chrome#🇩🇪 Germany
-# source:roosterkid updated:2026-11-05T21:41:46Z count:1
+# source:roosterkid updated:2026-11-06T00:38:24Z count:1
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=tcp&packetEncoding=none&sni=w.geogame.ir#🇫🇷 France
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
