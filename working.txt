@@ -39,9 +39,8 @@ vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&f
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&fp=chrome#🇺🇸 United States
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&fp=firefox#🇺🇸 United States
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&fp=safari#🇺🇸 United States
-# source:aviamastersgh updated:2026-11-06T12:23:39Z count:2
-vless://537c96a2-33ae-44ea-adc3-5fc510b7fb98@zibanabz.jonsonvip.ir:3939?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&sid=d9a2600fdecd7be2&spx=/16504cba99195d6&type=tcp&headerType=none#🇩🇪 Germany
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
+# source:aviamastersgh updated:2026-11-06T15:41:21Z count:1
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-11-06T12:24:00Z count:3
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect1.accessgate.link:2880?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=chrome#🇪🇪 Estonia
