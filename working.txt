@@ -41,9 +41,8 @@ vless://92b79c22-f68b-4713-8b21-52f264cb92f5@132.243.74.115:2087?encryption=none
 vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE#🇺🇸 United States
 vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@122.8.46.7:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk#🇺🇸 United States
 vless://e15db5c2-2dca-49fc-857b-aa37a7ba1c79@43.108.85.54:443?security=reality&type=tcp&sni=cloudflare.com&fp=chrome&sid=68307e&pbk=v5HjgwMvPEsrpqwtgEytMQ3xs-1Cdv2gOCiGMZ2vimc#🇰🇷 South Korea
-# source:roosterkid updated:2026-11-06T06:29:27Z count:2
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=w.geogame.ir&fp=chrome#🇫🇷 France
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F&packetEncoding=xudp&sni=152.69.226.63#🇰🇷 South Korea
+# source:roosterkid updated:2026-11-06T09:25:14Z count:1
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?security=reality&type=tcp&packetEncoding=xudp&sni=c8.qwyak.ru&fp=chrome&flow=xtls-rprx-vision&sid=b2baf331493d3de1&pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&encryption=none#🇩🇪 Germany
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
