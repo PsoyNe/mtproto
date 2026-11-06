@@ -109,7 +109,7 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@92.118.206.159:443?flow=xtls-rprx-v
 vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@194.87.118.30:447?flow=xtls-rprx-vision&fp=firefox&pbk=c6qPPICblyThkO6ecaMjmJAGo2dGQ8BNyQxk7zK6Jxo&security=reality&sid=3e158af590d8ef87&sni=loveplanet.top&type=raw#🇩🇪 Germany
 # source:FLAT447_black updated:2026-11-06T09:30:49Z count:1
 vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.251.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=grOuLMf8qYwwB0EFvBDmoVKsM4LSaovUKOIk8Whe-14&security=reality&sid=7311e59b009bbed5&sni=at-86-10.cdn-lab.online&type=tcp#🇳🇱 Netherlands
-# source:FLAT447_white updated:2026-11-05T09:59:28Z count:1
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp&fp=safari#🇳🇱 Netherlands
+# source:FLAT447_white updated:2026-11-06T09:30:53Z count:1
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@at-86-10.cdn-lab.online:443?encryption=none&flow=xtls-rprx-vision&pbk=grOuLMf8qYwwB0EFvBDmoVKsM4LSaovUKOIk8Whe-14&security=reality&sid=7311e59b009bbed5&sni=at-86-10.cdn-lab.online&type=tcp&fp=firefox#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
