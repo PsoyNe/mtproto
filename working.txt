@@ -62,10 +62,10 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=non
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=safari#🇺🇸 United States
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=chrome#🇳🇴 Norway
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&ech=AF/+DQBbAAAgACCtCCV2+T2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA==&type=tcp&allowInsecure=0&sni=w.geogame.ir#🇫🇷 France
-# source:AetrisVPN_white updated:2026-11-06T00:42:12Z count:3
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#🇷🇺 Russia
-vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?flow=xtls-rprx-vision&security=reality&sni=nl1.kids-games.ru&fp=firefox&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU#🇳🇱 Netherlands
+# source:AetrisVPN_white updated:2026-11-06T03:37:51Z count:3
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@83.147.246.12:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
+vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?flow=xtls-rprx-vision&security=reality&sni=nl1.kids-games.ru&fp=firefox&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU#🇳🇱 Netherlands
+vless://255a8044-3337-473e-af26-46a37208adcc@37.9.4.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BGe-GOf-JkNWNay9--36nR4ZFHYNjGmpzVTQcXthR2A&security=reality&sid=647547b8f895f9b9&sni=anvil.kachow.ink&type=raw#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-06T00:43:23Z count:33
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&security=reality&sid=f70764f8&sni=tickets.betust.net&type=tcp&fp=firefox#🇩🇪 Germany
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@panel.betust.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=panel.betust.net&fp=firefox&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&flow=xtls-rprx-vision#🇳🇱 Netherlands
