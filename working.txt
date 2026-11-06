@@ -25,7 +25,7 @@ vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?security=reality&
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-06T19:06:32Z count:1
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#🇪🇪 Estonia
-# source:aviamastersgh updated:2026-11-06T15:41:21Z count:1
+# source:aviamastersgh updated:2026-11-06T19:08:52Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-11-06T15:41:30Z count:1
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@185.86.147.191:8445?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&security=reality&sni=passport.yandex.ru&spx=%2F&type=tcp&fp=chrome#🇪🇪 Estonia
