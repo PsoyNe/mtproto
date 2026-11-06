@@ -41,8 +41,10 @@ vless://ce64591a-fe2d-48cd-b738-e5f591eea784@45.139.85.207:443?encryption=none&s
 vless://965b4baf-69b3-48a7-b06f-4777edcad520@alman2.starlink6.us:443?fp=chrome&headerType=none&sid=643704e38f715b44&sni=varzesh3.com&type=tcp&security=reality&pbk=dEBSc0FTl52IM3kMsiiQfQ6cSo8wachCygSqvezjBHI&encryption=none#🇩🇪 Germany
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&fp=edge&sni=unpkg.com&type=tcp&headerType=none&host=unpkg.com&path=%2F#🇳🇴 Norway
 vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@162afct.lt2.h1clayd.click:443?encryption=none&security=reality&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&fp=qq&type=tcp&flow=xtls-rprx-vision#🇱🇹 Lithuania
-# source:roosterkid updated:2026-11-06T00:38:24Z count:1
+# source:roosterkid updated:2026-11-06T03:33:47Z count:3
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security=tls&type=tcp&packetEncoding=xudp&sni=us007.zestapp778.com&fp=chrome#🇺🇸 United States
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&type=tcp&packetEncoding=none&sni=w.geogame.ir#🇫🇷 France
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?security=tls&type=tcp&allowInsecure=1&sni=sg003.zestapp778.com&fp=chrome#UNKNOWN
 # source:DukeMehdi updated:2026-10-24T22:55:24Z count:2
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7#PL
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#PL
