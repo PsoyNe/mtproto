@@ -67,9 +67,10 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&fp=qq#UNKNOWN
 # source:aviamastersgh updated:2026-11-07T15:24:19Z count:1
 vless://3837e7a5-d40e-4b85-8700-5f9725a5a2cb@45.143.94.91:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3Kgy_0tHtOzEn9_mEylNsBVlAHNngT6S4AuYy5wEOSU&sid=0c37b64d1935ebc1&sni=us1.cloudvienta.com#🇺🇸 United States
-# source:AetrisVPN_white updated:2026-11-07T12:27:50Z count:2
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
+# source:AetrisVPN_white updated:2026-11-07T15:24:28Z count:3
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?encryption=none&flow=xtls-rprx-vision&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#🇷🇺 Russia
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#🇷🇺 Russia
+vless://aeee4ca7-e119-4fae-90f2-f7ef9bc9ebf9@194.67.125.188:443?encryption=none&flow=xtls-rprx-vision&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&security=reality&sid=b5ea2877aadeb97c&sni=us1.serverslocal.ru&type=tcp&fp=chrome#🇺🇸 United States
 # source:AetrisVPN_global updated:2026-11-07T12:29:28Z count:25
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@50.7.95.226:443?flow=xtls-rprx-vision&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&security=reality&sid=d889ac17&sni=main.jarbook.net&type=raw&fp=chrome#🇳🇱 Netherlands
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@main.jarbook.net:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&sid=d889ac17&sni=main.jarbook.net#🇳🇱 Netherlands
