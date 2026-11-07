@@ -59,8 +59,8 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.65:443?encryption=none&sec
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43118?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=p0crO-ZNRjb07T_GGy9JdkXTjei3-D9f6s2ZzCo2gx8&sid=1a70fe8d4b05&sni=v1-dy.ixigua.com&servername=v1-dy.ixigua.com&spx=%2F&fp=edge#🇰🇷 South Korea
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43117?encryption=none&type=tcp&security=reality&pbk=sx45rPTYcCjQaHYudo1gfNFWYN4mQ4SCwGHfdGU-Hwc&sid=1f34079b44529536&flow=xtls-rprx-vision&sni=v1-dy.ixigua.com&fp=edge#🇮🇱 Israel
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?encryption=none&type=tcp&security=reality&pbk=9WulHOrPZIMdOVwTo-9Z2puTD8GNlt6ctR3hpemHgxc&sid=e5086b3dc5&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&fp=edge#🇧🇷 Brazil
-# source:roosterkid updated:2026-11-07T09:26:19Z count:1
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=tcp&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#UNKNOWN
+# source:roosterkid updated:2026-11-07T15:20:54Z count:1
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=raw&sni=at1.japancase.site&fp=edge&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg#🇦🇹 Austria
 # source:DukeMehdi updated:2026-11-07T12:24:18Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-07T12:25:14Z count:1
