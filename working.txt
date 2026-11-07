@@ -59,7 +59,7 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr1.japancase.site:443?&security=re
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?encryption=none&fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#🇳🇱 Netherlands
 # source:roosterkid updated:2026-11-07T06:29:46Z count:1
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=tcp&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#UNKNOWN
-# source:DukeMehdi updated:2026-11-07T03:48:46Z count:1
+# source:DukeMehdi updated:2026-11-07T06:29:50Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-07T00:56:29Z count:3
 vless://bb190cdb-82ae-4212-b6cd-8ae9e6b768dd@188.225.78.228:443?encryption=none&flow=xtls-rprx-vision&pbk=aV_BHCeZ30y4-5rpUIHaWHMYAgogLsw4AE06Rw2X4WE&security=reality&sid=e202a94ad1711af2&sni=music.yandex.ru&type=raw&fp=chrome#🇩🇪 Germany
