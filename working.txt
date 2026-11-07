@@ -84,14 +84,13 @@ vless://2cd9dc41-aace-41e3-b9bf-436875f0c0d2@78.17.215.170:443?flow=xtls-rprx-vi
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?type=raw&security=reality&pbk=9WulHOrPZIMdOVwTo-9Z2puTD8GNlt6ctR3hpemHgxc&sid=e5086b3dc5&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&fp=edge#🇧🇷 Brazil
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#UNKNOWN
 vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?security=reality&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=passport.yandex.ru#🇪🇪 Estonia
-# source:FLAT447_black updated:2026-11-07T15:26:03Z count:7
+# source:FLAT447_black updated:2026-11-07T18:22:55Z count:6
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?type=xhttp&security=reality&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&sid=db724eb12631c05f&sni=aiartstudios.best&host=aiartstudios.best&mode=auto#🇱🇹 Lithuania
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@aiartstudios.best:443?type=xhttp&security=reality&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&sid=db724eb12631c05f&sni=aiartstudios.best&host=aiartstudios.best&mode=auto#🇱🇹 Lithuania
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@162.35.102.51:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best#🇺🇸 United States
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@bridgestone.best:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best&host=bridgestone.best&mode=auto&extra={#🇺🇸 United States
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.41:443?type=tcp&security=reality&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click#UNKNOWN
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@162.35.102.51:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best#🇺🇸 United States
+vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?security=reality&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=passport.yandex.ru#🇪🇪 Estonia
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click#🇺🇸 United States
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@71b840t.de7.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click#UNKNOWN
 # source:FLAT447_white updated:2026-11-07T15:26:14Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=ios#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=firefox#UNKNOWN
