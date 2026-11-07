@@ -70,8 +70,12 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@92.118.206.155:443?encryption=none&
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=raw&sni=at1.japancase.site&fp=edge&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg#🇦🇹 Austria
 # source:DukeMehdi updated:2026-11-07T21:16:56Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-07T18:18:55Z count:1
-vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&fp=edge#UNKNOWN
+# source:igareck updated:2026-11-07T21:17:26Z count:5
+vless://0aa6bee3-cfa1-0004-9a76-19f231d1681f@194.26.229.241:443?encryption=none&flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&security=reality&sni=aeza1.maxtelemost.com&type=tcp&fp=chrome#UNKNOWN
+vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@selek3.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selek3.gamma-kvn.com&alpn=h2&type=tcp&headerType=none&fp=android#🇳🇱 Netherlands
+vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&fp=qq#🇨🇭 Switzerland
+vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@selek3.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selek3.gamma-kvn.com&alpn=h2&type=tcp&headerType=none&fp=chrome#🇳🇱 Netherlands
+vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&fp=edge#🇨🇭 Switzerland
 # source:aviamastersgh updated:2026-11-07T18:21:13Z count:5
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at1.japancase.site&sid=41ae8e266bc3346f#UNKNOWN
