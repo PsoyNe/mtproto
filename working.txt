@@ -57,8 +57,8 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@usatimewebnew.space:443?encryption=
 vless://a5acbf10-25ef-4ecc-a652-c8fcbcdb4ab1@77.112.133.160:36896?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=2XKHM7uQObdzgVnu2gubysdXLyBCpZRJtCtfOd4tcF0&fp=chrome&spx=%2F378c54211cf55ea&type=xhttp&sni=gateway-india.icloud.com&sid=14#🇺🇸 United States
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr1.japancase.site:443?&security=reality&flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&fp=chrome&sni=tr1.japancase.site&type=tcp&headerType=none&host=tr1.japancase.site&path=%2F#UNKNOWN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?encryption=none&fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#🇳🇱 Netherlands
-# source:roosterkid updated:2026-11-07T00:55:27Z count:1
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=at1.japancase.site#🇦🇹 Austria
+# source:roosterkid updated:2026-11-07T06:29:46Z count:1
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=tcp&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#UNKNOWN
 # source:DukeMehdi updated:2026-11-07T03:48:46Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-07T00:56:29Z count:3
