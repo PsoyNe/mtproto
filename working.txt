@@ -107,15 +107,11 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 # source:igareck updated:2026-11-08T12:08:42Z count:2
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto&sni=5.53.124.191#UNKNOWN
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=safari#UNKNOWN
-# source:aviamastersgh updated:2026-11-08T09:12:06Z count:8
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@94.156.170.64:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#🇩🇪 Germany
+# source:aviamastersgh updated:2026-11-08T12:11:10Z count:4
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇩🇪 Germany
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.116:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#UNKNOWN
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#🇹🇷 Turkey
-vless://e60f89d9-ea22-4db0-aaa5-508d39fd87ea@185.203.4.97:24009?security=reality&encryption=none&pbk=FRrmnh-6aZBPg6zdxiS3VPuS2uW2w2kfq_oHBf4iiU8&fp=chrome&spx=/4763731c28d5fe2&type=grpc&sni=it.nvidia.com&sid=5b7222#🇩🇪 Germany
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?security=reality&encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&headerType=none&fp=chrome&type=tcp&sni=04535dt.us9.h1clayd.click&sid=ba2a3dce62b99092#🇺🇸 United States
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@162.35.102.51:443?security=reality&encryption=none&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&fp=chrome&type=xhttp&sni=bridgestone.best&sid=a7d31f9c82e64b50#🇺🇸 United States
-vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@62981et.us11.h1clayd.click:443?security=reality&encryption=none&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&headerType=none&fp=chrome&spx=/&type=tcp&sni=62981et.us11.h1clayd.click&sid=ce43937e79bc30f0#🇺🇸 United States
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇺🇸 United States
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@13.143.167.154:443?security=reality&encryption=none&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-balancer.peregrine-sub.net#🇵🇱 Poland
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?mode=auto&path=/&security=none&encryption=none&type=xhttp#UNKNOWN
 # source:AetrisVPN_white updated:2026-11-08T09:12:20Z count:3
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?encryption=none&flow=xtls-rprx-vision&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
