@@ -72,11 +72,11 @@ vless://cd9680e1-f115-4e16-91b9-ea59576c212d@moscow1.banovano.space:443?encrypti
 # source:aviamastersgh updated:2026-11-08T21:10:47Z count:2
 vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@196.245.52.188:443?security=reality&encryption=none&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&headerType=none&fp=chrome&type=tcp&sni=62981et.us11.h1clayd.click&sid=ce43937e79bc30f0#UNKNOWN
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
-# source:AetrisVPN_white updated:2026-11-08T18:14:14Z count:4
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?flow=xtls-rprx-vision&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@kz-cdn-prsv-forum.keno.su:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@188.120.242.217:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=chrome#🇨🇭 Switzerland
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=chrome#🇨🇭 Switzerland
+# source:AetrisVPN_white updated:2026-11-08T21:10:59Z count:4
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@31.130.151.97:443?flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=0GBR6DwsCQEYEa7QZHnOqbwmEMr8moms1sFU-wT-bHE#🇱🇻 Latvia
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@188.225.42.208:443?flow=xtls-rprx-vision&security=reality&sni=shop.okhta-mebel.site&fp=firefox&pbk=CfHPtlNvqfK3QPvYfV7u-NjZcQh-buXZTA9gaGwvKmI&sid=b781a152ee#🇩🇪 Germany
+vless://4d079fbe-33ac-4a80-8441-b0e1818b286a@78.17.98.192:443?flow=xtls-rprx-vision&security=reality&sni=direct.vpndoctor.top&fp=firefox&pbk=QPmrizvOUCOOIvlupGnt1reR5bui3U8EZl00VHU4GRA&sid=3f9537eb0626292b#🇱🇻 Latvia
 # source:AetrisVPN_global updated:2026-11-08T18:15:45Z count:45
 vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?type=raw#🇩🇪 Germany
 vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?type=tcp#🇩🇪 Germany
