@@ -150,12 +150,13 @@ vless://54066259-28a1-47dc-b0f7-e7715f27918e@537df6t.ch5.h1clayd.click:443?type=
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.160.212:443?security=reality&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇺🇸 United States
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.65:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8&sni=smart2.khinikadze.com#🇳🇱 Netherlands
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.65:443?flow=xtls-rprx-vision&security=reality&sni=smart2.khinikadze.com&fp=qq&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8#🇳🇱 Netherlands
-# source:FLAT447_black updated:2026-11-08T09:14:44Z count:5
+# source:FLAT447_black updated:2026-11-08T12:13:21Z count:6
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@88.216.129.233:443?security=reality&sni=art-media.live&fp=firefox&pbk=AJxMbMVTdXPGHeyla_rG9EW_ICt1nqAVdnCB6qnlrgU&sid=94289e3f4774195d&type=xhttp&host=art-media.live&encryption=none#🇸🇪 Sweden
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@art-media.live:443?type=xhttp&security=reality&fp=firefox&pbk=AJxMbMVTdXPGHeyla_rG9EW_ICt1nqAVdnCB6qnlrgU&sid=94289e3f4774195d&sni=art-media.live&host=art-media.live&mode=auto#🇸🇪 Sweden
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@art-media.live:443?mode=auto&path=%2F&security=reality&pbk=AJxMbMVTdXPGHeyla_rG9EW_ICt1nqAVdnCB6qnlrgU&host=art-media.live&fp=firefox&type=xhttp&sni=art-media.live&sid=94289e3f4774195d#🇸🇪 Sweden
 vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?type=tcp#🇩🇪 Germany
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?type=xhttp&security=reality&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&sid=db724eb12631c05f&sni=aiartstudios.best&host=aiartstudios.best&mode=auto#🇱🇹 Lithuania
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@162.35.102.51:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best#🇺🇸 United States
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@bridgestone.best:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best&host=bridgestone.best&mode=auto&extra={#🇺🇸 United States
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click#UNKNOWN
 # source:FLAT447_white updated:2026-11-08T03:22:00Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=ios#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
