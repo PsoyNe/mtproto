@@ -72,11 +72,8 @@ vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&
 # source:aviamastersgh updated:2026-11-08T15:15:57Z count:2
 vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Germany
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇺🇸 United States
-# source:AetrisVPN_white updated:2026-11-08T12:11:35Z count:4
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#🇷🇺 Russia
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp#UNKNOWN
+# source:AetrisVPN_white updated:2026-11-08T15:16:17Z count:1
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp#🇨🇦 Canada
 # source:AetrisVPN_global updated:2026-11-08T12:12:50Z count:32
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&fp=qq#🇩🇪 Germany
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@50.7.95.226:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&sid=d889ac17&sni=main.jarbook.net#🇳🇱 Netherlands
