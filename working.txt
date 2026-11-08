@@ -60,8 +60,8 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@usatimewebnew.space:443?encryption=
 vless://7f6ee01e-c243-4c84-9cf2-7d8ecc0da202@57d89862-2f3e-4b36-bf20-bf5d302eeaa6.69290827-acbd-4035-94cd-4d1fa0997bb8.byteprivatelink.com:443?security=reality&sni=tva1.sinaimg.cn&fp=ios&flow=xtls-rprx-vision&pbk=rV6kc94WuI-e8k94iQ8l8SHTvTynTjtd8io7LDByEnc&sid=e5b9c61d&type=tcp#🇭🇰 Hong Kong
 vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp#🇨🇦 Canada
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@92.118.206.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EVmZyqEbtEI8d93h1MkFjNVj-DVZRATr9C1Dh1OODmE&security=reality&sni=modx-au.bachidze.com&type=tcp#🇩🇪 Germany
-# source:roosterkid updated:2026-11-08T06:16:33Z count:1
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=tcp&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#🇦🇹 Austria
+# source:roosterkid updated:2026-11-08T21:07:05Z count:1
+vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?encryption=none&fp=chrome&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp#🇳🇱 Netherlands
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-08T18:11:22Z count:4
