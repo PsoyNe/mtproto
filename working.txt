@@ -90,7 +90,7 @@ vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?encryptio
 vless://6e1fa926-5ef0-4a11-ac67-3d394d36247c@103.149.91.176:17100?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Loy2FtO5PutrMmM4K4qFyG0_KrZhQ5xgomecNrFFLCM&security=reality&sid=0d5c6e30&sni=apple.com&type=tcp#UNKNOWN
 # source:roosterkid updated:2026-11-08T00:15:50Z count:1
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?encryption=none&security=reality&sni=100497t.de18.h1clayd.click&fp=firefox&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&type=tcp&headerType=none#🇩🇪 Germany
-# source:DukeMehdi updated:2026-11-07T21:16:56Z count:1
+# source:DukeMehdi updated:2026-11-08T00:15:54Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-07T21:17:26Z count:5
 vless://0aa6bee3-cfa1-0004-9a76-19f231d1681f@194.26.229.241:443?encryption=none&flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&security=reality&sni=aeza1.maxtelemost.com&type=tcp&fp=chrome#UNKNOWN
