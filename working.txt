@@ -112,9 +112,9 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=
 vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@3fb2b6t.se1.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se1.h1clayd.click#🇸🇪 Sweden
 vless://8af1ac56-283b-4fc5-bb33-6892498a0592@177.1.187.226:8443?flow=xtls-rprx-vision&pbk=y3u1F-c0ty_fGNRSVxcrMrLDEvCN2EflCiDlyk0YERo&security=reality&sni=b.res-nsdi.ru&type=raw&fp=edge#UNKNOWN
 vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?security=reality&sni=15d7fft.nl11.h1clayd.click&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&packetEncoding=xudp#UNKNOWN
-# source:FLAT447_black updated:2026-11-08T18:16:13Z count:2
-vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?type=tcp#🇩🇪 Germany
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@71b840t.de7.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click#🇩🇪 Germany
+# source:FLAT447_black updated:2026-11-08T21:12:33Z count:2
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@cdn-rum-keno-prsv.keno.su:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#🇷🇴 Romania
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@cdn-rum-keno-prsv.keno.su:443?security=reality&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#🇷🇴 Romania
 # source:FLAT447_white updated:2026-11-08T03:22:00Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=ios#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
