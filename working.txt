@@ -187,8 +187,8 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?type
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click#🇺🇸 United States
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@bridgestone.best:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best&host=bridgestone.best&mode=auto&extra={#🇺🇸 United States
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@162.35.102.51:443?type=xhttp&security=reality&fp=firefox&pbk=7T1P1SUjOmgdvYnEyjnBxeo0pI3ilNgY8DPxC3y-6w0&sid=a7d31f9c82e64b50&sni=bridgestone.best#🇺🇸 United States
-# source:FLAT447_white updated:2026-11-08T00:20:58Z count:2
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
+# source:FLAT447_white updated:2026-11-08T03:22:00Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=ios#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
