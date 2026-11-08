@@ -105,7 +105,8 @@ vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?encryptio
 vless://4a02db06-cd14-433b-a05e-d723812be9c8@156.238.224.252:21521?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GPEKqQY86dtZ5XQVS89zbUcTpL7tFsqFwyI0BCedckk&security=reality&sid=675d2c4a&sni=apple.com&type=tcp#🇺🇸 United States
 vless://53847432-a231-469b-b356-8567dd8a6d65@111.91.18.88:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=FZOsZbCqYY2zBHdoAMrd8eTuV77-z2yHd4d0_nhdzRQ&sid=44e92cb724ed0de1&fp=chrome#UNKNOWN
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@88.216.57.210:443?security=reality&encryption=none&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=subscribe.goonars.com&sid=4f339f5f#🇺🇸 United States
-# source:roosterkid updated:2026-11-08T00:15:50Z count:1
+# source:roosterkid updated:2026-11-08T03:15:31Z count:2
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl3.japancase.site&fp=firefox&flow=xtls-rprx-vision&sid=0d98b07acc98ccef&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&encryption=none#🇳🇱 Netherlands
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?encryption=none&security=reality&sni=100497t.de18.h1clayd.click&fp=firefox&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&type=tcp&headerType=none#🇩🇪 Germany
 # source:DukeMehdi updated:2026-11-08T00:15:54Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
