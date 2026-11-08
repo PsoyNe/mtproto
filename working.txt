@@ -75,7 +75,7 @@ vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@82.148.247.24:443?encryption=none&f
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@92.118.206.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EVmZyqEbtEI8d93h1MkFjNVj-DVZRATr9C1Dh1OODmE&security=reality&sni=modx-au.bachidze.com&type=tcp#UNKNOWN
 # source:roosterkid updated:2026-11-08T06:16:33Z count:1
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=tcp&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#🇦🇹 Austria
-# source:DukeMehdi updated:2026-11-08T06:16:37Z count:1
+# source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-08T03:16:52Z count:14
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.249.155:443?security=reality&type=tcp&sni=assets-59.topp-con.xyz&fp=firefox&flow=xtls-rprx-vision&sid=b9120cd53ffd7bba&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU#🇫🇮 Finland
