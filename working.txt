@@ -106,11 +106,12 @@ vless://db80088c-32a1-4cb8-a907-0f3cb7844152@pl3.japancase.site:443?encryption=n
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?security=reality&encryption=none&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.peregrine-sub.net#🇫🇮 Finland
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?security=reality&encryption=none&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr3.japancase.site&sid=071c3bd86b0c3c73#🇹🇷 Turkey
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?mode=auto&path=/&security=none&encryption=none&type=xhttp#UNKNOWN
-# source:AetrisVPN_white updated:2026-11-07T21:20:04Z count:4
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#UNKNOWN
+# source:AetrisVPN_white updated:2026-11-08T00:19:23Z count:5
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&security=reality&sni=yoy-api.bachidze.com&type=tcp&fp=chrome#🇷🇺 Russia
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@kz-cdn-prsv-forum.keno.su:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
 vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?encryption=none&flow=xtls-rprx-vision&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@kz-cdn-prsv-forum.keno.su:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp&fp=chrome#🇰🇿 Kazakhstan
+vless://0aa6bee3-cfa1-0004-9a76-19f231d1681f@194.26.229.241:443?encryption=none&flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&security=reality&sni=aeza1.maxtelemost.com&type=tcp&fp=chrome#🇨🇿 Czechia
 # source:AetrisVPN_global updated:2026-11-07T21:21:26Z count:38
 vless://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?type=raw#🇩🇪 Germany
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@50.7.95.226:443?flow=xtls-rprx-vision&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&security=reality&sid=d889ac17&sni=main.jarbook.net&type=raw#🇳🇱 Netherlands
