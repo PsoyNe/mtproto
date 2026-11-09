@@ -138,8 +138,8 @@ vless://546fdb65-0967-45e8-a61b-b22ff85f11c9@537df6t.nl16.h1clayd.click:443?type
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?type=tcp&security=reality&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision&fp=edge#UNKNOWN
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=chrome#UNKNOWN
 vless://546fdb65-0967-45e8-a61b-b22ff85f11c9@537df6t.nl16.h1clayd.click:443?type=tcp&security=reality&sni=537df6t.nl16.h1clayd.click&fp=firefox&pbk=U-i0W0UqanfhBrLz1OBlAJQejwhs3rE23nFAjlR6pEU&sid=b64bde4903453877&spx=%2F&encryption=none#🇺🇸 United States
-# source:aviamastersgh updated:2026-11-09T20:42:09Z count:1
-vless://ed1d539a-8507-45de-8253-cbc272161473@canwec.kramiliantha.sbs:443?security=reality&encryption=none&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=canwec.kramiliantha.sbs&sid=be7d0c9dda4dd4e6#🇨🇦 Canada
+# source:aviamastersgh updated:2026-11-09T23:36:40Z count:1
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#🇸🇪 Sweden
 # source:AetrisVPN_white updated:2026-11-09T17:45:11Z count:2
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2083?flow=xtls-rprx-vision&security=reality&sni=frb1.hat.onl&fp=edge&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&sid=1cfdb63f3b860379#🇫🇷 France
 vless://798ab01c-eb0f-4e1e-9a99-a486ca4eaaf3@46.161.14.13:443?flow=xtls-rprx-vision&security=reality&sni=vkuseraudio.com&fp=firefox&pbk=wj4JJuI6yc1jICZFE3vGZjFP5Js4RyvaSIRKFNVSsB0&sid=5dffebe33d1e36#UNKNOWN
