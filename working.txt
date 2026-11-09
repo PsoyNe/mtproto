@@ -79,7 +79,7 @@ vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?type=raw&securit
 vless://54847525-04b2-47ec-b05e-266d37bc8715@144.31.51.81:33517?encryption=none&fp=firefox&pbk=baHq6sp0MwdJZbXy6AQGHi6szdmUzx6Xk5RRiTQ1XUw&security=reality&sid=6f&sni=api15.yandex-cdn-mirror.ru&type=xhttp#🇩🇪 Germany
 vless://67d258aa-fffa-45f7-953e-58cd000082e6@196.245.217.70:443?encryption=none&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp#🇳🇱 Netherlands
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=chrome#UNKNOWN
-# source:FLAT447_white updated:2026-11-09T17:47:43Z count:1
-vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@83.171.241.153:443?security=reality&sni=d58daft.plp1.h1cloud.net&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c#UNKNOWN
+# source:FLAT447_white updated:2026-11-09T20:44:10Z count:1
+vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp&fp=safari#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
