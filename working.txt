@@ -51,11 +51,8 @@ vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?security=real
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?security=reality&encryption=none&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl2-edge.gacvpn.site&fp=firefox#🇵🇱 Poland
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?security=reality&encryption=none&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl2-edge.gacvpn.site&fp=chrome#🇵🇱 Poland
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@129.101.105.132:443?encryption=none&flow=xtls-rprx-vision&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&security=reality&sni=pl2-edge.gacvpn.site&type=tcp&fp=ios#🇵🇱 Poland
-# source:aviamastersgh updated:2026-11-09T17:44:47Z count:4
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2083?security=reality&encryption=none&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frb1.hat.onl&sid=1cfdb63f3b860379#🇫🇷 France
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇩🇪 Germany
-vless://626b7b21-05ae-41e3-ba51-d4ec6ec2c1dc@adc.tigermoney.ir:1598?headerType=none&pbk=32aPyURIGlMSOfJGyqrU_HhDFtx0c9XkImHfmXL6pSs&type=tcp&security=reality&fp=chrome&sid=25cc9a9ffdbaa7ac&encryption=none&sni=app-analytics-services.com#🇫🇷 France
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2083?security=reality&encryption=none&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frb1.hat.onl&sid=1cfdb63f3b860379#UNKNOWN
+# source:aviamastersgh updated:2026-11-09T20:42:09Z count:1
+vless://ed1d539a-8507-45de-8253-cbc272161473@canwec.kramiliantha.sbs:443?security=reality&encryption=none&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=canwec.kramiliantha.sbs&sid=be7d0c9dda4dd4e6#🇨🇦 Canada
 # source:AetrisVPN_white updated:2026-11-09T17:45:11Z count:2
 vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2083?flow=xtls-rprx-vision&security=reality&sni=frb1.hat.onl&fp=edge&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&sid=1cfdb63f3b860379#🇫🇷 France
 vless://798ab01c-eb0f-4e1e-9a99-a486ca4eaaf3@46.161.14.13:443?flow=xtls-rprx-vision&security=reality&sni=vkuseraudio.com&fp=firefox&pbk=wj4JJuI6yc1jICZFE3vGZjFP5Js4RyvaSIRKFNVSsB0&sid=5dffebe33d1e36#UNKNOWN
