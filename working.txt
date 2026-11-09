@@ -86,9 +86,10 @@ vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?security=reali
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-09T08:52:33Z count:1
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto&sni=5.53.124.191#UNKNOWN
-# source:aviamastersgh updated:2026-11-09T11:51:04Z count:2
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=/?Telegram--@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#🇸🇪 Sweden
-vless://My-chanel-Telegram-ATOVPN@217.179.5.241:38272?encryption=none&fp=chrome&pbk=GhqmOHRlqY0BAmDHPXmXi3t56rijvnZN0Ax-pGVVBHc&security=reality&sid=5a4f5a&sni=www-ams.samsung.com&spx=/be23d020ca6fce6&support-x25519mlkem768=true&type=tcp#🇩🇪 Germany
+# source:aviamastersgh updated:2026-11-09T14:47:25Z count:3
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#🇸🇪 Sweden
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#🇳🇴 Norway
 # source:AetrisVPN_white updated:2026-11-09T11:51:29Z count:5
 vless://dd07022f-b229-48b4-9a5b-2f52dc29119f@186.246.4.94:443?flow=xtls-rprx-vision&security=reality&sni=music.yandex.ru&fp=firefox&pbk=Adzk6YXb3MU4kN8PgDQjY_4GfQgMUhRy_2LOGmiFHCg&sid=c48282c0acf92721#🇺🇸 United States
 vless://798ab01c-eb0f-4e1e-9a99-a486ca4eaaf3@46.161.14.13:443?flow=xtls-rprx-vision&security=reality&sni=vkuseraudio.com&fp=firefox&pbk=wj4JJuI6yc1jICZFE3vGZjFP5Js4RyvaSIRKFNVSsB0&sid=5dffebe33d1e36#🇺🇸 United States
