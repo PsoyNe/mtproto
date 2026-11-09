@@ -61,15 +61,8 @@ vless://b71ae017-e2f6-439f-a9a3-0b0af5f067c5@9e75c7t.de11.h1clayd.click:443?secu
 vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&sni=bizorg.su&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🇬🇧 United Kingdom
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-09T05:55:58Z count:8
-vless://bda6e235-c778-4e57-bfcd-5a9026fec8c9@83.171.241.153:443?encryption=none&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp#🇺🇸 United States
-vless://bda6e235-c778-4e57-bfcd-5a9026fec8c9@83.171.241.153:443?encryption=none&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp&fp=ios#🇺🇸 United States
-vless://bda6e235-c778-4e57-bfcd-5a9026fec8c9@83.171.241.153:443?encryption=none&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp&fp=safari#🇺🇸 United States
-vless://bda6e235-c778-4e57-bfcd-5a9026fec8c9@83.171.241.153:443?encryption=none&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp&fp=edge#🇺🇸 United States
-vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?flow=xtls-rprx-vision&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru&fp=ios#🇫🇮 Finland
-vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru#🇫🇮 Finland
-vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?flow=xtls-rprx-vision&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru&fp=safari#🇫🇮 Finland
-vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?flow=xtls-rprx-vision&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&sni=cabinet.evotor.ru&fp=edge#🇫🇮 Finland
+# source:igareck updated:2026-11-09T08:52:33Z count:1
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto&sni=5.53.124.191#UNKNOWN
 # source:aviamastersgh updated:2026-11-09T05:58:38Z count:7
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#🇸🇪 Sweden
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&pbk=%2DBN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=tcp#🇩🇪 Germany
