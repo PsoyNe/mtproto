@@ -158,8 +158,8 @@ vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@217.60.60.243:443?type=raw&security
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart2.khinikadze.com:443?encryption=none&flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8&security=reality&sni=smart2.khinikadze.com&type=tcp&fp=firefox#🇳🇱 Netherlands
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.160.212:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&sni=hollandlanzerotte.xyz#🇺🇸 United States
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@f3b21at.de7.h1clayd.click:443?encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&security=reality&sid=08485ad122fafbd5&sni=f3b21at.de7.h1clayd.click&spx=%2F&type=tcp&fp=firefox#UNKNOWN
-# source:FLAT447_black updated:2026-11-09T03:04:37Z count:1
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@71b840t.de7.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click#🇩🇪 Germany
+# source:FLAT447_black updated:2026-11-09T06:01:23Z count:1
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@f3b21at.de7.h1clayd.click:443?encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&security=reality&sid=08485ad122fafbd5&sni=f3b21at.de7.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇩🇪 Germany
 # source:FLAT447_white updated:2026-11-08T03:22:00Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=ios#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
