@@ -102,8 +102,7 @@ vless://855c7aaa-e7d6-463e-971e-d36032744428@159.195.207.238:49313?type=tcp#🇩
 vless://3ede439b-410f-4eae-b449-4e15064c0706@d58daft.plp1.h1cloud.net:443?type=tcp&security=reality&fp=chrome&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net#UNKNOWN
 vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@bbcdd4t.de-p2.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=n9cdr2Qf9h3S_jf5Rcd15fl-4fxuztHvlexE7G-QvW8&sid=1aab0b827885a8b4&sni=bbcdd4t.de-p2.h1clayd.click#UNKNOWN
 vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?security=reality&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click#UNKNOWN
-# source:FLAT447_white updated:2026-11-09T14:50:30Z count:2
-vless://67d258aa-fffa-45f7-953e-58cd000082e6@196.245.217.70:443?encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp&fp=edge#🇳🇱 Netherlands
+# source:FLAT447_white updated:2026-11-09T17:47:43Z count:1
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@83.171.241.153:443?security=reality&sni=d58daft.plp1.h1cloud.net&fp=firefox&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c#UNKNOWN
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
