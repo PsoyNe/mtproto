@@ -55,9 +55,12 @@ vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk10.gacvpn.site:443?encryption=no
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@fi-edge.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi3-edge.gacvpn.site&pbk=QjYksCdraKvxMG024774_EOZjxtIB7xHm3GYGx3oN1Y&sid=c59bb8af70d9db1e&fp=firefox#🇫🇮 Finland
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=ios#🇨🇦 Canada
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=qq#UNKNOWN
-# source:aviamastersgh updated:2026-11-08T21:10:47Z count:2
-vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@196.245.52.188:443?security=reality&encryption=none&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&headerType=none&fp=chrome&type=tcp&sni=62981et.us11.h1clayd.click&sid=ce43937e79bc30f0#UNKNOWN
+# source:aviamastersgh updated:2026-11-09T00:05:58Z count:5
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@185.147.27.23:2083?security=reality&encryption=none&pbk=LSatvkYtdgq5oND_moM9NRW-ZDbdlTvyX9gzeF9r3W8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frb1.hat.onl&sid=1cfdb63f3b860379#🇫🇷 France
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 Russia
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#🇳🇴 Norway
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@196.245.153.110:443?security=reality&encryption=none&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&headerType=none&fp=chrome&type=tcp&sni=230b29t.es8.h1clayd.click&sid=91313fc9f7571857#🇪🇸 Spain
+vless://46f8712b-5289-45d1-858d-1f01f97b8ffe@xui-oh.sahebkarami.ir:9443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xui-oh.sahebkarami.ir#🇺🇸 United States
 # source:AetrisVPN_white updated:2026-11-08T21:10:59Z count:4
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@31.130.151.97:443?flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=0GBR6DwsCQEYEa7QZHnOqbwmEMr8moms1sFU-wT-bHE#🇱🇻 Latvia
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@217.25.93.165:443?flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#🇷🇺 Russia
