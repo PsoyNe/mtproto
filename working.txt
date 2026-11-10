@@ -159,10 +159,41 @@ vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20042?type=raw&secur
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20043?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇰🇷 South Korea
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20013?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#🇧🇭 Bahrain
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@dg1hk.mateflora.com:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=eqplCderOGIAU5oAI4rh401o0eYtuFnlpzGuFGfj_Rk&sid=c2cc7aa86d59&sni=psstatic.cdn.bcebos.com#UNKNOWN
-# source:FLAT447_black updated:2026-11-09T20:44:00Z count:3
-vless://54847525-04b2-47ec-b05e-266d37bc8715@144.31.51.81:33517?encryption=none&fp=firefox&pbk=baHq6sp0MwdJZbXy6AQGHi6szdmUzx6Xk5RRiTQ1XUw&security=reality&sid=6f&sni=api15.yandex-cdn-mirror.ru&type=xhttp#🇩🇪 Germany
-vless://67d258aa-fffa-45f7-953e-58cd000082e6@196.245.217.70:443?encryption=none&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp#🇳🇱 Netherlands
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=chrome#UNKNOWN
+# source:FLAT447_black updated:2026-11-10T02:35:01Z count:34
+vless://2f094d48-7186-206c-9e57-e977bbac3b08@eu90.cdn77.icu:20034?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇭🇺 Hungary
+vless://74610801-c200-4b13-a10b-7076f879e293@201.58.139.66:443?type=tcp&security=reality&fp=firefox&pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click#🇺🇸 United States
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20023?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu52.cdn77.icu#🇩🇰 Denmark
+vless://2f094d48-7186-2710-9e57-e977bbac3b08@eu90.cdn77.icu:20058?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇷🇸 Serbia
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20029?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇬🇧 United Kingdom
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20023?encryption=none&type=tcp&security=reality&sni=eu52.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇩🇰 Denmark
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20033?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇭🇷 Croatia
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20047?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu32.cdn77.icu#🇱🇻 Latvia
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20004?encryption=none&type=tcp&security=reality&sni=eu25.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇵🇱 Poland
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20049?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇸🇮 Slovenia
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&type=tcp&security=reality&sni=57aac2t.pl7.h1clayd.click&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&fp=chrome#🇺🇸 United States
+vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?type=raw&security=reality&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click#🇳🇱 Netherlands
+vless://50ed9601-ebd4-4ba7-a234-ffe642d351cd@95.85.250.72:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.freepeople2025.cc&pbk=tqzNNOthkpzu0bg04SU07u4t0eO5XGNeXiTjifSeS2k&sid=71fcf6101e9803bc&fp=chrome#🇫🇮 Finland
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu31.cdn77.icu:443?encryption=none&type=tcp&security=reality&sni=eu31.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇬🇷 Greece
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20031?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇬🇷 Greece
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20037?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇮🇱 Israel
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20008?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇦🇿 Azerbaijan
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20052?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇳🇬 Nigeria
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20013?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#🇧🇭 Bahrain
+vless://2f094d48-7186-1b59-9e57-e977bbac3b08@eu90.cdn77.icu:443?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇨🇾 Cyprus
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20054?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇵🇰 Pakistan
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20050?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇲🇽 Mexico
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20019?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇨🇴 Colombia
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20054?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇵🇰 Pakistan
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20050?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇲🇽 Mexico
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20010?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇧🇩 Bangladesh
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20019?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇨🇴 Colombia
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#🇦🇷 Argentina
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20032?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇭🇰 Hong Kong
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu120.cdn77.icu:20010?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇧🇩 Bangladesh
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20043?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu64.cdn77.icu#🇰🇷 South Korea
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20042?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇰🇭 Cambodia
+vless://2f094d48-7186-1770-9e57-e977bbac3b08@eu90.cdn77.icu:20018?encryption=none&type=tcp&security=reality&sni=sa4.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇨🇱 Chile
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@dg1hk.mateflora.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=eqplCderOGIAU5oAI4rh401o0eYtuFnlpzGuFGfj_Rk&sid=c2cc7aa86d59&sni=psstatic.cdn.bcebos.com#🇭🇰 Hong Kong
 # source:FLAT447_white updated:2026-11-09T20:44:10Z count:1
 vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp&fp=safari#🇳🇱 Netherlands
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
