@@ -89,10 +89,11 @@ vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?flow=xtls-rprx-
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@154.86.119.227:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6sEquzhND4g7HGZptDdnO-B0UjAKib9Pcjkd2_IoC2s&sid=74de1ccddccaa017&sni=be.golangwikito.cfd#UNKNOWN
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&sid=986ede37bf6925ae&sni=pl-b1.golangwikito.cfd#🇵🇱 Poland
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?encryption=none&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp&fp=ios#🇩🇪 Germany
-# source:FLAT447_black updated:2026-11-10T11:29:39Z count:3
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&sni=5.53.124.191&mode=auto#UNKNOWN
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?type=tcp&security=reality&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click#🇺🇸 United States
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?type=tcp&security=reality&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click#UNKNOWN
+# source:FLAT447_black updated:2026-11-10T17:10:55Z count:4
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?type=xhttp&security=reality&fp=edge&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&mode=auto#🇪🇸 Spain
+vless://74610801-c200-4b13-a10b-7076f879e293@93594at.pl7.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click#🇪🇪 Estonia
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?flow=xtls-rprx-vision&type=raw&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=%2F#🇪🇪 Estonia
+vless://74610801-c200-4b13-a10b-7076f879e293@93594at.pl7.h1clayd.click:443?pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&security=reality&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click&type=tcp&fp=edge#🇪🇪 Estonia
 # source:FLAT447_white updated:2026-11-10T11:29:56Z count:1
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?type=xhttp&security=reality&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click#🇪🇸 Spain
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
