@@ -71,7 +71,7 @@ vless://7f6ee01e-c243-4c84-9cf2-7d8ecc0da202@57d89862-2f3e-4b36-bf20-bf5d302eeaa
 vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp#🇨🇦 Canada
 vless://bb3723d7-462e-442c-9472-496750476f45@179.254.170.73:443?encryption=none&flow=xtls-rprx-vision&pbk=8JqBmPXSb2aGu8IzkxkfLo_CkxGzq6Zjjbn6HnU3Tn8&security=reality&sid=e686927aa82c825d&sni=dir-de7.filesapp.org&type=tcp#🇩🇪 Germany
 vless://b2a6fb02-d9fa-43d6-b220-10dcacc36512@95.182.93.43:443?security=reality&encryption=none&pbk=nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=docs.google.com&sid=1901f7857cb99487#🇺🇸 United States
-# source:roosterkid updated:2026-11-09T23:32:40Z count:1
+# source:roosterkid updated:2026-11-10T02:27:22Z count:1
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.japancase.site&fp=ios&flow=xtls-rprx-vision&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI#🇳🇱 Netherlands
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
