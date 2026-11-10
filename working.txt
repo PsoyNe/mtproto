@@ -118,17 +118,10 @@ vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@91.192.156.72:443?flow=xtls-rprx-vi
 vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@kaoruqqww.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=ca1.hat.onl&pbk=76aJRD-347inKgYxFojrEeYI9rvcRjM4Rl5n21_KkFQ&sid=9437041ecd6b6c9b&fp=qq#🇺🇸 United States
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.44.24.25:51279?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&sni=www.tesla.com#🇻🇳 Vietnam
 vless://155fd9d4-e1f9-44b3-99b6-6d2c389ade88@wj9xcq0lp4.apruxdomain.online:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=lv1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=qq#UNKNOWN
-# source:FLAT447_black updated:2026-11-10T08:30:15Z count:10
-vless://59cb1f5b-51d6-4a03-aca8-3ac34bb848d9@31.76.251.48:443?type=tcp&security=reality&fp=firefox&pbk=dlhoLMdfvgjSVzSuT0PPhomRdNcy8_qtnky0kKflqGI&sid=a1b2c3d4&sni=ng-009.file-rkat.online#UNKNOWN
+# source:FLAT447_black updated:2026-11-10T11:29:39Z count:3
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&sni=5.53.124.191&mode=auto#UNKNOWN
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?type=tcp&security=reality&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click#🇺🇸 United States
-vless://74610801-c200-4b13-a10b-7076f879e293@93594at.pl7.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click#UNKNOWN
-vless://74610801-c200-4b13-a10b-7076f879e293@201.58.139.66:443?type=tcp&security=reality&fp=firefox&pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click#🇺🇸 United States
-vless://50ed9601-ebd4-4ba7-a234-ffe642d351cd@95.85.250.72:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.freepeople2025.cc&pbk=tqzNNOthkpzu0bg04SU07u4t0eO5XGNeXiTjifSeS2k&sid=71fcf6101e9803bc&fp=chrome#🇫🇮 Finland
-vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?type=grpc&security=reality&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/#🇸🇪 Sweden
-vless://67d258aa-fffa-45f7-953e-58cd000082e6@196.245.217.70:443?type=tcp&security=reality&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click#🇳🇱 Netherlands
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@nl-balancer.peregrine-sub.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&sni=nl-balancer.peregrine-sub.net#🇳🇱 Netherlands
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=ios#🇨🇦 Canada
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto&sni=5.53.124.191#UNKNOWN
+vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@196.245.217.70:443?type=tcp&security=reality&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click#UNKNOWN
 # source:FLAT447_white updated:2026-11-10T05:33:18Z count:20
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20028?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#🇫🇷 France
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20029?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#🇬🇧 United Kingdom
