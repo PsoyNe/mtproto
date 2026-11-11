@@ -116,9 +116,21 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?security=reality
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@89.125.48.218:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb&sni=nl3-edge.gacvpn.site#UNKNOWN
 vless://cf1b08a7-55b7-4241-b80a-c59116272b43@185.242.247.66:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DXc-l15XMaLM1zoeGdtkZd-1MymTHrnplcEHxyDvLRQ&sid=d9dbc840ce42cd95&sni=home.asperwild.com#🇫🇮 Finland
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.68.217:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&sid=f8b695e5c59d028c&sni=pl-b1.golangwikito.cfd#UNKNOWN
-# source:FLAT447_black updated:2026-11-11T11:03:57Z count:2
+# source:FLAT447_black updated:2026-11-11T13:52:52Z count:14
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@50.7.115.245:443?type=xhttp&security=reality&fp=edge&pbk=Mwczt2QjgQo3q8N10PVx8bWNubwiNhgka5GvxUy-GHQ&sid=c4f0253a&sni=beck.mossgill.top#🇦🇹 Austria
+vless://ba4e5cac-7af3-4fd3-9e0b-9020773d3dda@067fbbt.de18.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=ct9Ige1sXFGo-NbfxuJPlzKPvkfIilk43aQkHvLy4j0&sid=ca149dddcfd0deca&sni=067fbbt.de18.h1clayd.click#🇩🇪 Germany
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#🇵🇱 Poland
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw&fp=firefox#🇪🇪 Estonia
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&fp=chrome&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#🇪🇪 Estonia
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.9.129:80?type=tcp#🇨🇦 Canada
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?type=tcp&security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click#🇳🇱 Netherlands
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@136.234.9.4:443?security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click#🇳🇱 Netherlands
+vless://b8d08151-73bd-4567-afac-8b4a01daff78@141.193.154.198:443?type=raw&security=reality&fp=chrome&pbk=ZsBXnmtXqG_bOX7M10A1DGtds_Ch-NuvJNlGNl9-OEU&sid=be4d24310c27&sni=cloudflare.com#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click#🇺🇸 United States
+vless://e668c236-dead-4ea2-8a99-812a738afd13@129.146.5.35:20000?security=reality&fp=firefox&pbk=aCKxBnWGJSFRLP1TC7cvV6lwNBsEdrW3fIqRnVD131w&sid=144d7588628c0387&sni=tesla.com#🇺🇸 United States
 vless://d2fc9881-cbc9-421f-a782-b6f7d274b787@147.45.210.56:443?flow=xtls-rprx-vision&fp=firefox&pbk=LvFqyJeNirhMzd15XfdJ-MW3i0BZs5mXU1c-Llox8hQ&security=reality&sid=c97e0a447f8b2811&sni=www.google.com&type=raw#🇩🇪 Germany
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw&fp=firefox#UNKNOWN
+vless://07f44dd0-553e-4eb0-afc2-5a00c4d7c20c@210.109.205.7:20443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=PHpqBxSY5_595NSIjNKtBY1lyQz3rojxgvcVypn_tBk&sid=6f3a9c1d4b7e2058&sni=www.microsoft.com#🇰🇷 South Korea
+vless://ee2112e4-1e58-4f77-b162-5ef869358df9@168.110.45.41:23444?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zfxKuH7gDFZ2EMjdt8zMfnsZFpeckMhM5q5XZ3ATe2c&sid=119c9e68498f5900&sni=www.microsoft.com#🇯🇵 Japan
 # source:FLAT447_white updated:2026-11-11T11:04:11Z count:3
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
 vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#UNKNOWN
