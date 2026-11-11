@@ -169,8 +169,13 @@ vless://a4e5f910-23f4-470f-82a7-ed9d7be71dec@5.59.204.224:8455?type=raw&security
 vless://930fa247-a708-454d-a463-a5562cee642f@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@88.210.37.174:10103?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=_ARuUG0vgXer4ywV6w9DEfFc9Bgq1zn2mi7YAW2-rAk&sid=2e70c4b2af549ea0&sni=www.apple.com#🇺🇸 United States
 vless://6c415da3-11e8-4994-b0f0-e62137970ff7@31.76.93.50:443?flow=xtls-rprx-vision&fp=firefox&pbk=H5OOR_5KRjgbKmvmr3JRA1POMXM8IbP15u59M56pNS4&security=reality&sid=cf2aca5cb3353afc&sni=ionos.xvanta.online&type=raw#🇩🇪 Germany
-# source:FLAT447_black updated:2026-11-10T23:09:00Z count:1
-vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=b998f03d.de-p2.h1clayd.click&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&sid=c10f4100fa3a8d47&fp=firefox&spx=/#🇩🇪 Germany
+# source:FLAT447_black updated:2026-11-11T02:07:43Z count:6
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?type=grpc&security=reality&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&sni=b3cd32g.es1.h1clayd.click&mode=gun&spx=/#🇪🇸 Spain
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?type=xhttp&security=reality&fp=chrome&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&mode=auto#🇪🇸 Spain
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?type=xhttp&security=reality&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&host=38917fx.es1.h1clayd.click#🇪🇸 Spain
+vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.aws56.yydjc.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=scnmyqQqGfHXAG9Ihe-bzs1xvqwQlMhCc87zJdIzPTs&sid=2edcfbb7&sni=updates.cdn-apple.com#🇯🇵 Japan
+vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.aws52.yydjc.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=FrLhPuCVfzdM5rppzxHXQ5BZSGf1YHrXgo-cCtecGSo&sid=f3b38af2&sni=cdn-dynmedia-1.microsoft.com#🇯🇵 Japan
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&sni=5.53.124.191&mode=auto#UNKNOWN
 # source:FLAT447_white updated:2026-11-10T23:09:10Z count:1
 vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#🇪🇪 Estonia
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
