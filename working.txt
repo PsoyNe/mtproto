@@ -98,8 +98,8 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@usatimewebnew.space:443?encryption=
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tgnl2.blog-forme.ru&pbk=31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y&sid=29f834cf893710f9&fp=qq#🇳🇱 Netherlands
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk10.gacvpn.site:443?encryption=none&flow=xtls-rprx-vision&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&security=reality&sid=db6a4219fb&sni=nl3-edge.gacvpn.site&type=tcp&fp=safari#UNKNOWN
 vless://4d30ffc2-c917-407b-b71f-6a7ca09e939f@mytubeproxy10.duckdns.org:443?encryption=none&security=reality&pbk=N3MUCErqyQmpQEwMzDPwz2mZERG0Q2dopPNX-3PpE2M&sid=455152c2797fea2b&spx=%2F6b37075b24a4c2e&sni=mytubeproxy10.duckdns.org&fp=firefox&type=tcp&flow=xtls-rprx-vision#🇵🇱 Poland
-# source:roosterkid updated:2026-11-11T19:22:52Z count:1
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=dvizhok.su&fp=firefox&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#UNKNOWN
+# source:roosterkid updated:2026-11-11T22:11:13Z count:1
+vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=dvizhok.su&fp=firefox&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🇪🇪 Estonia
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-11T02:02:14Z count:4
