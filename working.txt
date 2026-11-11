@@ -101,10 +101,9 @@ vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#🇺🇸 United States
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=chrome&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#🇵🇱 Poland
 vless://d651c9ab-b844-4420-b3d0-20d201ef5f55@38.244.155.67:443?security=reality&encryption=none&pbk=NLXltMEkWIxv9bL2J4XkPGb4oVwGbCkITCTXF-jVxAE&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-eu-1.nztpro.com&sid=2976f793571fb671#🇪🇪 Estonia
-# source:AetrisVPN_white updated:2026-11-11T08:04:05Z count:3
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@109.172.114.57:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=edge#🇨🇭 Switzerland
+# source:AetrisVPN_white updated:2026-11-11T11:01:14Z count:2
+vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&fp=edge#🇨🇭 Switzerland
 vless://930fa247-a708-454d-a463-a5562cee642f@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#UNKNOWN
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.203:2058?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673#🇨🇭 Switzerland
 # source:AetrisVPN_global updated:2026-11-11T08:06:07Z count:26
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@50.7.169.242:443?flow=xtls-rprx-vision&security=reality&sni=user.betust.net&fp=firefox&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb#🇳🇱 Netherlands
 vless://38628f72-783b-4605-8530-67cc8567bab5@130.78.25.15:47443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ITUrGb0T4zee52YrsT7lPXvdPmBDDN5R9nh1zBoVnkg&sid=ae97223a8f799002&sni=ge-2.waspguard.ru#🇩🇪 Germany
