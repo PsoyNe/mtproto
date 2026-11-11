@@ -155,18 +155,24 @@ vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.45:443?flow=xtls-rprx-v
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.45:443?flow=xtls-rprx-vision&security=reality&sni=dune-falcon.cdn.cachefleet.com&fp=firefox&pbk=cH5ij6-s09W0Dx3Bnxhh4fHeVnjM_TrS1rZWfdgBPi8&sid=0268c715cf2f61e7#🇦🇪 UAE
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.80:443?flow=xtls-rprx-vision&security=reality&sni=cedar-tide.cdn.cachefleet.com&fp=firefox&pbk=sp_KKjJjc7cyVd8jkaPNfRtB9UxyZT6CfF62uYqcMlI&sid=69828f96b0fcc801#🇰🇷 South Korea
-# source:FLAT447_black updated:2026-11-11T19:30:32Z count:11
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.9.129:80?type=tcp#🇨🇦 Canada
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?type=xhttp&security=reality&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click#🇪🇸 Spain
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?type=xhttp&security=reality&fp=chrome&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&mode=auto#🇪🇸 Spain
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl17.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click#🇳🇱 Netherlands
+# source:FLAT447_black updated:2026-11-11T22:18:22Z count:17
+vless://d5ea43cf-648a-452d-bc2d-fc1ae706fd4b@51.21.249.172:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&security=reality&pbk=oCjYtohnNezqsqwuvRQnTCoQ67kEjarFTEV28HFgSEU&fp=chrome&type=raw&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a7fe2b2e#🇸🇪 Sweden
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#🇵🇱 Poland
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl17.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click#🇳🇱 Netherlands
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@147.45.126.95:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=polas.vrrrm.fun&mode=auto#🇵🇱 Poland
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@170.168.43.65:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=bg.65.vrrrm.fun&mode=auto#🇧🇬 Bulgaria
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp#🇳🇱 Netherlands
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.254.211:80?type=tcp#🇨🇦 Canada
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.9.129:80?type=raw#🇨🇦 Canada
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@152.234.163.154:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=amam.sprooty.fun&mode=auto#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.143.232.161:443?type=tcp&security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click#🇳🇱 Netherlands
+vless://24ace88f-8c83-4a94-b7dc-2ae0054ffd32@145.79.187.50:443?type=xhttp&security=reality&fp=firefox&pbk=Zz_n3cpItqh107oNUK15eu-3Ac4TpS5gB_6plrRrZj8&sid=9f3df965329a8e8f&sni=api.savesafe.info&host=api.savesafe.info&mode=auto&extra={#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl17.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click#🇳🇱 Netherlands
+vless://b8d08151-73bd-4567-afac-8b4a01daff78@141.193.154.198:443?security=reality&fp=firefox&pbk=ZsBXnmtXqG_bOX7M10A1DGtds_Ch-NuvJNlGNl9-OEU&sid=be4d24310c27&sni=cloudflare.com#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.113:443?security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click#🇳🇱 Netherlands
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?encryption=none&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click&type=tcp#🇳🇱 Netherlands
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp#🇳🇱 Netherlands
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click#🇺🇸 United States
-vless://b8d08151-73bd-4567-afac-8b4a01daff78@141.193.154.198:443?type=raw&security=reality&fp=chrome&pbk=ZsBXnmtXqG_bOX7M10A1DGtds_Ch-NuvJNlGNl9-OEU&sid=be4d24310c27&sni=cloudflare.com#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?type=tcp&security=reality&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click#🇺🇸 United States
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?type=xhttp&security=reality&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click#🇪🇸 Spain
+vless://8bbde034-a0de-4e8c-8be3-b16a99689380@179.255.191.135:2096?type=xhttp&security=reality&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&sid=5b2e7a14c0d9f832&sni=ch.135.zzuq.fun&mode=auto#🇨🇭 Switzerland
 # source:FLAT447_white updated:2026-11-11T19:30:43Z count:4
 vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw&fp=firefox#🇪🇪 Estonia
 vless://4d30ffc2-c917-407b-b71f-6a7ca09e939f@213.21.232.4:443?encryption=none&flow=xtls-rprx-vision&pbk=N3MUCErqyQmpQEwMzDPwz2mZERG0Q2dopPNX-3PpE2M&security=reality&sid=455152c2797fea2b&sni=mytubeproxy10.duckdns.org&type=tcp&fp=firefox#🇵🇱 Poland
