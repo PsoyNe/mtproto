@@ -123,12 +123,12 @@ vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality
 vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@vv9bo423qfvc.cloudymedia.click:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&sid=0492eabdb9&spx=%2F#🇩🇪 Germany
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?&type=xhttp#🇨🇦 Canada
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&sid=26b26357bfcd59a1&type=tcp&headerType=none#🇦🇺 Australia
-# source:AetrisVPN_white updated:2026-11-10T23:06:55Z count:5
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673#🇨🇭 Switzerland
+# source:AetrisVPN_white updated:2026-11-11T02:05:36Z count:5
 vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.203:2058?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673#🇨🇭 Switzerland
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#🇪🇪 Estonia
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@91.215.40.106:443?flow=xtls-rprx-vision&security=reality&sni=q.krevetkabs111.net&fp=firefox&pbk=_BEKGm4aogfkeqroLplieJ58hk4IlNHFP5cWd0oiO0M&sid=066ca0781110293d#🇷🇴 Romania
+vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673#🇨🇭 Switzerland
 vless://930fa247-a708-454d-a463-a5562cee642f@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#🇪🇪 Estonia
 # source:AetrisVPN_global updated:2026-11-10T23:08:44Z count:41
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.185.103:443?flow=xtls-rprx-vision&security=reality&sni=sundaylanzgem.site&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20#🇩🇪 Germany
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@50.7.169.242:443?flow=xtls-rprx-vision&security=reality&sni=user.betust.net&fp=firefox&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb#🇳🇱 Netherlands
