@@ -176,7 +176,8 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?type=xhttp&secur
 vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.aws56.yydjc.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=scnmyqQqGfHXAG9Ihe-bzs1xvqwQlMhCc87zJdIzPTs&sid=2edcfbb7&sni=updates.cdn-apple.com#🇯🇵 Japan
 vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.aws52.yydjc.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=FrLhPuCVfzdM5rppzxHXQ5BZSGf1YHrXgo-cCtecGSo&sid=f3b38af2&sni=cdn-dynmedia-1.microsoft.com#🇯🇵 Japan
 vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?type=xhttp&sni=5.53.124.191&mode=auto#UNKNOWN
-# source:FLAT447_white updated:2026-11-10T23:09:10Z count:1
+# source:FLAT447_white updated:2026-11-11T02:07:53Z count:2
 vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#🇪🇪 Estonia
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#🇪🇪 Estonia
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
