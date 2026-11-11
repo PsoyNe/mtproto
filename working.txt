@@ -111,9 +111,9 @@ vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@81.177.215.81:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=misha2.plus-hit.ru&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=7c8e3d4a9b1f26d3&fp=chrome&spx=/#🇦🇹 Austria
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#🇩🇪 Germany
 vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#🇪🇪 Estonia
-# source:AetrisVPN_white updated:2026-11-11T13:50:24Z count:2
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&fp=edge#UNKNOWN
-vless://930fa247-a708-454d-a463-a5562cee642f@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
+# source:AetrisVPN_white updated:2026-11-11T19:27:54Z count:2
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#🇪🇪 Estonia
+vless://79106a94-acab-43d2-b578-f334c106b2af@188.225.74.227:443?flow=xtls-rprx-vision&security=reality&sni=vill.xvanta.online&fp=firefox&pbk=M-QPbYo7Xfyh94Q76x2GOcZlVJlVondJw6TDb2UJ4iU&sid=60a0ef553f964edc#🇵🇱 Poland
 # source:AetrisVPN_global updated:2026-11-11T16:40:40Z count:19
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&sni=gembeforeshoping.space#🇩🇪 Germany
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:22843?type=raw&security=reality&flow=xtls-rprx-vision&sni=nl16.blog-forme.ru&pbk=b4IjSqjLCM2MZyRiqv-VBsRB1D7CrRaQCDXaUIfp6mA&sid=646903b46c069439&fp=chrome#🇳🇱 Netherlands
