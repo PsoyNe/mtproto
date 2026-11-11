@@ -186,8 +186,7 @@ vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@35.79.222.112:443?encryption=none&f
 vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@52.195.146.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pR8CV43xvSgvzSXPVLCVomjw-yZvNyqU32kietO2pEc&security=reality&sid=a6115a2c&sni=iosapps.itunes.apple.com&type=tcp#🇯🇵 Japan
 vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.aws65.yydjc.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=9076EbD5vM8kATc_08QvDiqZF5KHTM_LaSrMOvcwfHw&sid=57b7989c&sni=iosapps.itunes.apple.com#🇸🇬 Singapore
 vless://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.aws55.yydjc.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=Zzn7SxtTRMANwRwOvn87ZpNQ8zjjzcKOznE_sG_7UQU&sid=6b584a0d&sni=updates.cdn-apple.com#🇯🇵 Japan
-# source:FLAT447_white updated:2026-11-11T02:07:53Z count:2
+# source:FLAT447_white updated:2026-11-11T05:07:00Z count:1
 vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@dwedfs.whitenw.net:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#🇪🇪 Estonia
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&security=reality&sni=passport.yandex.ru&spx=%2F&type=raw#🇪🇪 Estonia
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
