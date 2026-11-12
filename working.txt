@@ -50,8 +50,10 @@ vless://06123471-6c45-400c-920a-3e6990060b63@189.74.115.23:443?flow=xtls-rprx-vi
 # source:aviamastersgh updated:2026-11-12T23:17:04Z count:2
 vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#🇨🇭 Switzerland
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#🇺🇸 United States
-# source:AetrisVPN_white updated:2026-11-12T20:30:10Z count:1
+# source:AetrisVPN_white updated:2026-11-12T23:17:38Z count:3
+vless://a4e5f910-23f4-470f-82a7-ed9d7be71dec@5.59.204.245:8455?flow=xtls-rprx-vision&security=reality&sni=notes.ncknms.com&fp=edge&pbk=d6qmF8ibk_PxtDJPzSa7LKw9VUI_mZ59DrTvmW3RaFc&sid=10983e6c816181c2#🇵🇱 Poland
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.133.151.171:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=edge&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
 # source:AetrisVPN_global updated:2026-11-12T20:32:18Z count:25
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.193.150:443?flow=xtls-rprx-vision&security=reality&sni=prime.jarbook.net&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8#🇳🇱 Netherlands
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.169.242:443?flow=xtls-rprx-vision&security=reality&sni=user.betust.net&fp=firefox&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb#UNKNOWN
