@@ -140,11 +140,9 @@ vless://c9bf7875-6722-43cd-91d8-d0528a57e426@170.205.36.116:8443?encryption=none
 vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=dvizhok.su&fp=firefox&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🇪🇪 Estonia
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-11T02:02:14Z count:4
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@87.242.102.214:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=poputal.belka.tv#🇦🇹 Austria
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=android#🇨🇦 Canada
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@87.242.102.102:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=kakashechka.belka.tv#🇩🇪 Germany
-vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?security=none&type=xhttp&fp=safari#UNKNOWN
+# source:igareck updated:2026-11-12T00:56:16Z count:2
+vless://fac746c5-1a56-4b23-8dc1-8cbe81f79054@141.98.191.30:443?flow=xtls-rprx-vision&security=reality&sni=213.176.73.4.sslip.io&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&sid=a5fe10fba46b8613#🇩🇪 Germany
+vless://fac746c5-1a56-4b23-8dc1-8cbe81f79054@141.98.191.33:443?flow=xtls-rprx-vision&security=reality&sni=31.76.3.187.sslip.io&fp=firefox&pbk=vluPN5krskStuIe1YYoOopN766N8qK_uMsSsZGJdwCI&sid=db71028aeb67289c#🇩🇪 Germany
 # source:aviamastersgh updated:2026-11-11T22:15:42Z count:8
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.255.115.103:443?encryption=none&sid=6976d670818644cc&headerType=none&fp=chrome&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sni=4935e4t.de25.h1clayd.click&security=reality&type=tcp#🇩🇪 Germany
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#🇸🇪 Sweden
