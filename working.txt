@@ -44,8 +44,8 @@ vless://06123471-6c45-400c-920a-3e6990060b63@189.74.115.23:443?flow=xtls-rprx-vi
 # source:aviamastersgh updated:2026-11-12T20:29:31Z count:2
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#🇺🇸 United States
 vless://1751bebc-1bf1-420c-8b9d-97157aad179b@168.110.21.56:18453?security=none&type=tcp&encryption=none#🇯🇵 Japan
-# source:AetrisVPN_white updated:2026-11-12T17:40:33Z count:1
-vless://a03c34f9-3972-4df8-8e53-3df474654b7f@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
+# source:AetrisVPN_white updated:2026-11-12T20:30:10Z count:1
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.133.151.171:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=edge&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
 # source:AetrisVPN_global updated:2026-11-12T17:43:23Z count:2
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?security=reality&encryption=none&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=gembeforeshoping.space#🇺🇸 United States
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?security=reality&sni=57aac2t.pl7.h1clayd.click&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&packetEncoding=xudp#🇵🇱 Poland
