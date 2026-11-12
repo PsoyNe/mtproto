@@ -103,8 +103,8 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?type
 vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#🇯🇵 Japan
 vless://2ab54cbc-bea6-4b79-8833-7b3354b97500@djjsg5.wawojk.dpdns.org:24204?security=reality&sni=www.asus.com&fp=chrome&flow=xtls-rprx-vision&pbk=cYQgUq-cSRENj3PWzyBLvXqIdVYSTqQ8vrnYGATiliI&sid=7788afae&type=raw#🇸🇬 Singapore
 vless://3a7849e7-8ef6-492f-860d-54dd6aae400a@81.90.24.154:2053?security=reality&sni=pl3.soshelper.space&fp=firefox&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&type=xhttp&host=pl3.soshelper.space&path=%2F&mode=auto#🇵🇱 Poland
-# source:FLAT447_black updated:2026-11-12T20:32:35Z count:1
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?encryption=none&fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#🇳🇱 Netherlands
+# source:FLAT447_black updated:2026-11-12T23:19:35Z count:1
+vless://270ce025-3b4e-49a9-884e-c24062143cbc@87.120.106.95:443?type=xhttp&security=reality&fp=firefox&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&sni=rss.worldoftanks.asia&host=rss.worldoftanks.asia&mode=auto#🇺🇸 United States
 # source:FLAT447_white updated:2026-11-12T12:15:02Z count:1
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=firefox#🇺🇸 United States
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
