@@ -45,13 +45,9 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?security=realit
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=8a2e72t.nl11.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=8d0d0679f42ffd98&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA#🇳🇱 Netherlands
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-13T04:44:12Z count:6
-vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=edge#🇫🇷 France
-vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=firefox#🇫🇷 France
-vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=qq#🇫🇷 France
-vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=safari#🇫🇷 France
-vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=chrome#🇫🇷 France
-vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=edge#🇫🇷 France
+# source:igareck updated:2026-11-13T07:31:31Z count:2
+vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=qq#🇦🇹 Austria
+vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=chrome#🇦🇹 Austria
 # source:aviamastersgh updated:2026-11-13T04:47:07Z count:1
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-11-13T04:47:52Z count:5
