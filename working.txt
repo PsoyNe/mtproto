@@ -50,12 +50,12 @@ vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@api.mediaroshcha.cc:443?security=re
 vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=chrome#🇦🇹 Austria
 # source:aviamastersgh updated:2026-11-13T04:47:07Z count:1
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇳🇱 Netherlands
-# source:AetrisVPN_white updated:2026-11-13T04:47:52Z count:5
-vless://3aed81ea-0ab9-479e-83a1-e5dfa6708fda@188.225.25.35:443?flow=xtls-rprx-vision&security=reality&sni=ru.starkclaude.top&fp=firefox&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&sid=4951a2313524dd8f#🇩🇪 Germany
-vless://41a382b8-6d2f-482e-abf2-954a56456e8c@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.133.151.171:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=edge&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
+# source:AetrisVPN_white updated:2026-11-13T07:35:12Z count:5
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
-vless://90157e25-cee1-4217-921e-91f300bc1a24@87.242.95.133:9443?security=reality&sni=wrab.online&fp=firefox&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=0123456789abcdef&type=xhttp&host=wrab.online&path=%2F&mode=auto#🇬🇧 United Kingdom
+vless://3aed81ea-0ab9-479e-83a1-e5dfa6708fda@188.225.25.35:443?flow=xtls-rprx-vision&security=reality&sni=ru.starkclaude.top&fp=firefox&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&sid=4951a2313524dd8f#🇩🇪 Germany
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@185.86.145.223:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#UNKNOWN
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@95.167.57.129:8445?flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4#UNKNOWN
+vless://41a382b8-6d2f-482e-abf2-954a56456e8c@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#UNKNOWN
 # source:AetrisVPN_global updated:2026-11-13T04:50:31Z count:45
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@50.7.169.242:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&sni=user.betust.net#UNKNOWN
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.215.254:443?flow=xtls-rprx-vision&security=reality&sni=93.152.215.254&fp=firefox&pbk=_bGFsLP1Vw7sK0g6oervHFV00C5O3q7X3x_aOo-zhWI&sid=672cac#🇳🇱 Netherlands
