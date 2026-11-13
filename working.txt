@@ -36,10 +36,11 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 vless://84f02823-3f8e-4ef0-a46b-c02dc19cba8a@189.74.116.25:443?flow=xtls-rprx-vision&security=reality&sni=api.mediatropa.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#🇵🇱 Poland
 # source:aviamastersgh updated:2026-11-13T15:55:22Z count:1
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇺🇸 United States
-# source:AetrisVPN_white updated:2026-11-13T13:08:49Z count:3
-vless://41a382b8-6d2f-482e-abf2-954a56456e8c@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.133.151.171:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=edge&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
-vless://41a382b8-6d2f-482e-abf2-954a56456e8c@161.104.28.171:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
+# source:AetrisVPN_white updated:2026-11-13T18:49:00Z count:4
+vless://fa937345-6d3e-4ff4-8127-1a836987a0db@89.169.45.219:8445?flow=xtls-rprx-vision&security=reality&sni=netherland1.cloudhouse1.ru&fp=firefox&pbk=r1PiMs9GCCY7PsQ4i3Hp3FGfvp7qOJl0T0BBXggph2o&sid=712a46e4df79fe89#🇳🇱 Netherlands
+vless://fa937345-6d3e-4ff4-8127-1a836987a0db@89.169.45.219:21443?flow=xtls-rprx-vision&security=reality&sni=germany.cloudhouse1.ru&fp=firefox&pbk=y7hK6DcQDxJ9HN5laoix2YmfjalyBkOyuawJBJSySio&sid=50e7b8f47de59adf#🇬🇧 United Kingdom
+vless://fa937345-6d3e-4ff4-8127-1a836987a0db@89.169.45.219:2443?flow=xtls-rprx-vision&security=reality&sni=germany.cloudhouse1.ru&fp=firefox&pbk=q_MJ5Zo2vcnePWq3KY653QUPX8mNSvapLpqXU4NuPho&sid=464db718e17e4107#🇩🇪 Germany
+vless://fa937345-6d3e-4ff4-8127-1a836987a0db@89.169.45.219:3443?flow=xtls-rprx-vision&security=reality&sni=usa.cloudhouse1.ru&fp=firefox&pbk=FjYOR9Qnr2TivOR5BZZoIci_FW2h4phuJ1EPZB5NcQU&sid=777851fefbc1520e#🇺🇸 United States
 # source:AetrisVPN_global updated:2026-11-13T13:11:03Z count:55
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.169.242:443?flow=xtls-rprx-vision&fp=firefox&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&security=reality&sid=c1064ddb&sni=user.betust.net&type=raw#🇳🇱 Netherlands
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.193.150:443?flow=xtls-rprx-vision&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&security=reality&sid=77a8c8c8&sni=prime.jarbook.net&type=raw#UNKNOWN
