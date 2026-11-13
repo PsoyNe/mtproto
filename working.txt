@@ -51,10 +51,10 @@ vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?security=none&enc
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#🇺🇸 United States
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇳🇱 Netherlands
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?security=reality&encryption=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gemsubbgem.world#UNKNOWN
-# source:AetrisVPN_white updated:2026-11-13T10:22:18Z count:3
-vless://41a382b8-6d2f-482e-abf2-954a56456e8c@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#UNKNOWN
+# source:AetrisVPN_white updated:2026-11-13T13:08:49Z count:3
+vless://41a382b8-6d2f-482e-abf2-954a56456e8c@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.133.151.171:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=edge&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
-vless://3aed81ea-0ab9-479e-83a1-e5dfa6708fda@188.225.25.35:443?flow=xtls-rprx-vision&security=reality&sni=ru.starkclaude.top&fp=firefox&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&sid=4951a2313524dd8f#🇩🇪 Germany
+vless://41a382b8-6d2f-482e-abf2-954a56456e8c@161.104.28.171:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
 # source:AetrisVPN_global updated:2026-11-13T10:24:26Z count:55
 vless://e0eb33db-f900-4918-a91e-e960549eb519@138.199.220.226:1155?security=reality&sni=tgju.org&fp=edge&pbk=o6UTWdONnTOvDOWmhfxXUoeOEtlw7VUkoAWkmOk_FWI&sid=4e4aaad65cc07da8#🇩🇪 Germany
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&sni=sundaylanzgem.site#🇺🇸 United States
