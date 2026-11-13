@@ -44,8 +44,9 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 # source:igareck updated:2026-11-13T07:31:31Z count:2
 vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=qq#🇦🇹 Austria
 vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@api.mediaroshcha.cc:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.mediaroshcha.cc&sid=a8&fp=chrome#🇦🇹 Austria
-# source:aviamastersgh updated:2026-11-13T04:47:07Z count:1
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇳🇱 Netherlands
+# source:aviamastersgh updated:2026-11-13T10:21:31Z count:2
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#UNKNOWN
+vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?security=none&encryption=none&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24&headerType=none&type=tcp#🇩🇪 Germany
 # source:AetrisVPN_white updated:2026-11-13T07:35:12Z count:5
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
 vless://3aed81ea-0ab9-479e-83a1-e5dfa6708fda@188.225.25.35:443?flow=xtls-rprx-vision&security=reality&sni=ru.starkclaude.top&fp=firefox&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&sid=4951a2313524dd8f#🇩🇪 Germany
