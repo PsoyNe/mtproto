@@ -70,9 +70,12 @@ vless://122188c6-66ff-4f8d-a1b5-54280b4b106a@189.74.117.29:443?security=reality&
 vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.117.29:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc&fp=edge#🇫🇷 France
 # source:aviamastersgh updated:2026-11-13T04:47:07Z count:1
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#🇳🇱 Netherlands
-# source:AetrisVPN_white updated:2026-11-13T02:02:16Z count:2
+# source:AetrisVPN_white updated:2026-11-13T04:47:52Z count:5
+vless://3aed81ea-0ab9-479e-83a1-e5dfa6708fda@188.225.25.35:443?flow=xtls-rprx-vision&security=reality&sni=ru.starkclaude.top&fp=firefox&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&sid=4951a2313524dd8f#🇩🇪 Germany
+vless://41a382b8-6d2f-482e-abf2-954a56456e8c@194.67.125.188:443?flow=xtls-rprx-vision&security=reality&sni=us1.serverslocal.ru&fp=firefox&pbk=VbUdI9MaHFYPBJ1gmmfGyUX415RdeS2yg7ojhX43_m8&sid=b5ea2877aadeb97c#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@45.133.151.171:443?security=reality&sni=04535dt.us8.h1clayd.click&fp=edge&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=firefox#🇺🇸 United States
+vless://90157e25-cee1-4217-921e-91f300bc1a24@87.242.95.133:9443?security=reality&sni=wrab.online&fp=firefox&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=0123456789abcdef&type=xhttp&host=wrab.online&path=%2F&mode=auto#🇬🇧 United Kingdom
 # source:AetrisVPN_global updated:2026-11-13T02:04:10Z count:37
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.169.242:443?flow=xtls-rprx-vision&security=reality&sni=user.betust.net&fp=firefox&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb#🇳🇱 Netherlands
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@48.102.169.144:443?security=reality&flow=xtls-rprx-vision&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&fp=firefox&type=raw&sni=gemsubbgem.world#🇺🇸 United States
