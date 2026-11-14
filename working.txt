@@ -27,7 +27,7 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 # source:igareck updated:2026-11-14T08:41:08Z count:2
 vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&fp=chrome#🇩🇪 Germany
 vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&fp=firefox#UNKNOWN
-# source:aviamastersgh updated:2026-11-14T05:58:06Z count:1
+# source:aviamastersgh updated:2026-11-14T08:43:58Z count:1
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?&security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&fp=ios&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#🇦🇺 Australia
 # source:AetrisVPN_white updated:2026-11-14T05:58:52Z count:3
 vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@91.107.120.65:443?flow=xtls-rprx-vision&security=reality&sni=msk-01.freegate.win&fp=firefox&pbk=wDDyZZJfgJHB6OOrdpLgAk18P2j9tZrxgOxOB_s7Sws#🇫🇮 Finland
