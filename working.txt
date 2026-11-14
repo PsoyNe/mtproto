@@ -57,9 +57,8 @@ vless://8415d003-15be-4f6d-b452-b5b5bdc187e6@103.98.215.228:443?flow=xtls-rprx-v
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=f0d7aft.nl13.h1clayd.click&fp=chrome&sid=8956c57cb4c4f8d2&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&encryption=none#UNKNOWN
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-14T08:41:08Z count:2
-vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&fp=chrome#🇩🇪 Germany
-vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&fp=firefox#UNKNOWN
+# source:igareck updated:2026-11-14T22:19:03Z count:1
+vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@62981et.us11.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&sid=ce43937e79bc30f0&sni=62981et.us11.h1clayd.click#🇺🇸 United States
 # source:aviamastersgh updated:2026-11-14T19:32:21Z count:1
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?&security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&fp=ios&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#🇦🇺 Australia
 # source:AetrisVPN_white updated:2026-11-14T19:32:57Z count:2
