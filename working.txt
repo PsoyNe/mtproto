@@ -24,11 +24,9 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?secur
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=4935e4t.de25.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=6976d670818644cc&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw#🇩🇪 Germany
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-14T05:55:21Z count:4
-vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&fp=firefox&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3#🇩🇪 Germany
-vless://6895528a-aa3e-48c4-8804-ced625e92b47@176.108.240.45:443?flow=xtls-rprx-vision&security=reality&sni=xn---26-5cd9bhfc0a8c7b8af.xn--p1ai&fp=firefox&pbk=me0xkqd3f9UlKOavrYCOTK5J2erH1-JK_LA017XHkUU&sid=43560624cceb5666#UNKNOWN
-vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:443?flow=xtls-rprx-vision&security=reality&sni=lywd3zccl0w7a4ih.customer.velacdn.com&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9#🇫🇮 Finland
-vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:443?security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//&headerType=none&fp=chrome&spx=/api/v1/video/init&type=tcp&flow=xtls-rprx-vision&sni=lywd3zccl0w7a4ih.customer.velacdn.com&sid=f3bc3272312b46e9#🇫🇮 Finland
+# source:igareck updated:2026-11-14T08:41:08Z count:2
+vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&fp=chrome#🇩🇪 Germany
+vless://4fb48619-c29d-47f3-8c21-12bdc3286935@31.192.106.192:443?flow=xtls-rprx-vision&security=reality&sni=node2.shakalchk.ru&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3&fp=firefox#UNKNOWN
 # source:aviamastersgh updated:2026-11-14T05:58:06Z count:1
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?&security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&fp=ios&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#🇦🇺 Australia
 # source:AetrisVPN_white updated:2026-11-14T05:58:52Z count:3
