@@ -112,8 +112,8 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@147.45.111.214:443?flow=xtls-rprx-v
 vless://4a923161-156f-4914-8cac-762fb2433bfb@212.115.55.158:43000?flow=xtls-rprx-vision&security=reality&sni=212.115.55.158&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#🇬🇧 United Kingdom
 vless://3780cbc0-89ab-4389-b2ce-90ecf59fbe0c@107.174.41.156:10004?flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=O6eJvRW2VRmLTDcpUteyRKlo_1Qp-WnW6-PLo2uZcDA&sid=4ce3101634be4cd7#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?fp=&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=raw#🇳🇱 Netherlands
-# source:FLAT447_black updated:2026-11-14T11:07:57Z count:1
-vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?encryption=none&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp#🇩🇪 Germany
+# source:FLAT447_black updated:2026-11-14T13:55:17Z count:1
+vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?encryption=none&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp#UNKNOWN
 # source:FLAT447_white updated:2026-11-14T08:47:47Z count:1
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
