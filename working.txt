@@ -83,8 +83,8 @@ vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?encryption=none&
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl17.h1clayd.click:443?encryption=none&security=reality&type=tcp&sni=f0d7aft.nl17.h1clayd.click&fp=chrome&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2#🇳🇱 Netherlands
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=random#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#🇺🇸 United States
-# source:FLAT447_white updated:2026-11-13T21:41:45Z count:2
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#UNKNOWN
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#UNKNOWN
+# source:FLAT447_white updated:2026-11-14T00:28:58Z count:2
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#🇺🇸 United States
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
