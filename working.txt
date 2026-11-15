@@ -52,8 +52,10 @@ vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@83.171.241.181:443?security=reality
 # source:aviamastersgh updated:2026-11-15T12:16:00Z count:2
 vless://dadf78d3-5cc9-453f-a3e6-2f0826a59c68@217.60.148.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=in.static-s3.org&fp=chrome&security=reality&pbk=drhDo_VnUaM05YqwqE03ISx_8ZG8FlNGpSMCnAeqvFk&sid=159246753f750720#🇮🇳 India
 vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@91.196.35.252:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk-02.freegate.win&fp=chrome&security=reality&pbk=z1Z2yIWBdFlCT3ofwGNntS63c9VYZLrqTVTeURq7r2U&sid=#🇫🇮 Finland
-# source:AetrisVPN_white updated:2026-11-15T03:55:00Z count:1
-vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@83.171.241.220:443?security=reality&sni=230b29t.es8.h1clayd.click&fp=edge&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&sid=91313fc9f7571857#🇪🇸 Spain
+# source:AetrisVPN_white updated:2026-11-15T12:16:48Z count:3
+vless://a88d4614-2134-404c-9479-6aba1ca9cdfd@45.133.151.169:443?flow=xtls-rprx-vision&security=reality&sni=74b5ebt.se5.h1clayd.shop&fp=firefox&pbk=YF_PHWsm2ayKInkh93yNHc5BB8QqIyZfx2ZCIY3qgiI&sid=d50dc85d07857a88#🇸🇪 Sweden
+vless://75a8cc15-fa52-4067-949f-42a89859b54f@84.54.59.189:443?flow=xtls-rprx-vision&security=reality&sni=brru.catneuro.su&fp=firefox&pbk=gHgaNAyoNAFQZwJak021k3JtZBduzHOH8MdMUNzlLxI&sid=23fe9e1e312e4a1e#🇩🇪 Germany
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@83.171.241.181:443?security=reality&sni=3b3377x.es5.h1clayd.click&fp=firefox&pbk=N4cPAkl5hvo7SchiN_WHEwLBLICAXGtq85BP7S_6ORI&sid=dfd8d9d06bd8ce60&type=xhttp&path=%2F&mode=auto#🇪🇸 Spain
 # source:AetrisVPN_global updated:2026-11-15T09:31:25Z count:17
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@50.7.169.243:443?flow=xtls-rprx-vision&fp=firefox&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&security=reality&sid=c1064ddb&sni=user.betust.net&type=raw#🇳🇱 Netherlands
 vless://55458d10-24ab-4ea6-a522-13741b546f2a@132.243.163.154:443?security=reality&sni=345739t.de15.h1clayd.click&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#🇩🇪 Germany
