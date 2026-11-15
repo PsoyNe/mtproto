@@ -69,9 +69,8 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=
 vless://34dd3340-5cf6-4d61-bc60-b8b13ee2b3c1@207.89.17.68:443?flow=xtls-rprx-vision&security=reality&sni=www.twitch.tv&fp=firefox&pbk=oImt0TW4JPXoVLCHkqjwr042kXLs1_HwIYKMWlQGdjs&sid=2cba5882b6a81b07#🇫🇮 Finland
 vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@91.196.35.252:443?flow=xtls-rprx-vision&fp=firefox&pbk=z1Z2yIWBdFlCT3ofwGNntS63c9VYZLrqTVTeURq7r2U&security=reality&sni=msk-02.freegate.win&type=raw#🇫🇮 Finland
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.176.6:443?flow=xtls-rprx-vision&security=reality&sni=chmstnd21.jarvesitw.ru&fp=firefox&pbk=2LiT1OqXbnWbNAop15NSe0OL3dK2i8EIkiY4EB_3PV8&sid=2e9cd36a#UNKNOWN
-# source:FLAT447_black updated:2026-11-15T06:45:12Z count:2
+# source:FLAT447_black updated:2026-11-15T09:31:59Z count:1
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=random#🇺🇸 United States
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#🇺🇸 United States
 # source:FLAT447_white updated:2026-11-15T06:45:26Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#🇺🇸 United States
