@@ -94,8 +94,8 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.242.247.252:443?flow=xtls-rprx-
 vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?encryption=none&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp#🇩🇪 Germany
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=random#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#UNKNOWN
-# source:FLAT447_white updated:2026-11-15T12:20:05Z count:2
+# source:FLAT447_white updated:2026-11-15T15:08:48Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#🇺🇸 United States
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#UNKNOWN
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
