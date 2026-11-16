@@ -97,9 +97,13 @@ vless://e1eaef08-e4ff-4843-9926-c0c84a034bad@37.221.76.117:2089?encryption=none&
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&fp=firefox&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&encryption=none#🇺🇸 United States
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-16T02:21:00Z count:2
-vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=firefox&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net&encryption=none#🇵🇱 Poland
-vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net#🇵🇱 Poland
+# source:igareck updated:2026-11-16T05:08:40Z count:6
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&fp=safari#UNKNOWN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&fp=ios#UNKNOWN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&fp=chrome#UNKNOWN
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#UNKNOWN
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@45b545t.fi7.h1clayd.click:443/?encryption=none&flow=xtls-rprx-vision&pbk=jRHg94HymqCnI9LLFHMBxvi9URv_AOMgJxhLkOVuCl8&security=reality&sid=0bfd7d104dcc9cae&sni=45b545t.fi7.h1clayd.click&type=tcp&fp=ios#UNKNOWN
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@45b545t.fi7.h1clayd.click:443/?encryption=none&flow=xtls-rprx-vision&pbk=jRHg94HymqCnI9LLFHMBxvi9URv_AOMgJxhLkOVuCl8&security=reality&sid=0bfd7d104dcc9cae&sni=45b545t.fi7.h1clayd.click&type=tcp&fp=edge#UNKNOWN
 # source:aviamastersgh updated:2026-11-16T02:23:18Z count:1
 vless://dadf78d3-5cc9-453f-a3e6-2f0826a59c68@217.60.148.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=in.static-s3.org&fp=chrome&security=reality&pbk=drhDo_VnUaM05YqwqE03ISx_8ZG8FlNGpSMCnAeqvFk&sid=159246753f750720#🇮🇳 India
 # source:AetrisVPN_white updated:2026-11-16T02:24:10Z count:2
