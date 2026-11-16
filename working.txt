@@ -75,11 +75,9 @@ vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net#🇵🇱 Poland
 # source:aviamastersgh updated:2026-11-16T02:23:18Z count:1
 vless://dadf78d3-5cc9-453f-a3e6-2f0826a59c68@217.60.148.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=in.static-s3.org&fp=chrome&security=reality&pbk=drhDo_VnUaM05YqwqE03ISx_8ZG8FlNGpSMCnAeqvFk&sid=159246753f750720#🇮🇳 India
-# source:AetrisVPN_white updated:2026-11-15T23:35:50Z count:4
-vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?headerType=none&host=b998f03d.de-p2.h1clayd.click&path=%2F&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&security=reality&sid=c10f4100fa3a8d47&sni=b998f03d.de-p2.h1clayd.click&type=tcp&fp=firefox#🇩🇪 Germany
+# source:AetrisVPN_white updated:2026-11-16T02:24:10Z count:2
 vless://75a8cc15-fa52-4067-949f-42a89859b54f@176.123.160.196:443?flow=xtls-rprx-vision&security=reality&sni=brnl2.catneuro.su&fp=firefox&pbk=jH6fBbonaKYT-bLkpRiZCW_5BwVMSUeC_1d1bBTj_Rw&sid=a1fd12bb855171d7#🇩🇪 Germany
 vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@159.194.228.99:443?flow=xtls-rprx-vision&pbk=Hdbh_QHmyYaQjhD4mD5NWdir_qW2FFhJ3t3QFkU7bjc&security=reality&sni=ru-nl1.fluxnode777.ru&fp=firefox#🇳🇱 Netherlands
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@194.55.239.169:443?flow=xtls-rprx-vision&security=tls&sni=194.55.239.169&fp=firefox#🇵🇱 Poland
 # source:AetrisVPN_global updated:2026-11-15T23:37:44Z count:42
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.95.219:443?flow=xtls-rprx-vision&fp=firefox&pbk=UAry1N68zKkbO0MpIqAXmxfxg1Y9rvkiBjexZErRJwY&security=reality&sid=6a30cf54&sni=price.goonars.com&type=raw#🇳🇱 Netherlands
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.95.230:443?flow=xtls-rprx-vision&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&security=reality&sid=d889ac17&sni=main.jarbook.net&type=raw#🇳🇱 Netherlands
