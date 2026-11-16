@@ -50,8 +50,8 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?encry
 # source:aviamastersgh updated:2026-11-16T19:39:00Z count:2
 vless://cdb7fa1d-6e7a-467c-da9c-da363c7bf779@panel.apexkey.store:2053?encryption=none&fp=&pbk=DEFJSLdILrvauMpwtpvFZddadpt3rNtv03Dui2EkmRk&security=reality&sid=68&sni=www.cloudflare.com&type=tcp#🇺🇸 United States
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&sni=bilibili-vn.biliimg.com#🇻🇳 Vietnam
-# source:AetrisVPN_white updated:2026-11-16T16:34:19Z count:1
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=&mode=gun#UNKNOWN
+# source:AetrisVPN_white updated:2026-11-16T19:40:04Z count:1
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=&mode=gun#🇸🇪 Sweden
 # source:AetrisVPN_global updated:2026-11-16T16:38:00Z count:5
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@ce5afbt.us14.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=h1RM4xbCSspYaSwNHFIeECHKJ0gdvE6ezCqlAuFiC04&sid=d475b402ccbe2ff9&sni=ce5afbt.us14.h1clayd.click#UNKNOWN
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@da696cx.us14.h1clayd.click:443?type=xhttp&security=reality&fp=firefox&pbk=H9qjXYNxgMvibCCpYtEZsTNnd7FAT0VM68bpZmyR2nI&sid=bbedf168b5852c13&sni=da696cx.us14.h1clayd.click&path=%2F#🇺🇸 United States
