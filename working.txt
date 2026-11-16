@@ -46,8 +46,8 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:42120?security=r
 vless://02655447-4659-41df-8d0e-d23a3035b7cb@178.17.60.97:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MxtGDhmLnM0c12kBSOjvxJjmflGmabDQsCekNeH85Rk&security=reality&sid=d110e87817307d2f&sni=fi1.nebulaguard.org&type=tcp#UNKNOWN
 vless://10af09cf-dc4c-4c08-b524-10e7ef4667d6@panel.autonetshop.ir:13787?security=reality&encryption=none&pbk=-U1wp1S-Mi6lN2L2KusY95zw9obuZ3H26n1cbLw7lGs&headerType=&fp=chrome&spx=%2Fbd0970b2777c61d&type=tcp&sni=sww.srv-alfarayen.ir&sid=41a72194ef86d6#🇹🇷 Turkey
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#🇦🇺 Australia
-# source:roosterkid updated:2026-11-16T02:19:18Z count:1
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&fp=firefox&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&encryption=none#🇺🇸 United States
+# source:roosterkid updated:2026-11-16T10:28:58Z count:1
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=chrome&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#🇯🇵 Japan
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
 # source:igareck updated:2026-11-16T05:08:40Z count:6
