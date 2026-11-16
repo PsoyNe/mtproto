@@ -104,8 +104,10 @@ vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?secur
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#UNKNOWN
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@45b545t.fi7.h1clayd.click:443/?encryption=none&flow=xtls-rprx-vision&pbk=jRHg94HymqCnI9LLFHMBxvi9URv_AOMgJxhLkOVuCl8&security=reality&sid=0bfd7d104dcc9cae&sni=45b545t.fi7.h1clayd.click&type=tcp&fp=ios#UNKNOWN
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@45b545t.fi7.h1clayd.click:443/?encryption=none&flow=xtls-rprx-vision&pbk=jRHg94HymqCnI9LLFHMBxvi9URv_AOMgJxhLkOVuCl8&security=reality&sid=0bfd7d104dcc9cae&sni=45b545t.fi7.h1clayd.click&type=tcp&fp=edge#UNKNOWN
-# source:aviamastersgh updated:2026-11-16T02:23:18Z count:1
-vless://dadf78d3-5cc9-453f-a3e6-2f0826a59c68@217.60.148.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=in.static-s3.org&fp=chrome&security=reality&pbk=drhDo_VnUaM05YqwqE03ISx_8ZG8FlNGpSMCnAeqvFk&sid=159246753f750720#🇮🇳 India
+# source:aviamastersgh updated:2026-11-16T05:11:21Z count:3
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru4.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru4.net#🇩🇪 Germany
+vless://a52c04f5-5d58-4bef-9a89-2a270e50fc4b@195.110.15.2:43000?security=reality&encryption=none&pbk=cXHiKEpk_2lN7x4H_TBrkBPuNTNJX-5_IP1RMKmOgWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=195.110.15.2&sid=d72da7ef#🇩🇪 Germany
+vless://02655447-4659-41df-8d0e-d23a3035b7cb@178.17.60.97:443?security=reality&encryption=none&pbk=MxtGDhmLnM0c12kBSOjvxJjmflGmabDQsCekNeH85Rk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi1.nebulaguard.org&sid=d110e87817307d2f#🇫🇮 Finland
 # source:AetrisVPN_white updated:2026-11-16T02:24:10Z count:2
 vless://75a8cc15-fa52-4067-949f-42a89859b54f@176.123.160.196:443?flow=xtls-rprx-vision&security=reality&sni=brnl2.catneuro.su&fp=firefox&pbk=jH6fBbonaKYT-bLkpRiZCW_5BwVMSUeC_1d1bBTj_Rw&sid=a1fd12bb855171d7#🇩🇪 Germany
 vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@159.194.228.99:443?flow=xtls-rprx-vision&pbk=Hdbh_QHmyYaQjhD4mD5NWdir_qW2FFhJ3t3QFkU7bjc&security=reality&sni=ru-nl1.fluxnode777.ru&fp=firefox#🇳🇱 Netherlands
