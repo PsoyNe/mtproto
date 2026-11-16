@@ -73,8 +73,8 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 # source:igareck updated:2026-11-16T02:21:00Z count:2
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=firefox&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net&encryption=none#🇵🇱 Poland
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net#🇵🇱 Poland
-# source:aviamastersgh updated:2026-11-15T20:47:34Z count:1
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#🇸🇬 Singapore
+# source:aviamastersgh updated:2026-11-16T02:23:18Z count:1
+vless://dadf78d3-5cc9-453f-a3e6-2f0826a59c68@217.60.148.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=in.static-s3.org&fp=chrome&security=reality&pbk=drhDo_VnUaM05YqwqE03ISx_8ZG8FlNGpSMCnAeqvFk&sid=159246753f750720#🇮🇳 India
 # source:AetrisVPN_white updated:2026-11-15T23:35:50Z count:4
 vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?headerType=none&host=b998f03d.de-p2.h1clayd.click&path=%2F&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&security=reality&sid=c10f4100fa3a8d47&sni=b998f03d.de-p2.h1clayd.click&type=tcp&fp=firefox#🇩🇪 Germany
 vless://75a8cc15-fa52-4067-949f-42a89859b54f@176.123.160.196:443?flow=xtls-rprx-vision&security=reality&sni=brnl2.catneuro.su&fp=firefox&pbk=jH6fBbonaKYT-bLkpRiZCW_5BwVMSUeC_1d1bBTj_Rw&sid=a1fd12bb855171d7#🇩🇪 Germany
