@@ -70,12 +70,10 @@ vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@557e58g.pl8.h1clayd.click:443?encry
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru4.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru4.net#🇩🇪 Germany
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?encryption=none&security=reality&sni=5d0319t.nl7.h1clayd.click&fp=chrome&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&type=tcp&headerType=none#🇳🇱 Netherlands
 vless://02655447-4659-41df-8d0e-d23a3035b7cb@178.17.60.97:443?security=reality&encryption=none&pbk=MxtGDhmLnM0c12kBSOjvxJjmflGmabDQsCekNeH85Rk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi1.nebulaguard.org&sid=d110e87817307d2f#🇫🇮 Finland
-# source:AetrisVPN_white updated:2026-11-16T05:12:23Z count:7
-vless://75a8cc15-fa52-4067-949f-42a89859b54f@176.123.160.196:443?flow=xtls-rprx-vision&security=reality&sni=brnl2.catneuro.su&fp=firefox&pbk=jH6fBbonaKYT-bLkpRiZCW_5BwVMSUeC_1d1bBTj_Rw&sid=a1fd12bb855171d7#🇩🇪 Germany
-vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@159.194.228.99:443?flow=xtls-rprx-vision&security=reality&sni=ru-nl1.fluxnode777.ru&fp=firefox&pbk=Hdbh_QHmyYaQjhD4mD5NWdir_qW2FFhJ3t3QFkU7bjc#🇳🇱 Netherlands
+# source:AetrisVPN_white updated:2026-11-16T10:37:04Z count:5
 vless://59ed8211-2293-41a5-8996-cf72fe05f4b0@212.193.10.79:443?flow=xtls-rprx-vision&security=reality&sni=fr-212-193-10-79.sslip.io&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&sid=a5fe10fba46b8613#🇩🇪 Germany
+vless://75a8cc15-fa52-4067-949f-42a89859b54f@176.123.160.196:443?flow=xtls-rprx-vision&security=reality&sni=brnl2.catneuro.su&fp=firefox&pbk=jH6fBbonaKYT-bLkpRiZCW_5BwVMSUeC_1d1bBTj_Rw&sid=a1fd12bb855171d7#🇩🇪 Germany
 vless://59ed8211-2293-41a5-8996-cf72fe05f4b0@171.22.133.24:443?flow=xtls-rprx-vision&security=reality&sni=171.22.133.24.sslip.io&fp=firefox&pbk=RByCaPnWH40eXtHFQWc4EESPgYo8cK8SEWhJY_ztqAA&sid=15a05013365bc50a#🇩🇪 Germany
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@37.9.4.62:443?security=reality&sni=360.yandex.ru&fp=firefox&pbk=vP4XeQ-z8LYtkSz1SCAxRMAEPreaHspoXm2nt0okQVw&sid=c7674e&type=grpc&serviceName=#🇸🇪 Sweden
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@87.228.101.43:443?security=reality&sni=360.yandex.ru&fp=firefox&pbk=n8hYILIctbUJNJqFXLxQY2Fx2f9bzfCMRWAgETc6GGY&sid=009818&type=grpc&serviceName=#UNKNOWN
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-16T05:14:38Z count:49
