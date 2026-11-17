@@ -32,9 +32,11 @@ vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality
 vless://05c5d8e4-1cf2-0002-97cb-5f1f079ab282@185.11.246.176:443?flow=xtls-rprx-vision&security=reality&sni=www.sravni.ru&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#🇳🇱 Netherlands
 vless://8d44611d-e9ca-4939-a9a1-ff9b4b9d3f08@yfivst4pvut13bd351og.sellerape.cc:443?security=reality&encryption=none&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yfivst4pvut13bd351og.sellerape.cc&sid=dfdee30a27b11f0f#UNKNOWN
 vless://34d8954c-6898-46f6-8c6f-ded18c46e0e6@155.212.142.219:35384?flow=xtls-rprx-vision&security=reality&sni=cms.troppa.ru&fp=firefox&pbk=GnnDllUbNsUtvxHxd_C694OcL2kyGWHR99WJrp0hwmA&sid=39#UNKNOWN
-# source:AetrisVPN_global updated:2026-11-17T10:59:55Z count:2
-vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@asure.win:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=hWCFExEaWdK89gLmGDQagZd2mlwOWLTcx38DlyNeShQ&sid=de1d5c00b48cb395&sni=asure.win#🇵🇱 Poland
-vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@newerson.online:443?type=raw&security=reality&sni=newerson.online&fp=firefox&flow=xtls-rprx-vision&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&sid=8888265ef63fba6d#🇩🇪 Germany
+# source:AetrisVPN_global updated:2026-11-17T14:07:11Z count:4
+vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@sw-part.cookie-line.cc:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=sw-part.cookie-line.cc#🇫🇮 Finland
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/#🇯🇵 Japan
+vless://f4ca59b2-767d-3425-8dfc-95a96a0e6802@140.245.113.33:443?flow=xtls-rprx-vision&security=reality&sni=learn.microsoft.com&fp=firefox&pbk=tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY&sid=c940a3b6d60b8611#UNKNOWN
+vless://b1d36fd9-bf3b-4f97-b274-90d5ef65c0ce@45.135.232.36:443?flow=xtls-rprx-vision&security=reality&sni=ap-northeast-1.gameweplay.shop&fp=firefox&pbk=pN_NVb-0Jr3rDMno5eSw5XAlxm6vFUesWx2Kduoe7y8&sid=069e42ee#🇯🇵 Japan
 # source:FLAT447_black updated:2026-11-17T01:50:11Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=random#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#🇺🇸 United States
