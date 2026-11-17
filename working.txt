@@ -26,9 +26,9 @@ vless://8aeda8e3-dd32-4071-bcbb-f793e646eb13@45.151.102.174:443?flow=xtls-rprx-v
 vless://24e3a924-fc4b-4e3f-98a8-85d506d530f9@45.151.102.174:443?flow=xtls-rprx-vision&security=reality&sni=swedi.serverslocal.ru&pbk=vluPN5krskStuIe1YYoOopN766N8qK_uMsSsZGJdwCI&sid=db71028aeb67289c&fp=chrome#🇫🇮 Finland
 vless://3cff116a-9beb-422d-b7d1-c5598790cd48@swedi.serverslocal.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=swedi.serverslocal.ru&pbk=vluPN5krskStuIe1YYoOopN766N8qK_uMsSsZGJdwCI&sid=db71028aeb67289c&fp=edge#🇫🇮 Finland
 vless://24e3a924-fc4b-4e3f-98a8-85d506d530f9@45.151.102.174:443?flow=xtls-rprx-vision&security=reality&sni=swedi.serverslocal.ru&pbk=vluPN5krskStuIe1YYoOopN766N8qK_uMsSsZGJdwCI&sid=db71028aeb67289c&fp=firefox#🇫🇮 Finland
-# source:aviamastersgh updated:2026-11-17T14:03:50Z count:2
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🇺🇸 United States
+# source:aviamastersgh updated:2026-11-17T17:13:03Z count:2
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#🇸🇬 Singapore
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#🇸🇬 Singapore
 # source:AetrisVPN_white updated:2026-11-17T10:57:00Z count:4
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
 vless://05c5d8e4-1cf2-0002-97cb-5f1f079ab282@185.11.246.176:443?flow=xtls-rprx-vision&security=reality&sni=www.sravni.ru&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#🇳🇱 Netherlands
