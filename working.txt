@@ -37,9 +37,8 @@ vless://dfe50e18-28ce-459e-a6b9-0f2585bcc3b6@sw-part.cookie-line.cc:443?type=raw
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/#🇯🇵 Japan
 vless://f4ca59b2-767d-3425-8dfc-95a96a0e6802@140.245.113.33:443?flow=xtls-rprx-vision&security=reality&sni=learn.microsoft.com&fp=firefox&pbk=tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY&sid=c940a3b6d60b8611#UNKNOWN
 vless://b1d36fd9-bf3b-4f97-b274-90d5ef65c0ce@45.135.232.36:443?flow=xtls-rprx-vision&security=reality&sni=ap-northeast-1.gameweplay.shop&fp=firefox&pbk=pN_NVb-0Jr3rDMno5eSw5XAlxm6vFUesWx2Kduoe7y8&sid=069e42ee#🇯🇵 Japan
-# source:FLAT447_black updated:2026-11-17T01:50:11Z count:2
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=random#🇺🇸 United States
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#🇺🇸 United States
+# source:FLAT447_black updated:2026-11-17T14:07:55Z count:1
+vless://b1d36fd9-bf3b-4f97-b274-90d5ef65c0ce@45.135.232.36:443?flow=xtls-rprx-vision&security=reality&sni=ap-northeast-1.gameweplay.shop&fp=firefox&pbk=pN_NVb-0Jr3rDMno5eSw5XAlxm6vFUesWx2Kduoe7y8&sid=069e42ee#🇯🇵 Japan
 # source:FLAT447_white updated:2026-11-17T07:56:07Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#UNKNOWN
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
