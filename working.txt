@@ -31,15 +31,9 @@ vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality
 vless://05c5d8e4-1cf2-0002-97cb-5f1f079ab282@185.11.246.176:443?flow=xtls-rprx-vision&security=reality&sni=www.sravni.ru&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#🇳🇱 Netherlands
 vless://8d44611d-e9ca-4939-a9a1-ff9b4b9d3f08@yfivst4pvut13bd351og.sellerape.cc:443?security=reality&encryption=none&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yfivst4pvut13bd351og.sellerape.cc&sid=dfdee30a27b11f0f#UNKNOWN
 vless://34d8954c-6898-46f6-8c6f-ded18c46e0e6@155.212.142.219:35384?flow=xtls-rprx-vision&security=reality&sni=cms.troppa.ru&fp=firefox&pbk=GnnDllUbNsUtvxHxd_C694OcL2kyGWHR99WJrp0hwmA&sid=39#UNKNOWN
-# source:AetrisVPN_global updated:2026-11-17T07:55:15Z count:8
-vless://43822d59-063f-4678-bd57-fc448d5c1a03@136.148.212.116:443?flow=xtls-rprx-vision&security=reality&sni=node-se1.ainsight.ru&fp=firefox&pbk=ulQdsTVANPwneUQ312TJZch9YJbgbV7HRnwx4m8OLGY&sid=0a8e8bbf7e73dd21#🇸🇪 Sweden
-vless://43822d59-063f-4678-bd57-fc448d5c1a03@136.148.212.116:443?flow=xtls-rprx-vision&fp=firefox&pbk=ulQdsTVANPwneUQ312TJZch9YJbgbV7HRnwx4m8OLGY&security=reality&sid=0a8e8bbf7e73dd21&sni=node-se1.ainsight.ru&type=raw#🇸🇪 Sweden
-vless://60790311-bac5-4bc2-8952-fa5e8ad1c162@45.141.117.239:44003?flow=xtls-rprx-vision&security=reality&sni=lnaolt.aslg.evovirtual.net&fp=firefox&pbk=WEhDd9XBJEoL7n44VanjtmiEiAMj2Kipb5OtbC_AykI&sid=bbe7cea59ba5fc76#🇳🇱 Netherlands
-vless://01a1e565-380d-7802-8137-2fcfc5d3e1e9@93.115.203.231:443?flow=xtls-rprx-vision&security=reality&sni=rus-06.samigo.cc&fp=firefox&pbk=lVBS5HXcmjkSQeNOQ1s-vFjRgdAd8tZGOvFB9UZq0Qs&sid=36bb8f7b3c034bca#🇩🇪 Germany
-vless://05c5d8e4-1cf2-0004-97cb-5f1f079ab282@185.11.246.176:443?type=raw&security=reality&sni=www.sravni.ru&fp=firefox&flow=xtls-rprx-vision&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#UNKNOWN
-vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@newerson.online:443?type=raw&security=reality&sni=newerson.online&fp=firefox&flow=xtls-rprx-vision&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&sid=8888265ef63fba6d#UNKNOWN
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#🇩🇪 Germany
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=146.19.254.171#🇳🇱 Netherlands
+# source:AetrisVPN_global updated:2026-11-17T10:59:55Z count:2
+vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@asure.win:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=hWCFExEaWdK89gLmGDQagZd2mlwOWLTcx38DlyNeShQ&sid=de1d5c00b48cb395&sni=asure.win#🇵🇱 Poland
+vless://b9abca13-8d45-43db-b0a2-4d26f85380c3@newerson.online:443?type=raw&security=reality&sni=newerson.online&fp=firefox&flow=xtls-rprx-vision&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&sid=8888265ef63fba6d#🇩🇪 Germany
 # source:FLAT447_black updated:2026-11-17T01:50:11Z count:2
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?encryption=none&headerType=none&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&spx=%2F&type=tcp&fp=random#🇺🇸 United States
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=%2F&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#🇺🇸 United States
