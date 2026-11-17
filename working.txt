@@ -41,8 +41,7 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?&security=
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none#🇸🇬 Singapore
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bilibili-vn.biliimg.com&fp=chrome&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&type=tcp&headerType=none&host=bilibili-vn.biliimg.com#🇻🇳 Vietnam
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#🇦🇺 Australia
-# source:FLAT447_white updated:2026-11-17T07:56:07Z count:2
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=chrome#UNKNOWN
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=%2F#🇺🇸 United States
+# source:FLAT447_white updated:2026-11-17T17:18:08Z count:1
+vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#UNKNOWN
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
