@@ -52,11 +52,13 @@ vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.15.119:19482?flow=xtls-rprx-v
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@1.160.15.119:51283?flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83#UNKNOWN
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&sni=m.media-amazon.com#🇺🇸 United States
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@201.58.142.38:443?flow=xtls-rprx-vision&security=reality&sni=4c980ft.fi15.h1clayd.click&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774#🇫🇮 Finland
-# source:FLAT447_black updated:2026-11-17T17:17:37Z count:4
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?&security=reality&flow=xtls-rprx-vision&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&fp=chrome&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#🇯🇵 Japan
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none#🇸🇬 Singapore
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bilibili-vn.biliimg.com&fp=chrome&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&type=tcp&headerType=none&host=bilibili-vn.biliimg.com#🇻🇳 Vietnam
+# source:FLAT447_black updated:2026-11-17T21:39:01Z count:6
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.7:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=svc-net-ctl.galioncc.com#🇩🇪 Germany
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&sni=psstatic.cdn.bcebos.com#🇯🇵 Japan
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&sni=psstatic.cdn.bcebos.com#🇸🇬 Singapore
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#🇦🇺 Australia
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com&host=zfapi.zalolink.com#🇦🇺 Australia
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.51.135:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7d309e4c16b825f&sni=svc-io-mgr.galioncc.com#🇱🇹 Lithuania
 # source:FLAT447_white updated:2026-11-17T17:18:08Z count:1
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#UNKNOWN
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
