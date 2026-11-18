@@ -28,8 +28,8 @@ vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@168.113.252.145:443?flow=xtls-rprx-
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@168.113.252.145:443?flow=xtls-rprx-vision&security=reality&sni=tarakan.belka.tv&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#🇦🇹 Austria
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.245.73:443?flow=xtls-rprx-vision&security=reality&sni=pawuk.belka.tv&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=qq#🇩🇪 Germany
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&type=tcp&sni=net-api-ctl.galioncc.com&path=%2F&host=net-api-ctl.galioncc.com&fp=random&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
-# source:aviamastersgh updated:2026-11-17T21:34:04Z count:1
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#🇸🇬 Singapore
+# source:aviamastersgh updated:2026-11-18T01:16:18Z count:1
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
 # source:AetrisVPN_white updated:2026-11-17T10:57:00Z count:4
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
 vless://05c5d8e4-1cf2-0002-97cb-5f1f079ab282@185.11.246.176:443?flow=xtls-rprx-vision&security=reality&sni=www.sravni.ru&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#🇳🇱 Netherlands
