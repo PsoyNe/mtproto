@@ -29,9 +29,12 @@ vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?headerType=none&
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?encryption=none&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp#🇷🇺 Russia
 # source:aviamastersgh updated:2026-11-18T01:16:18Z count:1
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
-# source:AetrisVPN_white updated:2026-11-18T01:17:04Z count:2
+# source:AetrisVPN_white updated:2026-11-18T04:56:27Z count:5
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@89.223.124.93:443?flow=xtls-rprx-vision&security=reality&sni=dfgdfgb.wey-land.net&fp=qq&pbk=rLkjhzhSAJrey5Qv3624_5B-MpViafV2dDdDCnqn_l4#🇷🇺 Russia
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?flow=xtls-rprx-vision&security=reality&sni=gmbasdasd.wey-land.net&fp=qq&pbk=t2iopaZn9-fADmIi4taXbGUV6wFTFku4eGi8KISuZAM#🇷🇺 Russia
 vless://df97ce68-477f-4484-94c7-79eccab7319d@195.58.34.47:443?flow=xtls-rprx-vision&security=reality&sni=you1.angelsleep9.com&fp=firefox&pbk=CfPoOg5vHukaZ_75xdkl2S1MFxTfYRonhy31GSddzCA#🇷🇺 Russia
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&serviceName=&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc&fp=firefox#🇩🇪 Germany
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@194.58.95.65:443?flow=xtls-rprx-vision&security=reality&sni=hohol.nodexphere.net&fp=firefox&pbk=SnoafrsbeHFuYj-qQsTDjBhy1eBQB7J7Q9HAZQSMgHY#🇩🇪 Germany
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-18T01:19:43Z count:12
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.13:443?security=reality&sni=svc-ns-cfg.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇩🇪 Germany
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.9:443?security=reality&sni=net-rt-mgr.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇩🇪 Germany
