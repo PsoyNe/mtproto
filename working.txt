@@ -30,11 +30,9 @@ vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.245.73:443?flow=xtls-rprx-v
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&type=tcp&sni=net-api-ctl.galioncc.com&path=%2F&host=net-api-ctl.galioncc.com&fp=random&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
 # source:aviamastersgh updated:2026-11-18T01:16:18Z count:1
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
-# source:AetrisVPN_white updated:2026-11-17T10:57:00Z count:4
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
-vless://05c5d8e4-1cf2-0002-97cb-5f1f079ab282@185.11.246.176:443?flow=xtls-rprx-vision&security=reality&sni=www.sravni.ru&fp=firefox&pbk=skQrUvqTYNsmUQiEFd2ySa94etOjlEQz6JbHwtgRclk&sid=a182319d#🇳🇱 Netherlands
-vless://8d44611d-e9ca-4939-a9a1-ff9b4b9d3f08@yfivst4pvut13bd351og.sellerape.cc:443?security=reality&encryption=none&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yfivst4pvut13bd351og.sellerape.cc&sid=dfdee30a27b11f0f#UNKNOWN
-vless://34d8954c-6898-46f6-8c6f-ded18c46e0e6@155.212.142.219:35384?flow=xtls-rprx-vision&security=reality&sni=cms.troppa.ru&fp=firefox&pbk=GnnDllUbNsUtvxHxd_C694OcL2kyGWHR99WJrp0hwmA&sid=39#UNKNOWN
+# source:AetrisVPN_white updated:2026-11-18T01:17:04Z count:2
+vless://df97ce68-477f-4484-94c7-79eccab7319d@195.58.34.47:443?flow=xtls-rprx-vision&security=reality&sni=you1.angelsleep9.com&fp=firefox&pbk=CfPoOg5vHukaZ_75xdkl2S1MFxTfYRonhy31GSddzCA#🇷🇺 Russia
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&serviceName=&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc&fp=firefox#🇩🇪 Germany
 # source:AetrisVPN_global updated:2026-11-17T21:37:32Z count:18
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@203.57.82.109:443?security=reality&sni=api-rt-mgr.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=9a3f6c21d8e047b5#🇬🇧 United Kingdom
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@48.103.120.9:443?security=reality&sni=net-rt-mgr.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇩🇪 Germany
