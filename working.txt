@@ -39,12 +39,8 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?encry
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?security=reality&type=xhttp&packetEncoding=xudp&sni=38917fx.es9.h1clayd.click&fp=chrome&sid=d5501b156391e01d&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&mode=auto#🇪🇸 Spain
 # source:aviamastersgh updated:2026-11-18T12:21:14Z count:1
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#UNKNOWN
-# source:AetrisVPN_white updated:2026-11-18T04:56:27Z count:5
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@89.223.124.93:443?flow=xtls-rprx-vision&security=reality&sni=dfgdfgb.wey-land.net&fp=qq&pbk=rLkjhzhSAJrey5Qv3624_5B-MpViafV2dDdDCnqn_l4#🇷🇺 Russia
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?flow=xtls-rprx-vision&security=reality&sni=gmbasdasd.wey-land.net&fp=qq&pbk=t2iopaZn9-fADmIi4taXbGUV6wFTFku4eGi8KISuZAM#🇷🇺 Russia
-vless://df97ce68-477f-4484-94c7-79eccab7319d@195.58.34.47:443?flow=xtls-rprx-vision&security=reality&sni=you1.angelsleep9.com&fp=firefox&pbk=CfPoOg5vHukaZ_75xdkl2S1MFxTfYRonhy31GSddzCA#🇷🇺 Russia
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@194.58.95.65:443?flow=xtls-rprx-vision&security=reality&sni=hohol.nodexphere.net&fp=firefox&pbk=SnoafrsbeHFuYj-qQsTDjBhy1eBQB7J7Q9HAZQSMgHY#🇩🇪 Germany
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=#🇩🇪 Germany
+# source:AetrisVPN_white updated:2026-11-18T12:22:08Z count:1
+vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
 # source:AetrisVPN_global updated:2026-11-18T08:40:54Z count:2
 vless://df97ce68-477f-4484-94c7-79eccab7319d@64.190.113.142:443?flow=xtls-rprx-vision&fp=firefox&pbk=D6i-T21GKwBd113fbh7kgofOE63M4GId7LsCGdI6z20&security=reality&sni=usi1.angelsleep9.com&type=raw#🇺🇸 United States
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&fp=ios&type=tcp&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#🇸🇬 Singapore
