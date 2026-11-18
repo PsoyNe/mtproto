@@ -40,7 +40,7 @@ vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?flow=xtls-rprx-v
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?flow=xtls-rprx-vision&pbk=t2iopaZn9-fADmIi4taXbGUV6wFTFku4eGi8KISuZAM&security=reality&sni=gmbasdasd.wey-land.net&fp=edge#🇷🇺 Russia
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@89.223.124.93:443?flow=xtls-rprx-vision&security=reality&sni=dfgdfgb.wey-land.net&fp=qq&pbk=rLkjhzhSAJrey5Qv3624_5B-MpViafV2dDdDCnqn_l4#🇷🇺 Russia
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp&fp=edge#🇷🇺 Russia
-# source:aviamastersgh updated:2026-11-18T01:16:18Z count:1
+# source:aviamastersgh updated:2026-11-18T08:36:47Z count:1
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
 # source:AetrisVPN_white updated:2026-11-18T04:56:27Z count:5
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@89.223.124.93:443?flow=xtls-rprx-vision&security=reality&sni=dfgdfgb.wey-land.net&fp=qq&pbk=rLkjhzhSAJrey5Qv3624_5B-MpViafV2dDdDCnqn_l4#🇷🇺 Russia
