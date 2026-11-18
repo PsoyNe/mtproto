@@ -52,11 +52,8 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?type=tcp&s
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#UNKNOWN
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:54528?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#🇦🇺 Australia
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇸🇬 Singapore
-# source:FLAT447_white updated:2026-11-18T08:43:54Z count:4
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&type=tcp&packetEncoding=xudp&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=6a60e7e382d6&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&encryption=none#🇸🇬 Singapore
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#🇸🇬 Singapore
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/&fp=chrome#🇦🇺 Australia
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F&fp=edge#🇦🇺 Australia
+# source:FLAT447_white updated:2026-11-18T12:27:57Z count:1
+vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp#🇷🇺 Russia
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
 vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
 # source:ebrasha updated:2026-11-18T12:16:23Z count:31
