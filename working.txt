@@ -41,14 +41,15 @@ vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality
 # source:AetrisVPN_global updated:2026-11-18T08:40:54Z count:2
 vless://df97ce68-477f-4484-94c7-79eccab7319d@64.190.113.142:443?flow=xtls-rprx-vision&fp=firefox&pbk=D6i-T21GKwBd113fbh7kgofOE63M4GId7LsCGdI6z20&security=reality&sni=usi1.angelsleep9.com&type=raw#🇺🇸 United States
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&fp=ios&type=tcp&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#🇸🇬 Singapore
-# source:FLAT447_black updated:2026-11-18T12:27:26Z count:7
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com&host=zfapi.zalolink.com#🇦🇺 Australia
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&type=tcp&packetEncoding=xudp&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=6a60e7e382d6&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo#🇸🇬 Singapore
-vless://178b6a10-50ed-4de4-af64-c6da7192722a@185.92.180.124:60005?type=xhttp&security=reality&fp=firefox&pbk=Tgc-ojZhTTRr-NhluOSFQ0xx3PmPg_EUg-AoUOO2rmU&sid=97&sni=aparat.com&mode=auto&extra={#🇺🇸 United States
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1SefqLQXrqkiUdf7cTMF53hrMZyo684_uneRC8-qTxI&sid=8f6683a234d3&sni=psstatic.cdn.bcebos.com#🇸🇬 Singapore
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#UNKNOWN
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:54528?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#🇦🇺 Australia
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇸🇬 Singapore
+# source:FLAT447_black updated:2026-11-18T16:13:26Z count:8
+vless://07df3711-07a1-4649-9a61-3f16cb931d02@345739t.de19.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=345739t.de19.h1clayd.click#🇩🇪 Germany
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&sni=psstatic.cdn.bcebos.com&insecure=0&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&flow=xtls-rprx-vision#🇯🇵 Japan
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&sni=psstatic.cdn.bcebos.com#🇯🇵 Japan
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=chrome&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none#UNKNOWN
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇭🇰 Hong Kong
+vless://07df3711-07a1-4649-9a61-3f16cb931d02@345739t.de19.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=345739t.de19.h1clayd.click#🇩🇪 Germany
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1SefqLQXrqkiUdf7cTMF53hrMZyo684_uneRC8-qTxI&sid=8f6683a234d3&sni=psstatic.cdn.bcebos.com#UNKNOWN
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇸🇬 Singapore
 # source:FLAT447_white updated:2026-11-18T12:27:57Z count:1
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp#🇷🇺 Russia
 # source:JeBance updated:2026-10-31T22:32:51Z count:1
