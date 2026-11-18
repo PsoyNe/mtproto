@@ -33,10 +33,13 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?encry
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=15aa0ad4&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE#🇯🇵 Japan
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-18T04:52:53Z count:3
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3&fp=firefox&sni=net-api-ctl.galioncc.com&type=tcp&headerType=none&host=net-api-ctl.galioncc.com&path=%2F#🇷🇺 Russia
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?headerType=none&host=net-api-ctl.galioncc.com&path=%2F&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp&fp=edge#🇷🇺 Russia
+# source:igareck updated:2026-11-18T08:34:08Z count:6
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?encryption=none&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp#🇷🇺 Russia
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@89.223.124.93:443?flow=xtls-rprx-vision&pbk=rLkjhzhSAJrey5Qv3624_5B-MpViafV2dDdDCnqn_l4&security=reality&sni=dfgdfgb.wey-land.net&fp=safari#🇷🇺 Russia
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?flow=xtls-rprx-vision&pbk=t2iopaZn9-fADmIi4taXbGUV6wFTFku4eGi8KISuZAM&security=reality&sni=gmbasdasd.wey-land.net&fp=safari#🇷🇺 Russia
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?flow=xtls-rprx-vision&pbk=t2iopaZn9-fADmIi4taXbGUV6wFTFku4eGi8KISuZAM&security=reality&sni=gmbasdasd.wey-land.net&fp=edge#🇷🇺 Russia
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@89.223.124.93:443?flow=xtls-rprx-vision&security=reality&sni=dfgdfgb.wey-land.net&fp=qq&pbk=rLkjhzhSAJrey5Qv3624_5B-MpViafV2dDdDCnqn_l4#🇷🇺 Russia
+vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=6d2f8a41c9e705b3&sni=net-api-ctl.galioncc.com&type=tcp&fp=edge#🇷🇺 Russia
 # source:aviamastersgh updated:2026-11-18T01:16:18Z count:1
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
 # source:AetrisVPN_white updated:2026-11-18T04:56:27Z count:5
