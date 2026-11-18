@@ -33,11 +33,9 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=realit
 # source:igareck updated:2026-11-18T20:03:40Z count:2
 vless://de56df45-938c-4bc2-a344-8f06796e6c9c@66.90.92.186:443?flow=xtls-rprx-vision&security=reality&sni=81e34.veloradigital.xyz&pbk=ybX004U4zDJO-8Us7GBU9-uyg3Va5WCsZLefbx47gmI&sid=c04db97b&fp=chrome#🇷🇺 Russia
 vless://de56df45-938c-4bc2-a344-8f06796e6c9c@66.90.92.186:443?flow=xtls-rprx-vision&security=reality&sni=81e34.veloradigital.xyz&pbk=ybX004U4zDJO-8Us7GBU9-uyg3Va5WCsZLefbx47gmI&sid=c04db97b&fp=ios#🇷🇺 Russia
-# source:aviamastersgh updated:2026-11-18T20:06:19Z count:4
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&flow=xtls-rprx-vision&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&sni=m.media-amazon.com&type=tcp&headerType=none&host=m.media-amazon.com&path=/&fp=chrome#🇺🇸 United States
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=38917fx.es1.h1clayd.click&fp=edge&sid=d5501b156391e01d&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&mode=auto&encryption=none#🇪🇸 Spain
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&spx=%2F&type=xhttp&fp=qq#🇪🇸 Spain
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&security=reality&type=xhttp&sni=38917fx.es1.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&fp=safari#🇪🇸 Spain
+# source:aviamastersgh updated:2026-11-18T23:52:13Z count:2
+vless://bf5129f1-31f5-4edf-a07a-27ec31b26c1d@13.212.76.161:2087?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=mail-verify.io3.sg&fp=chrome&pbk=H0dDVjwNAkNU9u1vyWWrf8D14Yam2BnoaBZ1oH5WgDE&sid=3b41440ab6399385#🇸🇬 Singapore
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6&fp=edge#🇸🇬 Singapore
 # source:AetrisVPN_white updated:2026-11-18T12:22:08Z count:1
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
 # source:AetrisVPN_global updated:2026-11-18T20:10:15Z count:2
