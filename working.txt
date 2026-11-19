@@ -1,5 +1,6 @@
-# source:SoliSpirit updated:2026-11-19T14:47:30Z count:1
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&encryption=none&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&host=swdist.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=fa514b83#UNKNOWN
+# source:SoliSpirit updated:2026-11-19T18:26:15Z count:2
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?mode=gun&security=reality&encryption=none&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&fp=chrome&type=grpc&sni=emberworks.cloud&sid=ea322b8b5b015812#🇩🇪 Germany
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇭🇰 Hong Kong
 # source:wiki updated:2026-11-19T17:28:42Z count:8
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?type=grpc&security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812#🇩🇪 Germany
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#🇬🇧 United Kingdom
