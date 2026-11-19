@@ -1,8 +1,8 @@
-# source:SoliSpirit updated:2026-11-19T03:58:30Z count:4
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?security=reality&encryption=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=4935e4t.de25.h1clayd.click&sid=6976d670818644cc#🇩🇪 Germany
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4935e4t.de25.h1clayd.click&fp=chrome&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&spx=/&type=tcp&headerType=none#🇩🇪 Germany
-vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?security=reality&encryption=none&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=static.selectel.ru&sid=0d716963661ef982#🇵🇱 Poland
+# source:SoliSpirit updated:2026-11-19T07:35:03Z count:4
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#UNKNOWN
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&encryption=none&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&host=swdist.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=fa514b83#🇭🇰 Hong Kong
 vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.selectel.ru&fp=chrome&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&sid=0d716963661ef982#🇵🇱 Poland
+vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?security=reality&encryption=none&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=static.selectel.ru&sid=0d716963661ef982#🇵🇱 Poland
 # source:wiki updated:2026-11-19T06:37:30Z count:5
 vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.selectel.ru&fp=chrome&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&sid=0d716963661ef982#🇵🇱 Poland
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#🇭🇰 Hong Kong
