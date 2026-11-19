@@ -17,13 +17,10 @@ vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none
 vless://bf5129f1-31f5-4edf-a07a-27ec31b26c1d@13.212.76.161:2087?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=mail-verify.io3.sg&fp=chrome&pbk=H0dDVjwNAkNU9u1vyWWrf8D14Yam2BnoaBZ1oH5WgDE&sid=3b41440ab6399385#🇸🇬 Singapore
 # source:AetrisVPN_white updated:2026-11-18T12:22:08Z count:1
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
-# source:AetrisVPN_global updated:2026-11-19T07:16:28Z count:6
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@78ec29x.fi2.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=WCuIW5EhUUfvOtDeVO-M7NjwXaE20zinTv3rpQ9erxs&security=reality&sid=6f2d8ece33a96159&sni=78ec29x.fi2.h1clayd.click&spx=%2F&type=xhttp&fp=firefox#🇫🇮 Finland
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=edge#🇫🇮 Finland
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&fp=chrome#🇩🇪 Germany
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp&fp=chrome#🇬🇧 United Kingdom
-vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?flow=xtls-rprx-vision&type=raw&security=reality&sni=static.selectel.ru&fp=firefox&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&sid=0d716963661ef982#🇵🇱 Poland
+# source:AetrisVPN_global updated:2026-11-19T10:52:43Z count:3
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp&fp=chrome#UNKNOWN
 vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.selectel.ru&fp=firefox&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&sid=0d716963661ef982#🇵🇱 Poland
+vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?flow=xtls-rprx-vision&type=raw&security=reality&sni=static.selectel.ru&fp=firefox&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&sid=0d716963661ef982#🇵🇱 Poland
 # source:FLAT447_black updated:2026-11-19T07:17:23Z count:3
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇭🇰 Hong Kong
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp&fp=chrome#🇭🇰 Hong Kong
