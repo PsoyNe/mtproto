@@ -11,9 +11,8 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?encry
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=chrome&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none#🇯🇵 Japan
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#🇳🇱 Netherlands
-# source:igareck updated:2026-11-18T20:03:40Z count:2
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@66.90.92.186:443?flow=xtls-rprx-vision&security=reality&sni=81e34.veloradigital.xyz&pbk=ybX004U4zDJO-8Us7GBU9-uyg3Va5WCsZLefbx47gmI&sid=c04db97b&fp=chrome#🇷🇺 Russia
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@66.90.92.186:443?flow=xtls-rprx-vision&security=reality&sni=81e34.veloradigital.xyz&pbk=ybX004U4zDJO-8Us7GBU9-uyg3Va5WCsZLefbx47gmI&sid=c04db97b&fp=ios#🇷🇺 Russia
+# source:igareck updated:2026-11-19T10:47:43Z count:1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=safari#UNKNOWN
 # source:aviamastersgh updated:2026-11-19T03:37:09Z count:1
 vless://bf5129f1-31f5-4edf-a07a-27ec31b26c1d@13.212.76.161:2087?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=mail-verify.io3.sg&fp=chrome&pbk=H0dDVjwNAkNU9u1vyWWrf8D14Yam2BnoaBZ1oH5WgDE&sid=3b41440ab6399385#🇸🇬 Singapore
 # source:AetrisVPN_white updated:2026-11-18T12:22:08Z count:1
