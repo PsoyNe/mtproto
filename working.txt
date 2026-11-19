@@ -27,8 +27,19 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?secur
 vless://bf5129f1-31f5-4edf-a07a-27ec31b26c1d@13.212.76.161:2087?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=mail-verify.io3.sg&fp=chrome&pbk=H0dDVjwNAkNU9u1vyWWrf8D14Yam2BnoaBZ1oH5WgDE&sid=3b41440ab6399385#🇸🇬 Singapore
 # source:AetrisVPN_white updated:2026-11-19T18:05:53Z count:1
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=#🇸🇪 Sweden
-# source:AetrisVPN_global updated:2026-11-19T14:29:15Z count:1
-vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&sni=www.apple.com&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28#🇸🇬 Singapore
+# source:AetrisVPN_global updated:2026-11-19T18:08:10Z count:12
+vless://7d01efa0-fd13-4574-887c-435082a278cb@195.26.26.172:443?security=reality&pbk=BDotlcSZPRi1TqUoG_AHZwGy3cX_YaBgP1kyRbbu6Hg&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&fp=chrome&spx=%2F6d461fc1ed0b74f&type=raw&sni=beta.www.cloudflare.com&sid=5d1f62#🇩🇪 Germany
+vless://5ad489fa-f6ef-4b5f-b32d-e402c78014c3@194.5.192.31:443?flow=xtls-rprx-vision&security=reality&sni=wordpress.org&fp=firefox&pbk=tT00Dzsxp9Abw1Iv0YFTcrmjXZm2Z1oEO-UX8Y0Noyo&sid=53a3a94ab9224f5d#🇩🇪 Germany
+vless://5ad489fa-f6ef-4b5f-b32d-e402c78014c3@162.217.248.172:443?flow=xtls-rprx-vision&security=reality&sni=wordpress.org&fp=firefox&pbk=tT00Dzsxp9Abw1Iv0YFTcrmjXZm2Z1oEO-UX8Y0Noyo&sid=53a3a94ab9224f5d#🇺🇸 United States
+vless://3965a281-8d97-47b9-af7c-ac01f274b05c@176.126.122.236:443?flow=xtls-rprx-vision&security=reality&sni=eslfast.com&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4#🇺🇸 United States
+vless://3965a281-8d97-47b9-af7c-ac01f274b05c@87.120.106.21:443?flow=xtls-rprx-vision&security=reality&sni=game.worldoftanks.eu&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4#🇺🇸 United States
+vless://88a209b0-5dd9-493f-9cae-ace820544a24@62.60.232.250:8443?flow=xtls-rprx-vision&security=reality&sni=77.88.8.8&fp=firefox&pbk=tm1f7W3RTgSx1F6NsoE32TborUxVe1udZQr4LhDAIio&sid=c9927d0548a2fcd1#🇭🇰 Hong Kong
+vless://058a0d1d-0cf9-4da8-b323-f86a5459226f@103.252.91.140:443?flow=xtls-rprx-vision&fp=firefox&pbk=pqm3uwi4igGi8XbqSnlbOMb6JUgmCaF-e_YcKWvrMUM&security=reality&sid=be9ad6e06ec8e762&sni=vsaxas.puffixhosting.com&type=raw#🇨🇴 Colombia
+vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cOnDGs0VQDa-LnjQNWLb1w2jyso0EqZ0epfDCTrNrA8&sid=274aec426d8627f2&sni=node-kz-1.nztpro.com#UNKNOWN
+vless://058a0d1d-0cf9-4da8-b323-f86a5459226f@103.252.91.140:443?flow=xtls-rprx-vision&security=reality&sni=vsaxas.puffixhosting.com&fp=firefox&pbk=pqm3uwi4igGi8XbqSnlbOMb6JUgmCaF-e_YcKWvrMUM&sid=be9ad6e06ec8e762#🇨🇴 Colombia
+vless://8ef21edc-9fa0-4132-a56e-048f8a4832b1@130.78.25.51:443?flow=xtls-rprx-vision&security=reality&sni=du-forum-de-memu.keno.su&fp=firefox&pbk=NEahgeoyN3JVFtopvDlLjTY2-a4CyPS3-A-qWEztOmo&sid=d4f6a8c1b2e3f9aa#🇩🇪 Germany
+vless://f59f02e8-9d66-48e8-afc2-2ce7972d51bd@restful-haggot.xrent.cloud:10666?flow=xtls-rprx-vision&type=raw&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=FRAR39JkMtmSLC1fsZxLehEittKBpdTlZqj0cf3k4Rc&sid=d94d3f6d21961589#🇩🇪 Germany
+vless://0685f27d-4590-4000-80fa-dedfa2057a6b@153.56.230.223:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0XRMPf_m9Y1lf8DJ_95Lim4pVe-1aXUq5pagsGeu428&sni=lisbonjs.mooo.com#🇩🇪 Germany
 # source:FLAT447_black updated:2026-11-19T14:30:00Z count:8
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&spx=%2F&type=xhttp#🇪🇸 Spain
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?type=xhttp&security=reality&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es9.h1clayd.click&mode=auto#🇪🇸 Spain
