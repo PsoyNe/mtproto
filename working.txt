@@ -1,10 +1,12 @@
 # source:SoliSpirit updated:2026-11-19T11:10:52Z count:2
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&encryption=none&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&host=swdist.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=fa514b83#🇭🇰 Hong Kong
 vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?security=reality&encryption=none&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=static.selectel.ru&sid=0d716963661ef982#🇵🇱 Poland
-# source:wiki updated:2026-11-19T10:14:40Z count:3
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.101.89:443?flow=xtls-rprx-vision&security=reality&sni=app.streamru11.net&fp=firefox&pbk=N4UEx-wOBPyy2jxONWocg2tOXSyRIVjfYbZaAJT61QE&sid=984505d2&encryption=none&type=tcp#🇳🇱 Netherlands
+# source:wiki updated:2026-11-19T13:50:06Z count:5
+vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@45.131.111.145:9889?encryption=none&security=reality&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&sni=tiktok.transitbp2systems.com&fp=firefox&type=tcp&flow=xtls-rprx-vision#UNKNOWN
 vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static.selectel.ru&fp=chrome&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&sid=0d716963661ef982#🇵🇱 Poland
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?encryption=none&security=reality&sni=38917fx.es9.h1clayd.click&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&spx=%2F&type=xhttp&mode=auto&path=%2F#🇪🇸 Spain
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#UNKNOWN
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?security=reality&type=xhttp&path=%2F&packetEncoding=xudp&sni=38917fx.es1.h1clayd.click&fp=edge&sid=d5501b156391e01d&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&mode=auto&encryption=none#🇪🇸 Spain
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#UNKNOWN
 # source:roosterkid updated:2026-11-18T12:16:48Z count:1
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=chrome&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none#🇯🇵 Japan
 # source:DukeMehdi updated:2026-11-08T09:09:08Z count:1
