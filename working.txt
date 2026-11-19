@@ -21,8 +21,12 @@ vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es9.h1clayd.click:443?encry
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?security=reality&type=xhttp&packetEncoding=xudp&sni=38917fx.es9.h1clayd.click&sid=d5501b156391e01d&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&mode=auto&fp=qq#🇪🇸 Spain
 # source:aviamastersgh updated:2026-11-19T21:44:57Z count:1
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp&fp=qq#🇭🇰 Hong Kong
-# source:AetrisVPN_white updated:2026-11-19T18:05:53Z count:1
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?security=reality&sni=emberworks.cloud&fp=firefox&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&type=grpc&serviceName=#🇸🇪 Sweden
+# source:AetrisVPN_white updated:2026-11-19T21:46:20Z count:5
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#🇩🇪 Germany
+vless://7c4574cc-6396-44d1-8427-60b91467264e@37.18.15.192:2056?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=android.eads.ru&pbk=8Wm7HmrEFFmPb1YBujIdnoV2ebynl1wBMJp_v2oiwiM&sid=ce680883ad484149&fp=qq#🇫🇷 France
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&sni=swdist.apple.com&insecure=0&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&flow=xtls-rprx-vision#🇭🇰 Hong Kong
+vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@48.102.172.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VRzl6zA8rOorqy2veXbTaImRBxQfXw1v3-REhx6EpHQ&security=reality&sid=225ef9f7843ac533&sni=prsv-forum-combeck-let-s-go.keno.su&type=tcp#🇸🇪 Sweden
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&spx=%2F&type=xhttp&fp=safari#🇪🇸 Spain
 # source:AetrisVPN_global updated:2026-11-19T18:08:10Z count:12
 vless://7d01efa0-fd13-4574-887c-435082a278cb@195.26.26.172:443?security=reality&pbk=BDotlcSZPRi1TqUoG_AHZwGy3cX_YaBgP1kyRbbu6Hg&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&fp=chrome&spx=%2F6d461fc1ed0b74f&type=raw&sni=beta.www.cloudflare.com&sid=5d1f62#🇩🇪 Germany
 vless://5ad489fa-f6ef-4b5f-b32d-e402c78014c3@194.5.192.31:443?flow=xtls-rprx-vision&security=reality&sni=wordpress.org&fp=firefox&pbk=tT00Dzsxp9Abw1Iv0YFTcrmjXZm2Z1oEO-UX8Y0Noyo&sid=53a3a94ab9224f5d#🇩🇪 Germany
