@@ -19,9 +19,15 @@ vless://bf5129f1-31f5-4edf-a07a-27ec31b26c1d@13.212.76.161:2087?encryption=none&
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@94.139.250.226:443?security=reality&sni=net-api-ctl.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#🇷🇺 Russia
 # source:AetrisVPN_global updated:2026-11-19T14:29:15Z count:1
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&sni=www.apple.com&fp=firefox&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&sid=07a66150eac3db28#🇸🇬 Singapore
-# source:FLAT447_black updated:2026-11-19T10:53:23Z count:2
+# source:FLAT447_black updated:2026-11-19T14:30:00Z count:8
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&spx=%2F&type=xhttp#🇪🇸 Spain
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?type=xhttp&security=reality&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es9.h1clayd.click&mode=auto#🇪🇸 Spain
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?encryption=none&security=reality&sni=38917fx.es9.h1clayd.click&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&spx=%2F&type=xhttp&mode=auto&path=%2F#🇪🇸 Spain
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es1.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=b3cd32g.es1.h1clayd.click&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&spx=%2F&fp=random#🇪🇸 Spain
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&security=reality&type=xhttp&sni=38917fx.es1.h1clayd.click&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&fp=safari#🇪🇸 Spain
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?type=xhttp&security=reality&fp=chrome&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click#🇪🇸 Spain
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@b3cd32g.es9.h1clayd.click:443?encryption=none&security=reality&sni=b3cd32g.es9.h1clayd.click&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&spx=%2F&type=grpc&mode=gun#🇪🇸 Spain
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp&fp=chrome#UNKNOWN
 # source:FLAT447_white updated:2026-11-19T03:41:02Z count:4
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&spx=%2F&type=xhttp&fp=edge#🇪🇸 Spain
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es9.h1clayd.click:443?security=reality&type=xhttp&packetEncoding=xudp&sni=38917fx.es9.h1clayd.click&sid=d5501b156391e01d&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&mode=auto&fp=safari#🇪🇸 Spain
