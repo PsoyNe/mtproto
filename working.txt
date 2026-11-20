@@ -1,6 +1,7 @@
-# source:SoliSpirit updated:2026-11-20T09:09:00Z count:2
-vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@48.102.172.114:443?security=reality&encryption=none&pbk=VRzl6zA8rOorqy2veXbTaImRBxQfXw1v3-REhx6EpHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=prsv-forum-combeck-let-s-go.keno.su&sid=225ef9f7843ac533#🇸🇪 Sweden
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&type=tcp&headerType=none#🇬🇧 United Kingdom
+# source:SoliSpirit updated:2026-11-20T12:16:02Z count:3
+vless://1fba2b1d-21c7-4110-80b6-5ddfd5407cf8@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp&headerType=none#🇩🇪 Germany
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=/#UNKNOWN
 # source:wiki updated:2026-11-20T08:08:27Z count:3
 vless://7c4574cc-6396-44d1-8427-60b91467264e@37.18.15.192:2056?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=8Wm7HmrEFFmPb1YBujIdnoV2ebynl1wBMJp_v2oiwiM&security=reality&sid=ce680883ad484149&sni=android.eads.ru&type=raw#UNKNOWN
 vless://f1e221a2-b4bc-4e59-a8e7-81324788b377@food.ebaniyautist.com:443?encryption=none&security=reality&sni=sun9-37.userapi.com&fp=firefox&pbk=4Su0-tgE1LOcvkrgkhbqwcSx0xP4dr5Wh6gvhtxg0Gk&sid=7935022d536cccb8&spx=%2F&flow=xtls-rprx-vision#UNKNOWN
