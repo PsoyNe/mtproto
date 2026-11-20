@@ -22,12 +22,12 @@ vless://c1f4f185-5786-40c9-893f-2f100b7165f2@130.49.172.150:30007?encryption=non
 vless://c1f4f185-5786-40c9-893f-2f100b7165f2@130.49.172.150:30010?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu71.cdn77.icu&type=tcp&fp=qq#UNKNOWN
 vless://c1f4f185-5786-40c9-893f-2f100b7165f2@130.49.172.150:30007?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu93.cdn77.icu&type=tcp&fp=safari#UNKNOWN
 vless://c1f4f185-5786-40c9-893f-2f100b7165f2@130.49.172.150:30010?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu71.cdn77.icu&type=tcp&fp=chrome#🇦🇹 Austria
-# source:aviamastersgh updated:2026-11-20T01:25:08Z count:5
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇸🇬 Singapore
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F&fp=ios#🇭🇰 Hong Kong
+# source:aviamastersgh updated:2026-11-20T05:04:18Z count:5
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=qq#🇫🇮 Finland
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F&fp=qq#🇭🇰 Hong Kong
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇸🇬 Singapore
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇭🇰 Hong Kong
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇬🇧 United Kingdom
 # source:AetrisVPN_white updated:2026-11-20T01:26:32Z count:3
 vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@48.102.172.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VRzl6zA8rOorqy2veXbTaImRBxQfXw1v3-REhx6EpHQ&security=reality&sid=225ef9f7843ac533&sni=prsv-forum-combeck-let-s-go.keno.su&type=tcp#🇸🇪 Sweden
 vless://7c4574cc-6396-44d1-8427-60b91467264e@37.18.15.192:2056?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=android.eads.ru&pbk=8Wm7HmrEFFmPb1YBujIdnoV2ebynl1wBMJp_v2oiwiM&sid=ce680883ad484149&fp=qq#🇫🇷 France
