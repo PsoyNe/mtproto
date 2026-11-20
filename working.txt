@@ -27,10 +27,12 @@ vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=non
 vless://f1e221a2-b4bc-4e59-a8e7-81324788b377@food.ebaniyautist.com:443?security=reality&sni=sun9-37.userapi.com&fp=firefox&pbk=4Su0-tgE1LOcvkrgkhbqwcSx0xP4dr5Wh6gvhtxg0Gk&sid=7935022d536cccb8&spx=%2F&flow=xtls-rprx-vision#UNKNOWN
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&host=swdist.apple.com#🇭🇰 Hong Kong
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇩🇪 Germany
-# source:FLAT447_black updated:2026-11-20T11:59:19Z count:3
+# source:FLAT447_black updated:2026-11-20T15:37:30Z count:5
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#🇸🇬 Singapore
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇸🇬 Singapore
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#🇭🇰 Hong Kong
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#UNKNOWN
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F#UNKNOWN
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F#🇭🇰 Hong Kong
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#🇸🇬 Singapore
 # source:FLAT447_white updated:2026-11-20T11:59:43Z count:2
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#UNKNOWN
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&sni=swdist.apple.com&insecure=0&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&flow=xtls-rprx-vision#🇭🇰 Hong Kong
