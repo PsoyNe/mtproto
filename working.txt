@@ -47,12 +47,9 @@ vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.178.197:443?type=raw&flow=xt
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@lesson4.schoolpizorbz.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=lesson4.schoolpizorbz.xyz&pbk=EUuZAVtneL8O7MgjETmHvOyInaxqJu2RD6hiFQdDPwk&sid=0df067145606c0b0&fp=firefox#🇵🇱 Poland
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.178.197:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lesson4.schoolpizorbz.xyz&fp=firefox&pbk=EUuZAVtneL8O7MgjETmHvOyInaxqJu2RD6hiFQdDPwk&sid=0df067145606c0b0&flow=xtls-rprx-vision#🇵🇱 Poland
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@lesson14.schoolpizorbz.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=lesson14.schoolpizorbz.xyz&pbk=G465rpA3czwxSTrjkcl0KK6HohO5G8do2MxjcRbULSA&sid=d52f9a703c9bf2d9&fp=firefox#🇵🇱 Poland
-# source:FLAT447_black updated:2026-11-27T12:19:47Z count:5
-vless://0444647e-6388-4c4b-9847-1fcd5bc101ea@91.192.158.104:443?flow=xtls-rprx-vision&fp=firefox&pbk=97CMGywXeHWMpnvLx59xcg6Pqb4_ZN7aqPyeaek8D2U&security=reality&sid=0aeec6de7d3d1a15&sni=az-fi-01-c8iyj203.farmerly.cc&type=raw#🇫🇮 Finland
-vless://da9fa513-d8a6-48a0-b266-d31062375070@87.120.106.95:443?type=xhttp&security=reality&fp=firefox&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&sni=samoanews.com&host=samoanews.com&mode=auto#UNKNOWN
-vless://fc2c3252-08cc-4b7c-ae27-cf85f2af3270@87.120.106.95:443?encryption=none&fp=firefox&host=www.gr-cdn.com&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=www.gr-cdn.com&type=xhttp#UNKNOWN
-vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?flow=xtls-rprx-vision&fp=firefox&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&security=reality&sid=497b9fa9b6050f45&sni=www.tele2.se&type=raw#🇸🇪 Sweden
-vless://7c768ae5-33eb-4460-b901-cffa40948c5f@5.253.31.24:443?flow=xtls-rprx-vision&security=reality&sni=ind.luna-nodes.com&fp=firefox&pbk=gsLmlhHyrirOHrVV1_rYiQvrrZn2nkqH7SPCYQQnpyc&sid=3ec20ac098953ce9&type=raw#🇮🇳 India
+# source:FLAT447_black updated:2026-11-27T22:57:40Z count:2
+vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@217.60.179.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&fp=firefox&pbk=vk6TInAbIN-86i6EkR_vbnZjpapfq5WM4hIhwRl0FVY&sid=50198c562d354968#🇩🇪 Germany
+vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@217.60.179.99:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&fp=firefox&pbk=vk6TInAbIN-86i6EkR_vbnZjpapfq5WM4hIhwRl0FVY&sid=50198c562d354968#🇩🇪 Germany
 # source:FLAT447_white updated:2026-11-27T12:19:57Z count:2
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@81.94.148.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7Vxh4zGjWhTahJSLBItfK8ywBHKI_R1MULmNV7vn3DA&security=reality&sid=21c48be99d7e13c8&sni=m6.richhoodfoc.com&type=raw#🇳🇱 Netherlands
 vless://da9fa513-d8a6-48a0-b266-d31062375070@87.120.106.95:443?encryption=none&fp=firefox&host=samoanews.com&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=samoanews.com&type=xhttp#UNKNOWN
