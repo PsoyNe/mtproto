@@ -64,8 +64,8 @@ vless://7c768ae5-33eb-4460-b901-cffa40948c5f@5.253.31.24:443?flow=xtls-rprx-visi
 # source:FLAT447_white updated:2026-11-27T12:19:57Z count:2
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@81.94.148.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7Vxh4zGjWhTahJSLBItfK8ywBHKI_R1MULmNV7vn3DA&security=reality&sid=21c48be99d7e13c8&sni=m6.richhoodfoc.com&type=raw#🇳🇱 Netherlands
 vless://da9fa513-d8a6-48a0-b266-d31062375070@87.120.106.95:443?encryption=none&fp=firefox&host=samoanews.com&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=samoanews.com&type=xhttp#UNKNOWN
-# source:JeBance updated:2026-10-31T22:32:51Z count:1
-vless://4f4e8129-56ae-4b6e-baeb-ebdd07d8b2c5@95.163.215.8:5003?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=eh.vk.com&type=raw#🇷🇺 Russia
+# source:JeBance updated:2026-11-27T15:58:36Z count:1
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FmH06hSx9EeWD2rSoIDxr_LT0kuspuA3CnWBAOciZhE&security=reality&sid=9dcf31a09fe98e19&sni=ruforeign3.richhoodfoc.com&type=raw#🇷🇺 Russia
 # source:ebrasha updated:2026-11-27T15:49:51Z count:19
 vless://8a18247c-be3c-4059-b1ea-eca16426f72d@static1.berluno.ir:1155?security=reality&encryption=none&pbk=Tqaj1t2O6IgtkpPSv864aEteMBYI8soPDCYsaJ93BRE&host=www.yahoo.com&headerType=none&fp=edge&spx=%2Fexample&type=tcp&sni=tgju.org&sid=6ab3373ea7da156f#🇩🇪 Germany
 vless://09c439fd-489e-4ae3-9264-ee9f08996c53@de2.fusetea.ir:5050?encryption=none&security=reality&type=tcp&headerType=none&sni=app.stiga.com&fp=chrome&pbk=hgshDDK6SMiUnehNsuzhP5vQA0kDgCfW2LIw1zLft20&sid=3a774e5fbeb5d406#🇩🇪 Germany
