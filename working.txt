@@ -20,9 +20,8 @@ vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?enc
 vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#UNKNOWN
 vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇫🇷 France
 vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#🇩🇪 Germany
-# source:aviamastersgh updated:2026-11-20T19:12:38Z count:2
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?security=reality&type=tcp&sni=swdist.apple.com&host=swdist.apple.com&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&allowInsecure=1&fp=qq#🇬🇧 United Kingdom
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?security=reality&encryption=none&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=fa514b83#🇸🇬 Singapore
+# source:aviamastersgh updated:2026-11-27T19:28:32Z count:1
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#🇩🇪 Germany
 # source:AetrisVPN_white updated:2026-11-27T12:16:25Z count:15
 vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@9.247.54.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aAsW1IJ4AAo1YLoNfMVVrGy2UylILIYqezLj0vf9ACY&security=reality&sid=bbc7488552d438db&sni=ndas.kramiliantha.sbs&type=tcp#🇳🇱 Netherlands
 vless://9c69546a-e435-4037-bc63-f9e5829a8be3@200.96.108.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PmoNrv5LLpq-_paCNpZi7SzpebOHfCo0eKhGryi-hyw&security=reality&sid=ad689b917ae65620&sni=static.lantri.buzz&type=tcp#🇩🇪 Germany
