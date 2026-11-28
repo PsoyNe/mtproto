@@ -62,8 +62,8 @@ vless://0d4807a7-260b-4d66-a71e-5e793c46c66e@82.202.182.12:5269?encryption=none&
 vless://d6f86ea2-e932-4ee8-aa54-e5203d42c173@168.113.141.142:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=frames.larchstatic.com&pbk=wnFfa53eVYfaa1v98XRqL69tON4bzHRjTN0lA0w50BM&sid=8c5d1aac44870976&fp=safari#🇪🇪 Estonia
 vless://d6f86ea2-e932-4ee8-aa54-e5203d42c173@168.113.141.142:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=frames.larchstatic.com&pbk=wnFfa53eVYfaa1v98XRqL69tON4bzHRjTN0lA0w50BM&sid=8c5d1aac44870976&fp=chrome#🇪🇪 Estonia
 vless://d6f86ea2-e932-4ee8-aa54-e5203d42c173@168.113.141.142:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=frames.larchstatic.com&pbk=wnFfa53eVYfaa1v98XRqL69tON4bzHRjTN0lA0w50BM&sid=8c5d1aac44870976&fp=firefox#UNKNOWN
-# source:aviamastersgh updated:2026-11-27T19:28:32Z count:1
-vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#🇩🇪 Germany
+# source:aviamastersgh updated:2026-11-28T21:36:26Z count:1
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@6bf329t.nl22.h1clayd.shop:443?security=reality&encryption=none&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=6bf329t.nl22.h1clayd.shop&sid=92aee92130b46fe2#🇳🇱 Netherlands
 # source:AetrisVPN_white updated:2026-11-28T18:20:47Z count:3
 vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@13.143.128.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3uiDKbB2f5vxitCqJw0bMlav7WZ5K-GOhnipoBXYDjk&security=reality&sid=2df68da56b149ec7&sni=cedarvault.agency&type=tcp#UNKNOWN
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#UNKNOWN
