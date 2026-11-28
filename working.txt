@@ -88,11 +88,12 @@ vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@194.77.69.113:443?type=raw&security
 vless://1a5f9e1c-8dd1-48e1-8df0-a652d4b590c9@free.fugui.lol:54075?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=ios&packet-encoding=xudp&sni=swdist.apple.com&type=raw&host=swdist.apple.com&path=%2F#🇭🇰 Hong Kong
 vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@13.143.128.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3uiDKbB2f5vxitCqJw0bMlav7WZ5K-GOhnipoBXYDjk&security=reality&sid=2df68da56b149ec7&sni=cedarvault.agency&type=tcp#UNKNOWN
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@ws.quantum.vodka:1443?type=raw&flow=xtls-rprx-vision&sni=sbmicro732.gangtype.com&fp=firefox&security=reality&pbk=tiSf3jh90rNFcTdAPeAvzWs_dohRoRY9GKnE0OrygX8&sid=87e8c03a4b9aa6c5#🇳🇱 Netherlands
-# source:FLAT447_black updated:2026-11-28T18:24:24Z count:4
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#UNKNOWN
+# source:FLAT447_black updated:2026-11-28T21:40:23Z count:5
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com#UNKNOWN
+vless://c086ebf9-79b8-4da8-aaf0-3d243dc945ee@45.15.169.84:777?encryption=none&fp=firefox&pbk=kuU6kCQnPZSnNxA2oAy3tBwE3puma1NOSAsrH-DiJmo&security=reality&sid=06c60aeaf70291&sni=it.nvidia.com&type=grpc#🇳🇱 Netherlands
+vless://42d9e647-3176-4753-9a03-c114c54650bc@104.171.139.172:443?security=reality&encryption=none&pbk=he69aiGpjMvuSvrd2U-zHYe-g5GJz3dgMfbiEXb-9RI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=naiti.stroimvmeste.icu&sid=d8bebe86e31c66d7#🇱🇻 Latvia
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@194.77.69.113:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=nexz747.richhoodfoc.com&pbk=UIHULCJ5JuqZHg66twX_GyTtaSE4Zu7XN2VCX4Hc0l0&sid=cf7cd748e03a6be8&fp=firefox&spx=/#🇩🇪 Germany
 vless://1a5f9e1c-8dd1-48e1-8df0-a652d4b590c9@free.fugui.lol:54075?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=ios&packet-encoding=xudp&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#🇭🇰 Hong Kong
-vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@48.102.134.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kYtxYTRn2PIWTpinaHviHkvxrUzi_1kfVhNE3zMKugU&security=reality&sid=a4f8c2e9b1d703a6&sni=nuhaibeb.online&type=tcp#🇫🇮 Finland
 # source:FLAT447_white updated:2026-11-27T12:19:57Z count:2
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@81.94.148.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7Vxh4zGjWhTahJSLBItfK8ywBHKI_R1MULmNV7vn3DA&security=reality&sid=21c48be99d7e13c8&sni=m6.richhoodfoc.com&type=raw#🇳🇱 Netherlands
 vless://da9fa513-d8a6-48a0-b266-d31062375070@87.120.106.95:443?encryption=none&fp=firefox&host=samoanews.com&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=samoanews.com&type=xhttp#UNKNOWN
