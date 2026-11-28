@@ -64,10 +64,11 @@ vless://d6f86ea2-e932-4ee8-aa54-e5203d42c173@168.113.141.142:443?encryption=none
 vless://d6f86ea2-e932-4ee8-aa54-e5203d42c173@168.113.141.142:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=frames.larchstatic.com&pbk=wnFfa53eVYfaa1v98XRqL69tON4bzHRjTN0lA0w50BM&sid=8c5d1aac44870976&fp=firefox#UNKNOWN
 # source:aviamastersgh updated:2026-11-28T21:36:26Z count:1
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@6bf329t.nl22.h1clayd.shop:443?security=reality&encryption=none&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=6bf329t.nl22.h1clayd.shop&sid=92aee92130b46fe2#🇳🇱 Netherlands
-# source:AetrisVPN_white updated:2026-11-28T18:20:47Z count:3
-vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@13.143.128.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3uiDKbB2f5vxitCqJw0bMlav7WZ5K-GOhnipoBXYDjk&security=reality&sid=2df68da56b149ec7&sni=cedarvault.agency&type=tcp#UNKNOWN
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#UNKNOWN
-vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@48.102.134.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kYtxYTRn2PIWTpinaHviHkvxrUzi_1kfVhNE3zMKugU&security=reality&sid=a4f8c2e9b1d703a6&sni=nuhaibeb.online&type=tcp#UNKNOWN
+# source:AetrisVPN_white updated:2026-11-28T21:37:37Z count:4
+vless://632a4f96-e02f-4f9f-a995-8a5f1ffffd04@18.193.69.87:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B2ZQo5nrMuDMDePWEcLkJB41hYRMkguc6FzbMm4cYyI&security=reality&sni=www.amazon.com&type=tcp#🇩🇪 Germany
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#🇳🇱 Netherlands
+vless://3bb9bbf8-3972-4b85-8b8a-7cfa8ac6acb9@13.143.128.147:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3uiDKbB2f5vxitCqJw0bMlav7WZ5K-GOhnipoBXYDjk&security=reality&sid=2df68da56b149ec7&sni=cedarvault.agency&type=tcp#🇩🇪 Germany
+vless://c086ebf9-79b8-4da8-aaf0-3d243dc945ee@45.15.169.84:777?encryption=none&fp=firefox&pbk=kuU6kCQnPZSnNxA2oAy3tBwE3puma1NOSAsrH-DiJmo&security=reality&sid=06c60aeaf70291&sni=it.nvidia.com&type=grpc#🇳🇱 Netherlands
 # source:AetrisVPN_global updated:2026-11-28T18:23:33Z count:5
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.166.159:443?flow=xtls-rprx-vision&fp=firefox&pbk=NWjKZ4WCyMLE-6qpwm4L1-kUbV0Mpx3SDmwvYrvvET4&security=reality&sid=cb455a7c358b4d84&sni=neae474.gangtype.com&type=raw&encryption=none#🇳🇱 Netherlands
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@6bf329t.nl22.h1clayd.shop:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM&sid=92aee92130b46fe2&sni=6bf329t.nl22.h1clayd.shop#🇳🇱 Netherlands
