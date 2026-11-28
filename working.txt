@@ -36,20 +36,8 @@ vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?enc
 vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#🇩🇪 Germany
 # source:AetrisVPN_white updated:2026-11-28T05:32:13Z count:1
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#🇳🇱 Netherlands
-# source:AetrisVPN_global updated:2026-11-28T05:35:06Z count:13
-vless://bab5032a-b457-45df-b4a3-d956e31c402c@de.losserver.live:443?security=reality&pbk=IRvdF1XS_Tb7Kw9U3huKIbPPxOfRVEsGFPUllw1kCho&fp=firefox&spx=%2F27ca1ee84bf30d3&type=raw&sni=de.losserver.live&sid=7b#🇩🇪 Germany
-vless://bab5032a-b457-45df-b4a3-d956e31c402c@31.76.100.80:443?encryption=none&fp=firefox&pbk=IRvdF1XS_Tb7Kw9U3huKIbPPxOfRVEsGFPUllw1kCho&security=reality&sid=7b&sni=de.losserver.live&type=tcp#🇩🇪 Germany
-vless://62484100-3328-4ca6-8d10-621449f5c28e@45.15.152.25:777?encryption=none&fp=firefox&pbk=SmFqMVk50kdiCQbLZBoWdlJOmtj6uB0rWJzUuat9-S8&security=reality&sid=ba3f&sni=amd.com&type=grpc#🇫🇮 Finland
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#🇳🇱 Netherlands
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@ws.quantum.vodka:1443?type=raw&flow=xtls-rprx-vision&sni=sbmicro732.gangtype.com&fp=firefox&security=reality&pbk=tiSf3jh90rNFcTdAPeAvzWs_dohRoRY9GKnE0OrygX8&sid=87e8c03a4b9aa6c5#🇳🇱 Netherlands
-vless://55ba7b31-b0eb-4362-9c9b-fc53b0a53fab@31.77.138.211:443?flow=xtls-rprx-vision&security=reality&sni=fi3.setlocation.top&fp=chrome&pbk=CfkGhr_sLpU9RJouAtTUnX1CpDTK6hRKEl01wMtN4Ro&sid=ff67a6fea811a566&spx=%2F&type=raw#🇪🇪 Estonia
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@ws.quantum.vodka:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sbmicro732.gangtype.com&fp=firefox&security=reality&pbk=tiSf3jh90rNFcTdAPeAvzWs_dohRoRY9GKnE0OrygX8&sid=87e8c03a4b9aa6c5#🇳🇱 Netherlands
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@157.22.190.6:443?security=reality&encryption=none&pbk=3DwompA3EdEejqnn5BGvHkbshedjlCt9CNBY_TfkyXo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusamicro1.richhoodfoc.com&sid=14b02c0ff03113ed#🇺🇸 United States
-vless://018cc321-b683-400c-84df-9f94fc14e44f@45.86.158.111:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=IPe3TKJ84tWTMFnJH2ZtO93O_F548wzGKcs2Q00aCn4&sid=aaf5efcafe9a1b1e&sni=c3f5cb9e.fi23.h1clayd.shop#🇫🇮 Finland
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=raw#UNKNOWN
-vless://55ba7b31-b0eb-4362-9c9b-fc53b0a53fab@31.77.138.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CfkGhr_sLpU9RJouAtTUnX1CpDTK6hRKEl01wMtN4Ro&security=reality&sid=ff67a6fea811a566&sni=fi3.setlocation.top&type=tcp#UNKNOWN
-vless://018cc321-b683-400c-84df-9f94fc14e44f@45.86.158.111:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=c3f5cb9e.fi23.h1clayd.shop&fp=firefox&pbk=IPe3TKJ84tWTMFnJH2ZtO93O_F548wzGKcs2Q00aCn4&sid=aaf5efcafe9a1b1e#UNKNOWN
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.8.195:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lesson12.schoolpizorbz.xyz&fp=firefox&pbk=pFmgbfd2eUSmge-8f0dF7Yjo8OFaZWuZ3UWC7EXjwmg&sid=ae3cdc4eca7374a8#UNKNOWN
+# source:AetrisVPN_global updated:2026-11-28T08:35:31Z count:1
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@5.188.72.82:443?flow=xtls-rprx-vision&security=reality&sni=natakeh743.lkfnvflknsdn.com&fp=firefox&pbk=4yLVV3M8vaHpurPJ2NvTwhWkhWmsNxPYtQMwEHYQBxc&sid=e6accea441fd1d07#🇳🇱 Netherlands
 # source:FLAT447_black updated:2026-11-28T05:35:33Z count:4
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@45.15.167.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jJL6_Mg1oY5gX6RRRBu_BgoW-pkDQnfajYVEQ3qg_m4&security=reality&sid=f61b0a5407ee1ccb&sni=nemicro504.gangtype.com&type=tcp#🇳🇱 Netherlands
 vless://d6ff96ab-fe0f-4b1d-b4c3-4dfa8cb1ef13@87.120.106.95:443?type=xhttp&security=reality&fp=firefox&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&sni=rss.worldoftanks.asia&host=rss.worldoftanks.asia#🇺🇸 United States
